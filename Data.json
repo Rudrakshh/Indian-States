@@ -750,19 +750,19 @@
                   "id":1,
                   "name":"Backwaters of Alleppey",
                   "description":"The backwaters of Alleppey are a network of lagoons, canals, and lakes that offer a unique boating experience amidst the serene natural beauty.",
-                  "image":"https://images.unsplash.com/photo-1623931785563-4c4a2e1a3a26"
+                  "image":"https://media.istockphoto.com/id/481916851/photo/house-boat-in-backwaters.webp?b=1&s=170667a&w=0&k=20&c=AXjHZjVfZy7dInbpIAhgYSi-ilSihUx2TZP9m3PYE38="
                },
                {
                   "id":2,
                   "name":"Fort Kochi",
                   "description":"Fort Kochi is a historic neighborhood in Kochi that showcases the colonial influence on Kerala's architecture and culture.",
-                  "image":"https://images.unsplash.com/photo-1609883079191-6b1b7e0b4ea0"
+                  "image":"https://media.istockphoto.com/id/664355912/photo/santa-cruz-cathedral-basilica-church-in-fort-kochi-kerala-india.webp?b=1&s=170667a&w=0&k=20&c=1pc7-WaSdLOJmUqhyon1BFyqSrSUYTRlUjwtvptzeEQ="
                },
                {
                   "id":3,
                   "name":"Athirapally Waterfalls",
                   "description":"Athirapally Waterfalls is a scenic waterfall located in Thrissur district that offers breathtaking views amidst the lush green forest.",
-                  "image":"https://images.unsplash.com/photo-1619307657850-df5fbb4e9e3d"
+                  "image":"https://media.istockphoto.com/id/1348019471/photo/athirapally-waterfall-kerla-india.webp?b=1&s=170667a&w=0&k=20&c=LP4ktfkIc04PLG59IDN_oI8YTQb3R8vVhGPJYBl2-lQ="
                },
                {
                   "id":4,
@@ -774,13 +774,13 @@
                   "id":5,
                   "name":"Padmanabhaswamy Temple",
                   "description":"Padmanabhaswamy Temple is a famous Hindu temple located in Thiruvananthapuram that showcases the Dravidian style of architecture.",
-                  "image":"https://images.unsplash.com/photo-1606254314089-9c0f8d5c8c92"
+                  "image":"https://media.istockphoto.com/id/507707260/photo/tea-plantation-in-india.webp?b=1&s=170667a&w=0&k=20&c=E8tHf8S9PE0rfz9rA-d3dcJfLYNs-Orx5xrUCAjo7PY="
                },
                {
                   "id":6,
                   "name":"Bekal Fort",
                   "description":"Bekal Fort is a historic fort located in Kasaragod district that offers panoramic views of the Arabian Sea.",
-                  "image":"https://images.unsplash.com/photo-1571986285652-7d5d9d7f4b5a"
+                  "image":"https://media.istockphoto.com/id/1332351939/photo/kasaragod-kerala-india-august-02-2021-view-of-ancient-historical-fort-namely-bekal-fort.webp?b=1&s=170667a&w=0&k=20&c=2_NlF4AiJTR19lYdZgcFZsnuY-M8IUYMRIkwPKZLYG4="
                }
             ],
             "thingsToDo":[
@@ -788,37 +788,37 @@
                   "id":1,
                   "name":"Experience the Backwaters of Alleppey",
                   "description":"Take a boat ride and experience the serene beauty of the backwaters of Alleppey. You can also stay in a houseboat and enjoy the traditional Kerala cuisine while cruising through the backwaters.",
-                  "image":"https://images.unsplash.com/photo-1623931785563-4c4a2e1a3a26"
+                  "image":"https://media.istockphoto.com/id/510011776/photo/alleppey-backwaters.webp?b=1&s=170667a&w=0&k=20&c=m_E80AEUrdWmTMei6VFts4Wi_Gayy_VC6kMkvUSwXbM="
                },
                {
                   "id":2,
                   "name":"Explore the Wildlife Sanctuaries",
                   "description":"Kerala is home to various wildlife sanctuaries such as Periyar Wildlife Sanctuary, Silent Valley National Park, and Wayanad Wildlife Sanctuary. You can take a jeep safari or trek through the forests to spot various species of animals and birds.",
-                  "image":"https://images.unsplash.com/photo-1579688416076-3d8e0f8e8b7f"
+                  "image":"https://media.istockphoto.com/id/652914676/photo/periyar-lake-and-wildlife-sanctuary-thekkady-kerala-india.webp?b=1&s=170667a&w=0&k=20&c=9L60g5XIdBYbYlTsf8YXyCSzTYPSf5uP2qSrHzVGWHc="
                },
                {
                   "id":3,
                   "name":"Visit the Hill Stations",
                   "description":"Kerala has several hill stations such as Munnar, Wayanad, and Vagamon that offer breathtaking views of the mountains and valleys. You can go trekking, camping, or just relax amidst the cool climate and natural beauty.",
-                  "image":"https://images.unsplash.com/photo-1619307657850-df5fbb4e9e3d"
+                  "image":"https://media.istockphoto.com/id/506921606/photo/western-ghats-mountains.webp?b=1&s=170667a&w=0&k=20&c=DWMWEGVdhb0ToJo5uDCDeTo7V2gS8JfO0X64f9IYsF8="
                },
                {
                   "id":4,
                   "name":"Experience the Ayurvedic Spa",
                   "description":"Kerala is known for its traditional Ayurvedic treatments that offer relaxation and rejuvenation. You can experience various therapies such as massage, yoga, and meditation in the Ayurvedic spas located across the state.",
-                  "image":"https://images.unsplash.com/photo-1616765209142-5b1e3c9e7d9b"
+                  "image":"https://media.istockphoto.com/id/1265403719/photo/karkidaka-rice-soup-or-kanji-herbal-monsoon-food-kerala-india.webp?b=1&s=170667a&w=0&k=20&c=pAVX2EuM3PtcY5Cm26Ao3gxz36rFtXbihlg2AZ0wQSc="
                },
                {
                   "id":5,
                   "name":"Attend the Festivals",
                   "description":"Kerala is known for its vibrant festivals such as Onam, Vishu, and Thrissur Pooram that showcase the culture and traditions of the state. You can witness the colorful processions, fireworks, and traditional performances during these festivals.",
-                  "image":"https://images.unsplash.com/photo-1557844354-761f2560c7d0"
+                  "image":"https://media.istockphoto.com/id/1279649394/photo/jackfruit-chips.webp?b=1&s=170667a&w=0&k=20&c=ozJUVcoXLXWpCceYY0h9fY8seoolp5dEAOVI8KTVx-Y="
                },
                {
                   "id":6,
                   "name":"Indulge in the Cuisine",
                   "description":"Kerala cuisine is famous for its spicy and flavorful dishes such as appam, puttu, and fish curry. You can try the traditional dishes in the local restaurants or attend a cooking class to learn how to cook them yourself.",
-                  "image":"https://images.unsplash.com/photo-1600169247784-1a6f6d7c0d4e"
+                  "image":"https://media.istockphoto.com/id/1156896083/photo/cheese-masala-dosa-recipe-with-sambar-and-chutney-selective-focus.webp?b=1&s=170667a&w=0&k=20&c=5IG3QwgKh9ph1O3f0SsodXkFFlHM7EDSFU1KbRqz1ts="
                }
             ],
             "events":[
@@ -826,31 +826,31 @@
                   "id":1,
                   "name":"Onam",
                   "description":"Onam is a popular harvest festival in Kerala, celebrated to mark the homecoming of King Mahabali.",
-                  "image":"https://images.unsplash.com/photo-1630865776736-0c4f1c7d5c3e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+                  "image":"https://media.istockphoto.com/id/1273243432/photo/closeup-of-an-colorful-traditional-indian-art-known-as-rangoli.webp?b=1&s=170667a&w=0&k=20&c=w-SkX2zCdExist3H9WFA1sV9NCmRkJTTlQsDVpVUUA4="
                },
                {
                   "id":2,
                   "name":"Vishu",
                   "description":"Vishu is a Malayalam New Year festival celebrated in Kerala, marked by the first day of the Medam month.",
-                  "image":"https://images.unsplash.com/photo-1618802468842-3e8d9b3c5a4f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+                  "image":"https://media.istockphoto.com/id/1322434000/photo/vishukkani-or-vishu-sight-kerala-festival.webp?b=1&s=170667a&w=0&k=20&c=s7wMIHvvL7wSus0-zPGRjApGw6XkhbwF9WBIW0Rmy-o="
                },
                {
                   "id":3,
                   "name":"Thrissur Pooram",
                   "description":"Thrissur Pooram is a popular temple festival held at the Vadakkunnathan Temple in Thrissur, Kerala.",
-                  "image":"https://images.unsplash.com/photo-1618062578623-6b7c7a6c5b0e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+                  "image":"https://media.istockphoto.com/id/484056606/photo/decorated-elephant.webp?b=1&s=170667a&w=0&k=20&c=q_Dw-tIpfbuyIUuDMOoKuEN9Omdn4hTkH78Mc7WL8KU="
                },
                {
                   "id":4,
                   "name":"Nehru Trophy Boat Race",
                   "description":"Nehru Trophy Boat Race is a popular boat race held in the Punnamada Lake in Alappuzha, Kerala.",
-                  "image":"https://images.unsplash.com/photo-1568657319956-9b5c24b5a0a5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+                  "image":"https://media.istockphoto.com/id/483722682/photo/traditional-snake-boat-on-the-kerala-backwaters-in-india.webp?b=1&s=170667a&w=0&k=20&c=r9-hT5CGz6ackuZlSELPVjE8jVWumbfX6XE_KiG7Soc="
                },
                {
                   "id":5,
                   "name":"Kerala Literature Festival",
                   "description":"Kerala Literature Festival is an annual literary festival held in Kozhikode, Kerala, which brings together writers, poets, and intellectuals from around the world.",
-                  "image":"https://images.unsplash.com/photo-1543862567-7a3ca0b98d6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+                  "image":"https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8S2VyYWxhJTIwTGl0ZXJhdHVyZSUyMEZlc3RpdmFsfGVufDB8fDB8fHww&auto=format&fit=crop&w=1000&q=60"
                }
             ],
             "facts":[
