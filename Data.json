@@ -820,33 +820,6 @@
          "description":"Kerala cuisine is famous for its spicy and flavorful dishes such as appam, puttu, and fish curry. You can try the traditional dishes in the local restaurants or attend a cooking class to learn how to cook them yourself.",
          "image":"https://images.unsplash.com/photo-1600169247784-1a6f6d7c0d4e"
       }
-   ],
-   "events":[
-      {
-         "id":1,
-         "name":"Onam",
-         "description":"Onam is the biggest festival in Kerala and celebrates the homecoming of King Mahabali. The festival is celebrated with traditional food, dance, and music."
-      },
-      {
-         "id":2,
-         "name":"Nehru Trophy Boat Race",
-         "description":"The Nehru Trophy Boat Race is a popular event held in Alappuzha every year. It features colorful boats racing through the backwaters of Kerala."
-      },
-      {
-         "id":3,
-         "name":"Thrissur Pooram",
-         "description":"Thrissur Pooram is a cultural festival held in Thrissur that features a parade of decorated elephants, fireworks, and traditional music."
-      },
-      {
-         "id":4,
-         "name":"Kochi-Muziris Biennale",
-         "description":"The Kochi-Muziris Biennale is an international contemporary art exhibition held in Kochi every two years. It showcases the works of both Indian and international artists."
-      },
-      {
-         "id":5,
-         "name":"International Film Festival of Kerala",
-         "description":"The International Film Festival of Kerala is held annually in Thiruvananthapuram. It features films from around the world and attracts filmmakers, actors, and film enthusiasts from all over the world."
-      }
    ]
 }
 
