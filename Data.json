@@ -863,7 +863,156 @@
                "Kerala is known for its backwaters, beaches, and hill stations.",
                "Kerala has the highest life expectancy and the lowest infant mortality rate in India."
             ]
-         }
+         },
+         {
+   "id":7,
+   "title":"Maharashtra",
+   "cities":[
+      {
+         "id":1,
+         "name":"Mumbai",
+         "description":"Mumbai is the capital city of Maharashtra and also the financial capital of India."
+      },
+      {
+         "id":2,
+         "name":"Pune",
+         "description":"Pune is a city in Maharashtra known for its pleasant weather and educational institutions."
+      },
+      {
+         "id":3,
+         "name":"Nashik",
+         "description":"Nashik is a city in Maharashtra known for its vineyards and ancient temples."
+      },
+      {
+         "id":4,
+         "name":"Aurangabad",
+         "description":"Aurangabad is a city in Maharashtra known for its UNESCO World Heritage sites such as Ajanta and Ellora caves."
+      },
+      {
+         "id":5,
+         "name":"Nagpur",
+         "description":"Nagpur is a city in Maharashtra known for its oranges and also called the 'Orange City'."
+      },
+      {
+         "id":6,
+         "name":"Kolhapur",
+         "description":"Kolhapur is a city in Maharashtra known for its rich history, culture, and cuisine."
+      }
+   ],
+   "about":"Maharashtra is a state located in the western region of India. It is the second-most populous state in India and is known for its rich history, diverse culture, and natural beauty. Maharashtra is home to several prominent cities, including Mumbai, Pune, and Nagpur. The state is also known for its delicious cuisine, which includes popular dishes such as vada pav, pav bhaji, and misal pav.",
+   "attractions":[
+      {
+         "id":1,
+         "name":"Gateway of India",
+         "description":"The Gateway of India is an iconic monument located in Mumbai, built to commemorate the visit of King George V and Queen Mary to India in 1911.",
+         "image":"https://images.unsplash.com/photo-1505481354245-9d8f2a3a4d9c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fG1haHVtYW5haHJhc3RhcmlhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":2,
+         "name":"Shirdi Sai Baba Temple",
+         "description":"Shirdi Sai Baba Temple is a famous pilgrimage site located in Shirdi, Maharashtra, dedicated to the revered saint Sai Baba.",
+         "image":"https://images.unsplash.com/photo-1612108260673-7c6e9e3b2c0d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzJ8fHNoaXJkaSUyMGJhYmElMjB0ZW1wbGUlMjBzdGljZSUyMG1hc2hpbmclMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":3,
+         "name":"Ajanta Caves",
+         "description":"The Ajanta Caves are UNESCO World Heritage sites located near Aurangabad, Maharashtra, known for their ancient rock-cut caves and sculptures.",
+         "image":"https://images.unsplash.com/photo-1602739749075-d5e5e4a3d4e9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIzfHxhbmltYWwlMjBjb2xvciUyMGFqYW50YSUyMGFuZCUyMGVsbG9yYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":4,
+         "name":"Elephanta Caves",
+         "description":"The Elephanta Caves are located on an island near Mumbai and are known for their ancient rock-cut temples and sculptures.",
+         "image":"https://images.unsplash.com/photo-1587395180346-6d0a5c7d4f5d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGVsZXBodGFuYXJhJTIwY2F2ZSUyMGFsbCUyMG1hc2hpbmclMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":5,
+         "name":"Panchgani",
+         "description":"Panchgani is a hill station located near Pune, Maharashtra, known for its scenic beauty and strawberry farms.",
+         "image":"https://images.unsplash.com/photo-1609739487977-c1c6a9b5b7e4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGFuY2hnYW5pJTIwaGlsbCUyMHN0YXRpb24lMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":6,
+         "name":"Sula Vineyards",
+         "description":"Sula Vineyards is a winery located in Nashik, Maharashtra, known for its award-winning wines and scenic vineyards.",
+         "image":"https://images.unsplash.com/photo-1571122150197-9c3f1f05d2a7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHZpbmV5YXJkJTIwd2luZXJneSUyMG9mJTIwbmFzaGlrJTIwdGhlJTIwdmluZXlhcmQlMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      }
+   ],
+   "facts":[
+      "Maharashtra is the second-most populous state in India with over 112 million people.",
+      "Mumbai, the capital city of Maharashtra, is the financial capital of India and the home of Bollywood.",
+      "The official language of Maharashtra is Marathi.",
+      "Maharashtra has a literacy rate of 82.3%.",
+      "The state of Maharashtra was formed on May 1, 1960, after the reorganization of states in India.",
+      "Maharashtra shares its borders with Gujarat, Madhya Pradesh, Chhattisgarh, Telangana, Karnataka, and Goa.",
+      "The Ajanta and Ellora caves in Maharashtra are UNESCO World Heritage sites known for their ancient rock-cut caves and sculptures.",
+      "Maharashtra is known for its delicious cuisine, including popular dishes such as vada pav, pav bhaji, and misal pav."
+   ],
+   "thingsToDo":[
+      {
+         "id":1,
+         "name":"Elephanta Caves",
+         "description":"Visit the Elephanta Caves, a UNESCO World Heritage site located on an island near Mumbai, known for its ancient rock-cut caves and sculptures.",
+         "image":"https://images.unsplash.com/photo-1564135624575-77f8d5c5e7b5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGVsZXBodGFuYXJhJTIwY2F2ZSUyMG1hc2hpbmclMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":2,
+         "name":"Beach Hopping",
+         "description":"Explore the beautiful beaches of Maharashtra, such as Juhu Beach, Alibaug Beach, and Ganpatipule Beach.",
+         "image":"https://images.unsplash.com/photo-1558491289-ebaa0e9c9a5a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGJlYWNoJTIwaG9wcGluZyUyMGJlYWRzJTIwdG8lMjBtYWhhcmFzdHJhJTIwc3RyZWV0JTIwc2l0ZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":3,
+         "name":"Hiking in Western Ghats",
+         "description":"Go for a hike in the Western Ghats, a UNESCO World Heritage site and one of the eight 'hottest hotspots' of biological diversity in the world.",
+         "image":"https://images.unsplash.com/photo-1579547622763-4f6f4dca9b6a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fHdoaXRlc3BlY2lhbCUyMGdoYXRzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":4,
+         "name":"Visit Hill Stations",
+         "description":"Explore the scenic hill stations of Maharashtra, such as Lonavala, Mahabaleshwar, and Matheran.",
+         "image":"https://images.unsplash.com/photo-1606853349755-7b6b6d2a6c6e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhpbGwlMjBzdGF0aW9ucyUyMG1hc2hpbmclMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":5,
+         "name":"Visit Ajanta and Ellora Caves",
+         "description":"Visit the Ajanta and Ellora Caves, UNESCO World Heritage sites known for their ancient rock-cut caves and sculptures.",
+         "image":"https://images.unsplash.com/photo-1543269864-75eb9361a5e1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGplcmVteSUyMGFqYW50YSUyMGFuZCUyMGVsbG9yYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      }
+   ],
+   "events":[
+      {
+         "id":1,
+         "name":"Ganesh Chaturthi",
+         "description":"Ganesh Chaturthi is a popular Hindu festival celebrated in Maharashtra, which marks the birth of Lord Ganesha.",
+         "image":"https://images.unsplash.com/photo-1630381036557-7a6d7d7b7a6d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGdhbmVzaCUyMGNodXR1cnRoJTIwZmVzdGl2YWx8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":2,
+         "name":"Kala Ghoda Arts Festival",
+         "description":"Kala Ghoda Arts Festival is a popular annual arts festival held in Mumbai, which showcases various forms of art, such as music, dance, theater, and visual arts.",
+         "image":"https://images.unsplash.com/photo-1550684843-27a9b1f9cfc6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8a2FsYSUyMGdob2RhJTIwYXJ0cyUyMGZlc3RpdmFsJTIwYXJ0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":3,
+         "name":"Pune International Film Festival",
+         "description":"Pune International Film Festival is an annual film festival held in Pune, which showcases films from various countries and genres.",
+         "image":"https://images.unsplash.com/photo-1629017270684-4e7b6c0b6d2c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fHB1bmUlMjBpbnRlcm5hdGlvbmFsJTIwZmlsbSUyMGZlc3RpdmFsJTIwYXJ0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":4,
+         "name":"Maharashtra Day",
+         "description":"Maharashtra Day is celebrated on May 1 every year, to commemorate the formation of the state of Maharashtra.",
+         "image":"https://images.unsplash.com/photo-1519681393784-d120267933ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1haGFyYXN0cmElMjBkYXklMjBhcnN8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":5,
+         "name":"Sula Fest",
+         "description":"Sula Fest is an annual wine and music festival held in Nashik, which features performances by various artists and wine tasting sessions.",
+         "image":"https://images.unsplash.com/photo-1581361892766-c6a239b7e4f9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHN1bGElMjBmZXN0JTIwdGltZSUyMGZlc3RpdmFsJTIwYXJ0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      }
+   ]
+}
       ]
    }
 ]
