@@ -1012,6 +1012,148 @@
          "image":"https://images.unsplash.com/photo-1581361892766-c6a239b7e4f9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHN1bGElMjBmZXN0JTIwdGltZSUyMGZlc3RpdmFsJTIwYXJ0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
       }
    ]
+},
+         {
+   "id":8,
+   "title":"Tamil Nadu",
+   "cities":[
+      {
+         "id":1,
+         "name":"Chennai",
+         "description":"Chennai is the capital and largest city of Tamil Nadu, known for its beaches, temples, and vibrant culture."
+      },
+      {
+         "id":2,
+         "name":"Madurai",
+         "description":"Madurai is a city in Tamil Nadu, known for its ancient temples and rich cultural heritage."
+      },
+      {
+         "id":3,
+         "name":"Coimbatore",
+         "description":"Coimbatore is a city in Tamil Nadu, known for its textile and engineering industries."
+      },
+      {
+         "id":4,
+         "name":"Tiruchirappalli",
+         "description":"Tiruchirappalli is a city in Tamil Nadu, known for its historic temples and educational institutions."
+      },
+      {
+         "id":5,
+         "name":"Salem",
+         "description":"Salem is a city in Tamil Nadu, known for its textile and steel industries."
+      },
+      {
+         "id":6,
+         "name":"Tirunelveli",
+         "description":"Tirunelveli is a city in Tamil Nadu, known for its ancient temples and natural beauty."
+      }
+   ],
+   "about":"Tamil Nadu is a state in southern India, with Chennai as its capital. The state has a rich cultural heritage, and is known for its ancient temples, vibrant festivals, and delicious cuisine. Tamil Nadu is also an important industrial hub, with industries such as textiles, engineering, and automobile manufacturing.",
+   "attractions":[
+      {
+         "id":1,
+         "name":"Meenakshi Amman Temple",
+         "description":"Meenakshi Amman Temple is a historic temple in Madurai, Tamil Nadu, known for its intricate carvings and architecture.",
+         "image":"https://images.unsplash.com/photo-1519681393784-d120267933ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1haGFyYXN0cmElMjBkYXklMjBhcnN8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":2,
+         "name":"Marina Beach",
+         "description":"Marina Beach is a popular beach in Chennai, Tamil Nadu, known for its scenic beauty and vibrant atmosphere.",
+         "image":"https://images.unsplash.com/photo-1611465751259-5d6c7f8b0e6e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFyaW5hJTIwYmVhY2glMjBjaGFubmVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":3,
+         "name":"Brihadeeswarar Temple",
+         "description":"Brihadeeswarar Temple is a UNESCO World Heritage site in Thanjavur, Tamil Nadu, which is known for its ancient architecture and sculptures.",
+         "image":"https://images.unsplash.com/photo-1601876174075-7f7a2491c6e8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHRoYW5qYXZlJTIwYmVhY2glMjB0ZW1wbGF0ZXxlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":4,
+         "name":"Ooty",
+         "description":"Ooty is a popular hill station in Tamil Nadu, known for its scenic beauty and pleasant climate.",
+         "image":"https://images.unsplash.com/photo-1559574383-5b4e5c52cd6a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fG9vdHklMjB5b3R5JTIwbmF0dXJlfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":5,
+         "name":"Mahabalipuram",
+         "description":"Mahabalipuram is a historic town in Tamil Nadu, known for its ancient temples and rock-cut sculptures.",
+         "image":"https://images.unsplash.com/photo-1581291758257-cd08d9fcf0e3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFoYWJhbalBpcHVyYW18ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+      }
+   ],
+   "thingsToDo":[
+      {
+         "id":1,
+         "name":"Visit the Nilgiri Mountains",
+         "description":"Take a trip to the Nilgiri Mountains in Tamil Nadu and enjoy the scenic beauty of the hills and valleys.",
+         "image":"https://images.unsplash.com/photo-1574839807997-7d3e4c1d5d21?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bmlsaWdyaSUyMG1vdW50YWluc3xlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":2,
+         "name":"Explore the Chettinad Region",
+         "description":"Explore the Chettinad region in Tamil Nadu, known for its unique architecture, cuisine, and culture.",
+         "image":"https://images.unsplash.com/photo-1602522986976-5b4e9d8eacca?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZXR0aW5hZCUyMGNoZXR0aW5hZCUyMHN0YXRpb25zfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":3,
+         "name":"Visit the Pichavaram Mangrove Forest",
+         "description":"Visit the Pichavaram Mangrove Forest in Tamil Nadu and explore the unique ecosystem of the mangroves.",
+         "image":"https://images.unsplash.com/photo-1557247085-5c106a5b6f9c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFuZ3JvdmUlMjBmb3Jlc3QlMjBwaWNoYXZhcm0lMjBtYW5nb3ZlJTIwZm9yZXN0JTIwcGlnaHRzJTIwdG9vbHxlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":4,
+         "name":"Attend a Bharatanatyam Performance",
+         "description":"Attend a Bharatanatyam performance in Tamil Nadu and experience the beauty of this classical dance form.",
+         "image":"https://images.unsplash.com/photo-1606786325466-e7e9a4d5c6d9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmhhcmF0YW5hdHltYXRyYW18ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":5,
+         "name":"Visit the Vivekananda Rock Memorial",
+         "description":"Visit the Vivekananda Rock Memorial in Kanyakumari, Tamil Nadu, and pay homage to Swami Vivekananda.",
+         "image":"https://images.unsplash.com/photo-1560295706-554b7e4c7d9b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmlyZWthbmFuZGElMjByb2NrJTIwbWVtb3JpYWwlMjBrdW5haWt5dW1hcmljfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+      }
+   ],
+   "events":[
+      {
+         "id":1,
+         "name":"Pongal",
+         "description":"Pongal is a four-day harvest festival celebrated in Tamil Nadu, which marks the beginning of the Tamil calendar year.",
+         "image":"https://images.unsplash.com/photo-1579451867829-6b4a6d2c9e2f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9uZ2FsJTIwbmFkdXxlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":2,
+         "name":"Madurai Meenakshi Temple Festival",
+         "description":"The Madurai Meenakshi Temple Festival is a 10-day festival celebrated in Madurai, Tamil Nadu, which attracts thousands of pilgrims from all over India.",
+         "image":"https://images.unsplash.com/photo-1601611241971-3e7a5e7f3e8b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fG1hZHVpcmlzfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":3,
+         "name":"Natyanjali Dance Festival",
+         "description":"The Natyanjali Dance Festival is a five-day dance festival held in Chidambaram, Tamil Nadu, which celebrates the classical dance form of Bharatanatyam.",
+         "image":"https://images.unsplash.com/photo-1507914527120-9f5c70b9c4b4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmhhcmF0YW5hdHltYXRyYW18ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":4,
+         "name":"Mahamaham Festival",
+         "description":"The Mahamaham Festival is a Hindu festival held in Kumbakonam, Tamil Nadu, which is celebrated once every 12 years and is considered to be very auspicious.",
+         "image":"https://images.unsplash.com/photo-1607445091503-0d5c7c4c7a96?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8a3VtYmFrb25hbSUyMG1haGFtYW18ZW58MHwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      {
+         "id":5,
+         "name":"Karthigai Deepam",
+         "description":"Karthigai Deepam is a Hindu festival celebrated in Tamil Nadu, which involves lighting lamps and candles to signify the victory of good over evil.",
+         "image":"https://images.unsplash.com/photo-1606151555912-bb5e9a9d6b25?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGthcnRoaWdhaSUyMGRlZXBhbXxlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      }
+   ],
+   "facts":[
+      "Tamil Nadu is the 11th largest state in India by area.",
+      "The official language of Tamil Nadu is Tamil.",
+      "The literacy rate of Tamil Nadu is 80.3%.",
+      "Tamil Nadu has a population of over 77 million people.",
+      "Tamil Nadu shares its borders with Kerala, Karnataka, and Andhra Pradesh.",
+      "The famous Brihadeeswarar Temple in Thanjavur, Tamil Nadu, is a UNESCO World Heritage Site.",
+      "Tamil Nadu is known for its famous dish, the 'dosa'."
+   ]
 }
       ]
    }
