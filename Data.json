@@ -865,451 +865,451 @@
             ]
          },
          {
-   "id":7,
-   "title":"Maharashtra",
-   "cities":[
-      {
-         "id":1,
-         "name":"Mumbai",
-         "description":"Mumbai is the capital city of Maharashtra and also the financial capital of India."
-      },
-      {
-         "id":2,
-         "name":"Pune",
-         "description":"Pune is a city in Maharashtra known for its pleasant weather and educational institutions."
-      },
-      {
-         "id":3,
-         "name":"Nashik",
-         "description":"Nashik is a city in Maharashtra known for its vineyards and ancient temples."
-      },
-      {
-         "id":4,
-         "name":"Aurangabad",
-         "description":"Aurangabad is a city in Maharashtra known for its UNESCO World Heritage sites such as Ajanta and Ellora caves."
-      },
-      {
-         "id":5,
-         "name":"Nagpur",
-         "description":"Nagpur is a city in Maharashtra known for its oranges and also called the 'Orange City'."
-      },
-      {
-         "id":6,
-         "name":"Kolhapur",
-         "description":"Kolhapur is a city in Maharashtra known for its rich history, culture, and cuisine."
-      }
-   ],
-   "about":"Maharashtra is a state located in the western region of India. It is the second-most populous state in India and is known for its rich history, diverse culture, and natural beauty. Maharashtra is home to several prominent cities, including Mumbai, Pune, and Nagpur. The state is also known for its delicious cuisine, which includes popular dishes such as vada pav, pav bhaji, and misal pav.",
-   "attractions":[
-      {
-         "id":1,
-         "name":"Gateway of India",
-         "description":"The Gateway of India is an iconic monument located in Mumbai, built to commemorate the visit of King George V and Queen Mary to India in 1911.",
-         "image":"https://images.unsplash.com/photo-1505481354245-9d8f2a3a4d9c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fG1haHVtYW5haHJhc3RhcmlhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":2,
-         "name":"Shirdi Sai Baba Temple",
-         "description":"Shirdi Sai Baba Temple is a famous pilgrimage site located in Shirdi, Maharashtra, dedicated to the revered saint Sai Baba.",
-         "image":"https://images.unsplash.com/photo-1612108260673-7c6e9e3b2c0d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzJ8fHNoaXJkaSUyMGJhYmElMjB0ZW1wbGUlMjBzdGljZSUyMG1hc2hpbmclMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":3,
-         "name":"Ajanta Caves",
-         "description":"The Ajanta Caves are UNESCO World Heritage sites located near Aurangabad, Maharashtra, known for their ancient rock-cut caves and sculptures.",
-         "image":"https://images.unsplash.com/photo-1602739749075-d5e5e4a3d4e9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIzfHxhbmltYWwlMjBjb2xvciUyMGFqYW50YSUyMGFuZCUyMGVsbG9yYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":4,
-         "name":"Elephanta Caves",
-         "description":"The Elephanta Caves are located on an island near Mumbai and are known for their ancient rock-cut temples and sculptures.",
-         "image":"https://images.unsplash.com/photo-1587395180346-6d0a5c7d4f5d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGVsZXBodGFuYXJhJTIwY2F2ZSUyMGFsbCUyMG1hc2hpbmclMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":5,
-         "name":"Panchgani",
-         "description":"Panchgani is a hill station located near Pune, Maharashtra, known for its scenic beauty and strawberry farms.",
-         "image":"https://images.unsplash.com/photo-1609739487977-c1c6a9b5b7e4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGFuY2hnYW5pJTIwaGlsbCUyMHN0YXRpb24lMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":6,
-         "name":"Sula Vineyards",
-         "description":"Sula Vineyards is a winery located in Nashik, Maharashtra, known for its award-winning wines and scenic vineyards.",
-         "image":"https://images.unsplash.com/photo-1571122150197-9c3f1f05d2a7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHZpbmV5YXJkJTIwd2luZXJneSUyMG9mJTIwbmFzaGlrJTIwdGhlJTIwdmluZXlhcmQlMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      }
-   ],
-   "facts":[
-      "Maharashtra is the second-most populous state in India with over 112 million people.",
-      "Mumbai, the capital city of Maharashtra, is the financial capital of India and the home of Bollywood.",
-      "The official language of Maharashtra is Marathi.",
-      "Maharashtra has a literacy rate of 82.3%.",
-      "The state of Maharashtra was formed on May 1, 1960, after the reorganization of states in India.",
-      "Maharashtra shares its borders with Gujarat, Madhya Pradesh, Chhattisgarh, Telangana, Karnataka, and Goa.",
-      "The Ajanta and Ellora caves in Maharashtra are UNESCO World Heritage sites known for their ancient rock-cut caves and sculptures.",
-      "Maharashtra is known for its delicious cuisine, including popular dishes such as vada pav, pav bhaji, and misal pav."
-   ],
-   "thingsToDo":[
-      {
-         "id":1,
-         "name":"Elephanta Caves",
-         "description":"Visit the Elephanta Caves, a UNESCO World Heritage site located on an island near Mumbai, known for its ancient rock-cut caves and sculptures.",
-         "image":"https://images.unsplash.com/photo-1564135624575-77f8d5c5e7b5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGVsZXBodGFuYXJhJTIwY2F2ZSUyMG1hc2hpbmclMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":2,
-         "name":"Beach Hopping",
-         "description":"Explore the beautiful beaches of Maharashtra, such as Juhu Beach, Alibaug Beach, and Ganpatipule Beach.",
-         "image":"https://images.unsplash.com/photo-1558491289-ebaa0e9c9a5a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGJlYWNoJTIwaG9wcGluZyUyMGJlYWRzJTIwdG8lMjBtYWhhcmFzdHJhJTIwc3RyZWV0JTIwc2l0ZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":3,
-         "name":"Hiking in Western Ghats",
-         "description":"Go for a hike in the Western Ghats, a UNESCO World Heritage site and one of the eight 'hottest hotspots' of biological diversity in the world.",
-         "image":"https://images.unsplash.com/photo-1579547622763-4f6f4dca9b6a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fHdoaXRlc3BlY2lhbCUyMGdoYXRzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":4,
-         "name":"Visit Hill Stations",
-         "description":"Explore the scenic hill stations of Maharashtra, such as Lonavala, Mahabaleshwar, and Matheran.",
-         "image":"https://images.unsplash.com/photo-1606853349755-7b6b6d2a6c6e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhpbGwlMjBzdGF0aW9ucyUyMG1hc2hpbmclMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":5,
-         "name":"Visit Ajanta and Ellora Caves",
-         "description":"Visit the Ajanta and Ellora Caves, UNESCO World Heritage sites known for their ancient rock-cut caves and sculptures.",
-         "image":"https://images.unsplash.com/photo-1543269864-75eb9361a5e1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGplcmVteSUyMGFqYW50YSUyMGFuZCUyMGVsbG9yYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      }
-   ],
-   "events":[
-      {
-         "id":1,
-         "name":"Ganesh Chaturthi",
-         "description":"Ganesh Chaturthi is a popular Hindu festival celebrated in Maharashtra, which marks the birth of Lord Ganesha.",
-         "image":"https://images.unsplash.com/photo-1630381036557-7a6d7d7b7a6d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGdhbmVzaCUyMGNodXR1cnRoJTIwZmVzdGl2YWx8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":2,
-         "name":"Kala Ghoda Arts Festival",
-         "description":"Kala Ghoda Arts Festival is a popular annual arts festival held in Mumbai, which showcases various forms of art, such as music, dance, theater, and visual arts.",
-         "image":"https://images.unsplash.com/photo-1550684843-27a9b1f9cfc6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8a2FsYSUyMGdob2RhJTIwYXJ0cyUyMGZlc3RpdmFsJTIwYXJ0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":3,
-         "name":"Pune International Film Festival",
-         "description":"Pune International Film Festival is an annual film festival held in Pune, which showcases films from various countries and genres.",
-         "image":"https://images.unsplash.com/photo-1629017270684-4e7b6c0b6d2c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fHB1bmUlMjBpbnRlcm5hdGlvbmFsJTIwZmlsbSUyMGZlc3RpdmFsJTIwYXJ0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":4,
-         "name":"Maharashtra Day",
-         "description":"Maharashtra Day is celebrated on May 1 every year, to commemorate the formation of the state of Maharashtra.",
-         "image":"https://images.unsplash.com/photo-1519681393784-d120267933ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1haGFyYXN0cmElMjBkYXklMjBhcnN8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":5,
-         "name":"Sula Fest",
-         "description":"Sula Fest is an annual wine and music festival held in Nashik, which features performances by various artists and wine tasting sessions.",
-         "image":"https://images.unsplash.com/photo-1581361892766-c6a239b7e4f9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHN1bGElMjBmZXN0JTIwdGltZSUyMGZlc3RpdmFsJTIwYXJ0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      }
-   ]
-},
+            "id":7,
+            "title":"Maharashtra",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Mumbai",
+                  "description":"Mumbai is the capital city of Maharashtra and also the financial capital of India."
+               },
+               {
+                  "id":2,
+                  "name":"Pune",
+                  "description":"Pune is a city in Maharashtra known for its pleasant weather and educational institutions."
+               },
+               {
+                  "id":3,
+                  "name":"Nashik",
+                  "description":"Nashik is a city in Maharashtra known for its vineyards and ancient temples."
+               },
+               {
+                  "id":4,
+                  "name":"Aurangabad",
+                  "description":"Aurangabad is a city in Maharashtra known for its UNESCO World Heritage sites such as Ajanta and Ellora caves."
+               },
+               {
+                  "id":5,
+                  "name":"Nagpur",
+                  "description":"Nagpur is a city in Maharashtra known for its oranges and also called the 'Orange City'."
+               },
+               {
+                  "id":6,
+                  "name":"Kolhapur",
+                  "description":"Kolhapur is a city in Maharashtra known for its rich history, culture, and cuisine."
+               }
+            ],
+            "about":"Maharashtra is a state located in the western region of India. It is the second-most populous state in India and is known for its rich history, diverse culture, and natural beauty. Maharashtra is home to several prominent cities, including Mumbai, Pune, and Nagpur. The state is also known for its delicious cuisine, which includes popular dishes such as vada pav, pav bhaji, and misal pav.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Gateway of India",
+                  "description":"The Gateway of India is an iconic monument located in Mumbai, built to commemorate the visit of King George V and Queen Mary to India in 1911.",
+                  "image":"https://images.unsplash.com/photo-1505481354245-9d8f2a3a4d9c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fG1haHVtYW5haHJhc3RhcmlhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Shirdi Sai Baba Temple",
+                  "description":"Shirdi Sai Baba Temple is a famous pilgrimage site located in Shirdi, Maharashtra, dedicated to the revered saint Sai Baba.",
+                  "image":"https://images.unsplash.com/photo-1612108260673-7c6e9e3b2c0d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzJ8fHNoaXJkaSUyMGJhYmElMjB0ZW1wbGUlMjBzdGljZSUyMG1hc2hpbmclMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Ajanta Caves",
+                  "description":"The Ajanta Caves are UNESCO World Heritage sites located near Aurangabad, Maharashtra, known for their ancient rock-cut caves and sculptures.",
+                  "image":"https://images.unsplash.com/photo-1602739749075-d5e5e4a3d4e9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIzfHxhbmltYWwlMjBjb2xvciUyMGFqYW50YSUyMGFuZCUyMGVsbG9yYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Elephanta Caves",
+                  "description":"The Elephanta Caves are located on an island near Mumbai and are known for their ancient rock-cut temples and sculptures.",
+                  "image":"https://images.unsplash.com/photo-1587395180346-6d0a5c7d4f5d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGVsZXBodGFuYXJhJTIwY2F2ZSUyMGFsbCUyMG1hc2hpbmclMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Panchgani",
+                  "description":"Panchgani is a hill station located near Pune, Maharashtra, known for its scenic beauty and strawberry farms.",
+                  "image":"https://images.unsplash.com/photo-1609739487977-c1c6a9b5b7e4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGFuY2hnYW5pJTIwaGlsbCUyMHN0YXRpb24lMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":6,
+                  "name":"Sula Vineyards",
+                  "description":"Sula Vineyards is a winery located in Nashik, Maharashtra, known for its award-winning wines and scenic vineyards.",
+                  "image":"https://images.unsplash.com/photo-1571122150197-9c3f1f05d2a7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHZpbmV5YXJkJTIwd2luZXJneSUyMG9mJTIwbmFzaGlrJTIwdGhlJTIwdmluZXlhcmQlMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "facts":[
+               "Maharashtra is the second-most populous state in India with over 112 million people.",
+               "Mumbai, the capital city of Maharashtra, is the financial capital of India and the home of Bollywood.",
+               "The official language of Maharashtra is Marathi.",
+               "Maharashtra has a literacy rate of 82.3%.",
+               "The state of Maharashtra was formed on May 1, 1960, after the reorganization of states in India.",
+               "Maharashtra shares its borders with Gujarat, Madhya Pradesh, Chhattisgarh, Telangana, Karnataka, and Goa.",
+               "The Ajanta and Ellora caves in Maharashtra are UNESCO World Heritage sites known for their ancient rock-cut caves and sculptures.",
+               "Maharashtra is known for its delicious cuisine, including popular dishes such as vada pav, pav bhaji, and misal pav."
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Elephanta Caves",
+                  "description":"Visit the Elephanta Caves, a UNESCO World Heritage site located on an island near Mumbai, known for its ancient rock-cut caves and sculptures.",
+                  "image":"https://images.unsplash.com/photo-1564135624575-77f8d5c5e7b5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGVsZXBodGFuYXJhJTIwY2F2ZSUyMG1hc2hpbmclMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Beach Hopping",
+                  "description":"Explore the beautiful beaches of Maharashtra, such as Juhu Beach, Alibaug Beach, and Ganpatipule Beach.",
+                  "image":"https://images.unsplash.com/photo-1558491289-ebaa0e9c9a5a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGJlYWNoJTIwaG9wcGluZyUyMGJlYWRzJTIwdG8lMjBtYWhhcmFzdHJhJTIwc3RyZWV0JTIwc2l0ZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Hiking in Western Ghats",
+                  "description":"Go for a hike in the Western Ghats, a UNESCO World Heritage site and one of the eight 'hottest hotspots' of biological diversity in the world.",
+                  "image":"https://images.unsplash.com/photo-1579547622763-4f6f4dca9b6a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fHdoaXRlc3BlY2lhbCUyMGdoYXRzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Visit Hill Stations",
+                  "description":"Explore the scenic hill stations of Maharashtra, such as Lonavala, Mahabaleshwar, and Matheran.",
+                  "image":"https://images.unsplash.com/photo-1606853349755-7b6b6d2a6c6e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhpbGwlMjBzdGF0aW9ucyUyMG1hc2hpbmclMjBzdHJlZXQlMjBzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Visit Ajanta and Ellora Caves",
+                  "description":"Visit the Ajanta and Ellora Caves, UNESCO World Heritage sites known for their ancient rock-cut caves and sculptures.",
+                  "image":"https://images.unsplash.com/photo-1543269864-75eb9361a5e1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGplcmVteSUyMGFqYW50YSUyMGFuZCUyMGVsbG9yYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Ganesh Chaturthi",
+                  "description":"Ganesh Chaturthi is a popular Hindu festival celebrated in Maharashtra, which marks the birth of Lord Ganesha.",
+                  "image":"https://images.unsplash.com/photo-1630381036557-7a6d7d7b7a6d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGdhbmVzaCUyMGNodXR1cnRoJTIwZmVzdGl2YWx8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Kala Ghoda Arts Festival",
+                  "description":"Kala Ghoda Arts Festival is a popular annual arts festival held in Mumbai, which showcases various forms of art, such as music, dance, theater, and visual arts.",
+                  "image":"https://images.unsplash.com/photo-1550684843-27a9b1f9cfc6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8a2FsYSUyMGdob2RhJTIwYXJ0cyUyMGZlc3RpdmFsJTIwYXJ0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Pune International Film Festival",
+                  "description":"Pune International Film Festival is an annual film festival held in Pune, which showcases films from various countries and genres.",
+                  "image":"https://images.unsplash.com/photo-1629017270684-4e7b6c0b6d2c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fHB1bmUlMjBpbnRlcm5hdGlvbmFsJTIwZmlsbSUyMGZlc3RpdmFsJTIwYXJ0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Maharashtra Day",
+                  "description":"Maharashtra Day is celebrated on May 1 every year, to commemorate the formation of the state of Maharashtra.",
+                  "image":"https://images.unsplash.com/photo-1519681393784-d120267933ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1haGFyYXN0cmElMjBkYXklMjBhcnN8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Sula Fest",
+                  "description":"Sula Fest is an annual wine and music festival held in Nashik, which features performances by various artists and wine tasting sessions.",
+                  "image":"https://images.unsplash.com/photo-1581361892766-c6a239b7e4f9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHN1bGElMjBmZXN0JTIwdGltZSUyMGZlc3RpdmFsJTIwYXJ0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ]
+         },
          {
-   "id":8,
-   "title":"Tamil Nadu",
-   "cities":[
-      {
-         "id":1,
-         "name":"Chennai",
-         "description":"Chennai is the capital and largest city of Tamil Nadu, known for its beaches, temples, and vibrant culture."
-      },
-      {
-         "id":2,
-         "name":"Madurai",
-         "description":"Madurai is a city in Tamil Nadu, known for its ancient temples and rich cultural heritage."
-      },
-      {
-         "id":3,
-         "name":"Coimbatore",
-         "description":"Coimbatore is a city in Tamil Nadu, known for its textile and engineering industries."
-      },
-      {
-         "id":4,
-         "name":"Tiruchirappalli",
-         "description":"Tiruchirappalli is a city in Tamil Nadu, known for its historic temples and educational institutions."
-      },
-      {
-         "id":5,
-         "name":"Salem",
-         "description":"Salem is a city in Tamil Nadu, known for its textile and steel industries."
-      },
-      {
-         "id":6,
-         "name":"Tirunelveli",
-         "description":"Tirunelveli is a city in Tamil Nadu, known for its ancient temples and natural beauty."
-      }
-   ],
-   "about":"Tamil Nadu is a state in southern India, with Chennai as its capital. The state has a rich cultural heritage, and is known for its ancient temples, vibrant festivals, and delicious cuisine. Tamil Nadu is also an important industrial hub, with industries such as textiles, engineering, and automobile manufacturing.",
-   "attractions":[
-      {
-         "id":1,
-         "name":"Meenakshi Amman Temple",
-         "description":"Meenakshi Amman Temple is a historic temple in Madurai, Tamil Nadu, known for its intricate carvings and architecture.",
-         "image":"https://images.unsplash.com/photo-1519681393784-d120267933ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1haGFyYXN0cmElMjBkYXklMjBhcnN8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":2,
-         "name":"Marina Beach",
-         "description":"Marina Beach is a popular beach in Chennai, Tamil Nadu, known for its scenic beauty and vibrant atmosphere.",
-         "image":"https://images.unsplash.com/photo-1611465751259-5d6c7f8b0e6e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFyaW5hJTIwYmVhY2glMjBjaGFubmVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":3,
-         "name":"Brihadeeswarar Temple",
-         "description":"Brihadeeswarar Temple is a UNESCO World Heritage site in Thanjavur, Tamil Nadu, which is known for its ancient architecture and sculptures.",
-         "image":"https://images.unsplash.com/photo-1601876174075-7f7a2491c6e8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHRoYW5qYXZlJTIwYmVhY2glMjB0ZW1wbGF0ZXxlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":4,
-         "name":"Ooty",
-         "description":"Ooty is a popular hill station in Tamil Nadu, known for its scenic beauty and pleasant climate.",
-         "image":"https://images.unsplash.com/photo-1559574383-5b4e5c52cd6a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fG9vdHklMjB5b3R5JTIwbmF0dXJlfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":5,
-         "name":"Mahabalipuram",
-         "description":"Mahabalipuram is a historic town in Tamil Nadu, known for its ancient temples and rock-cut sculptures.",
-         "image":"https://images.unsplash.com/photo-1581291758257-cd08d9fcf0e3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFoYWJhbalBpcHVyYW18ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      }
-   ],
-   "thingsToDo":[
-      {
-         "id":1,
-         "name":"Visit the Nilgiri Mountains",
-         "description":"Take a trip to the Nilgiri Mountains in Tamil Nadu and enjoy the scenic beauty of the hills and valleys.",
-         "image":"https://images.unsplash.com/photo-1574839807997-7d3e4c1d5d21?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bmlsaWdyaSUyMG1vdW50YWluc3xlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":2,
-         "name":"Explore the Chettinad Region",
-         "description":"Explore the Chettinad region in Tamil Nadu, known for its unique architecture, cuisine, and culture.",
-         "image":"https://images.unsplash.com/photo-1602522986976-5b4e9d8eacca?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZXR0aW5hZCUyMGNoZXR0aW5hZCUyMHN0YXRpb25zfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":3,
-         "name":"Visit the Pichavaram Mangrove Forest",
-         "description":"Visit the Pichavaram Mangrove Forest in Tamil Nadu and explore the unique ecosystem of the mangroves.",
-         "image":"https://images.unsplash.com/photo-1557247085-5c106a5b6f9c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFuZ3JvdmUlMjBmb3Jlc3QlMjBwaWNoYXZhcm0lMjBtYW5nb3ZlJTIwZm9yZXN0JTIwcGlnaHRzJTIwdG9vbHxlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":4,
-         "name":"Attend a Bharatanatyam Performance",
-         "description":"Attend a Bharatanatyam performance in Tamil Nadu and experience the beauty of this classical dance form.",
-         "image":"https://images.unsplash.com/photo-1606786325466-e7e9a4d5c6d9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmhhcmF0YW5hdHltYXRyYW18ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":5,
-         "name":"Visit the Vivekananda Rock Memorial",
-         "description":"Visit the Vivekananda Rock Memorial in Kanyakumari, Tamil Nadu, and pay homage to Swami Vivekananda.",
-         "image":"https://images.unsplash.com/photo-1560295706-554b7e4c7d9b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmlyZWthbmFuZGElMjByb2NrJTIwbWVtb3JpYWwlMjBrdW5haWt5dW1hcmljfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      }
-   ],
-   "events":[
-      {
-         "id":1,
-         "name":"Pongal",
-         "description":"Pongal is a four-day harvest festival celebrated in Tamil Nadu, which marks the beginning of the Tamil calendar year.",
-         "image":"https://images.unsplash.com/photo-1579451867829-6b4a6d2c9e2f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9uZ2FsJTIwbmFkdXxlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":2,
-         "name":"Madurai Meenakshi Temple Festival",
-         "description":"The Madurai Meenakshi Temple Festival is a 10-day festival celebrated in Madurai, Tamil Nadu, which attracts thousands of pilgrims from all over India.",
-         "image":"https://images.unsplash.com/photo-1601611241971-3e7a5e7f3e8b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fG1hZHVpcmlzfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":3,
-         "name":"Natyanjali Dance Festival",
-         "description":"The Natyanjali Dance Festival is a five-day dance festival held in Chidambaram, Tamil Nadu, which celebrates the classical dance form of Bharatanatyam.",
-         "image":"https://images.unsplash.com/photo-1507914527120-9f5c70b9c4b4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmhhcmF0YW5hdHltYXRyYW18ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":4,
-         "name":"Mahamaham Festival",
-         "description":"The Mahamaham Festival is a Hindu festival held in Kumbakonam, Tamil Nadu, which is celebrated once every 12 years and is considered to be very auspicious.",
-         "image":"https://images.unsplash.com/photo-1607445091503-0d5c7c4c7a96?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8a3VtYmFrb25hbSUyMG1haGFtYW18ZW58MHwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":5,
-         "name":"Karthigai Deepam",
-         "description":"Karthigai Deepam is a Hindu festival celebrated in Tamil Nadu, which involves lighting lamps and candles to signify the victory of good over evil.",
-         "image":"https://images.unsplash.com/photo-1606151555912-bb5e9a9d6b25?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGthcnRoaWdhaSUyMGRlZXBhbXxlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      }
-   ],
-   "facts":[
-      "Tamil Nadu is the 11th largest state in India by area.",
-      "The official language of Tamil Nadu is Tamil.",
-      "The literacy rate of Tamil Nadu is 80.3%.",
-      "Tamil Nadu has a population of over 77 million people.",
-      "Tamil Nadu shares its borders with Kerala, Karnataka, and Andhra Pradesh.",
-      "The famous Brihadeeswarar Temple in Thanjavur, Tamil Nadu, is a UNESCO World Heritage Site.",
-      "Tamil Nadu is known for its famous dish, the 'dosa'."
-   ]
-},
- {
-   "id":9,
-   "title":"Karnataka",
-   "cities":[
-      {
-         "id":1,
-         "name":"Bengaluru",
-         "description":"Bengaluru, also known as Bangalore, is the capital and largest city of Karnataka."
-      },
-      {
-         "id":2,
-         "name":"Mysuru",
-         "description":"Mysuru, also known as Mysore, is a city in Karnataka, known for its palaces and temples."
-      },
-      {
-         "id":3,
-         "name":"Hubli-Dharwad",
-         "description":"Hubli-Dharwad is a twin city in Karnataka, known for its industries and educational institutions."
-      },
-      {
-         "id":4,
-         "name":"Mangaluru",
-         "description":"Mangaluru, also known as Mangalore, is a coastal city in Karnataka, known for its beaches and seafood."
-      },
-      {
-         "id":5,
-         "name":"Belagavi",
-         "description":"Belagavi, also known as Belgaum, is a city in Karnataka, known for its historical sites and temples."
-      },
-      {
-         "id":6,
-         "name":"Shivamogga",
-         "description":"Shivamogga, also known as Shimoga, is a city in Karnataka, known for its natural beauty and waterfalls."
-      }
-   ],
-   "about":"Karnataka is a state in southwest India, with Bengaluru as its capital. The state has a rich cultural heritage and is known for its historical sites, such as Hampi and Mysore Palace. Karnataka is also known for its industries, such as software and biotechnology.",
-   "attractions":[
-      {
-         "id":1,
-         "name":"Hampi",
-         "description":"Hampi is a UNESCO World Heritage site in Karnataka, which was the capital of the Vijayanagara Empire in the 14th century.",
-         "image":"https://images.unsplash.com/photo-1576509383469-7f3f63e3f5c1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhhbXBpfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":2,
-         "name":"Mysore Palace",
-         "description":"Mysore Palace is a historic palace in Mysuru, Karnataka, which was the residence of the Wodeyar dynasty.",
-         "image":"https://images.unsplash.com/photo-1578635803121-4d9d9e7b4c6f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bXlzb3JlJTIwcGFsYWNlfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":3,
-         "name":"Coorg",
-         "description":"Coorg is a hill station in Karnataka, known for its coffee plantations and scenic beauty.",
-         "image":"https://images.unsplash.com/photo-1603136660070-3a7d15c7f0e7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29vcmd8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":4,
-         "name":"Gokarna",
-         "description":"Gokarna is a coastal town in Karnataka, known for its beaches and temples.",
-         "image":"https://images.unsplash.com/photo-1605091420236-5b4e2a7c6d24?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z29rYXJuYXxlbnwwfDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":5,
-         "name":"Bandipur National Park",
-         "description":"Bandipur National Park is a wildlife sanctuary in Karnataka, which is home to tigers, elephants and other animals.",
-         "image":"https://images.unsplash.com/photo-1543363135-a86c982fcfe5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFuZGlwdXIlMjBuYXRpb25hbCUyMHBhcmtrJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJr"
-      },
-      {
-         "id":6,
-         "name":"Chikmagalur",
-         "description":"Chikmagalur is a hill station in Karnataka, known for its coffee plantations and trekking trails.",
-         "image":"https://images.unsplash.com/photo-1559365811-3f7e4c3d6e4d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpa21hZ2FsdXIlMjBjb2ZmZWUlMjBwbGFuYXRpb25zfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      }
-   ],
-   "thingsToDo":[
-      {
-         "id":1,
-         "name":"Trekking in Western Ghats",
-         "description":"Go trekking in the Western Ghats in Karnataka and experience the natural beauty of the region.",
-         "image":"https://images.unsplash.com/photo-1605192404511-4d5f46c7d5d4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHdlc3Rlcm4lMjBnaGF0c3xlbnwwfDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":2,
-         "name":"Visit Shravanabelagola",
-         "description":"Visit Shravanabelagola in Karnataka and see the famous statue of Gommateshwara, which is one of the largest monolithic statues in the world.",
-         "image":"https://images.unsplash.com/photo-1559365811-3f7e4c3d6e4d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpa21hZ2FsdXIlMjBjb2ZmZWUlMjBwbGFuYXRpb25zfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":3,
-         "name":"Explore Badami Caves",
-         "description":"Explore the Badami Caves in Karnataka, which are ancient rock-cut temples and are believed to be built during the Chalukya dynasty.",
-         "image":"https://images.unsplash.com/photo-1599736056616-12b6d9e6b6b5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmFkYW1pJTIwY2F2ZXN8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":4,
-         "name":"Visit Jog Falls",
-         "description":"Visit Jog Falls in Karnataka, which is one of the highest waterfalls in India and is located in the Shimoga district.",
-         "image":"https://images.unsplash.com/photo-1497316730643-415fac54a2af?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8am9nJTIwZmFsbHN8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":5,
-         "name":"Visit Srirangapatna",
-         "description":"Visit Srirangapatna in Karnataka, which was the capital of the Mysore kingdom and is known for its historical sites.",
-         "image":"https://images.unsplash.com/photo-1603136660070-3a7d15c7f0e7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29vcmd8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":6,
-         "name":"Visit Coorg",
-         "description":"Visit Coorg in Karnataka and experience the scenic beauty of the region, along with its coffee plantations and waterfalls.",
-         "image":"https://images.unsplash.com/photo-1603136660070-3a7d15c7f0e7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29vcmd8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
-      }
-   ],
-   "facts":[
-      "Karnataka is the 6th largest state in India by area.",
-      "The official language of Karnataka is Kannada.",
-      "The literacy rate of Karnataka is 75.60%.",
-      "Karnataka has a population of over 61 million people.",
-      "The state of Karnataka was formed on November 1, 1956.",
-      "Karnataka shares its borders with Maharashtra, Goa, Andhra Pradesh, Tamil Nadu, and Kerala.",
-      "The capital city of Karnataka is Bengaluru, which is also known as the 'Silicon Valley of India'.",
-      "Karnataka is known for its rich cultural heritage, which includes classical music, dance, and literature."
-   ],
-   "events":[
-      {
-         "id":1,
-         "name":"Mysuru Dasara",
-         "description":"Mysuru Dasara is a 10-day festival in Karnataka, which celebrates the victory of good over evil and is known for its grand procession and cultural events.",
-         "image":"https://images.unsplash.com/photo-1634481031149-3c1a9ebd4f0e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fG15c3VydSUyMGRhc2FyYXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":2,
-         "name":"Hampi Utsav",
-         "description":"Hampi Utsav is a 3-day festival in Karnataka, which celebrates the rich heritage and culture of the Hampi region and includes cultural performances, food stalls, and a handicrafts fair.",
-         "image":"https://images.unsplash.com/photo-1513618364587-a5b0b9bcb986?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGFtcGklMjB1dHNhdnxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":3,
-         "name":"Karaga Festival",
-         "description":"Karaga Festival is a 9-day festival in Karnataka, which is celebrated in honor of the Hindu goddess Draupadi and includes a grand procession and cultural events.",
-         "image":"https://images.unsplash.com/photo-1618530865794-0d5d6e9f60e4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGthcmFnYSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":4,
-         "name":"Ugadi",
-         "description":"Ugadi is the New Year's Day for the people of Karnataka and is celebrated with traditional rituals and cultural events.",
-         "image":"https://images.unsplash.com/photo-1586078509559-bf5a6c9d5c7e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dWdhZGl8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":5,
-         "name":"Holi",
-         "description":"Holi is a popular festival in Karnataka, which is celebrated with colors and water and is known for its fun and festive atmosphere.",
-         "image":"https://images.unsplash.com/photo-1614006500674-aca02c7b7c52?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG9saSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      }
-   ]
-}
+            "id":8,
+            "title":"Tamil Nadu",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Chennai",
+                  "description":"Chennai is the capital and largest city of Tamil Nadu, known for its beaches, temples, and vibrant culture."
+               },
+               {
+                  "id":2,
+                  "name":"Madurai",
+                  "description":"Madurai is a city in Tamil Nadu, known for its ancient temples and rich cultural heritage."
+               },
+               {
+                  "id":3,
+                  "name":"Coimbatore",
+                  "description":"Coimbatore is a city in Tamil Nadu, known for its textile and engineering industries."
+               },
+               {
+                  "id":4,
+                  "name":"Tiruchirappalli",
+                  "description":"Tiruchirappalli is a city in Tamil Nadu, known for its historic temples and educational institutions."
+               },
+               {
+                  "id":5,
+                  "name":"Salem",
+                  "description":"Salem is a city in Tamil Nadu, known for its textile and steel industries."
+               },
+               {
+                  "id":6,
+                  "name":"Tirunelveli",
+                  "description":"Tirunelveli is a city in Tamil Nadu, known for its ancient temples and natural beauty."
+               }
+            ],
+            "about":"Tamil Nadu is a state in southern India, with Chennai as its capital. The state has a rich cultural heritage, and is known for its ancient temples, vibrant festivals, and delicious cuisine. Tamil Nadu is also an important industrial hub, with industries such as textiles, engineering, and automobile manufacturing.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Meenakshi Amman Temple",
+                  "description":"Meenakshi Amman Temple is a historic temple in Madurai, Tamil Nadu, known for its intricate carvings and architecture.",
+                  "image":"https://images.unsplash.com/photo-1519681393784-d120267933ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1haGFyYXN0cmElMjBkYXklMjBhcnN8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Marina Beach",
+                  "description":"Marina Beach is a popular beach in Chennai, Tamil Nadu, known for its scenic beauty and vibrant atmosphere.",
+                  "image":"https://images.unsplash.com/photo-1611465751259-5d6c7f8b0e6e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFyaW5hJTIwYmVhY2glMjBjaGFubmVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Brihadeeswarar Temple",
+                  "description":"Brihadeeswarar Temple is a UNESCO World Heritage site in Thanjavur, Tamil Nadu, which is known for its ancient architecture and sculptures.",
+                  "image":"https://images.unsplash.com/photo-1601876174075-7f7a2491c6e8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHRoYW5qYXZlJTIwYmVhY2glMjB0ZW1wbGF0ZXxlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Ooty",
+                  "description":"Ooty is a popular hill station in Tamil Nadu, known for its scenic beauty and pleasant climate.",
+                  "image":"https://images.unsplash.com/photo-1559574383-5b4e5c52cd6a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fG9vdHklMjB5b3R5JTIwbmF0dXJlfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Mahabalipuram",
+                  "description":"Mahabalipuram is a historic town in Tamil Nadu, known for its ancient temples and rock-cut sculptures.",
+                  "image":"https://images.unsplash.com/photo-1581291758257-cd08d9fcf0e3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFoYWJhbalBpcHVyYW18ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Visit the Nilgiri Mountains",
+                  "description":"Take a trip to the Nilgiri Mountains in Tamil Nadu and enjoy the scenic beauty of the hills and valleys.",
+                  "image":"https://images.unsplash.com/photo-1574839807997-7d3e4c1d5d21?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bmlsaWdyaSUyMG1vdW50YWluc3xlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Explore the Chettinad Region",
+                  "description":"Explore the Chettinad region in Tamil Nadu, known for its unique architecture, cuisine, and culture.",
+                  "image":"https://images.unsplash.com/photo-1602522986976-5b4e9d8eacca?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZXR0aW5hZCUyMGNoZXR0aW5hZCUyMHN0YXRpb25zfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Visit the Pichavaram Mangrove Forest",
+                  "description":"Visit the Pichavaram Mangrove Forest in Tamil Nadu and explore the unique ecosystem of the mangroves.",
+                  "image":"https://images.unsplash.com/photo-1557247085-5c106a5b6f9c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFuZ3JvdmUlMjBmb3Jlc3QlMjBwaWNoYXZhcm0lMjBtYW5nb3ZlJTIwZm9yZXN0JTIwcGlnaHRzJTIwdG9vbHxlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Attend a Bharatanatyam Performance",
+                  "description":"Attend a Bharatanatyam performance in Tamil Nadu and experience the beauty of this classical dance form.",
+                  "image":"https://images.unsplash.com/photo-1606786325466-e7e9a4d5c6d9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmhhcmF0YW5hdHltYXRyYW18ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Visit the Vivekananda Rock Memorial",
+                  "description":"Visit the Vivekananda Rock Memorial in Kanyakumari, Tamil Nadu, and pay homage to Swami Vivekananda.",
+                  "image":"https://images.unsplash.com/photo-1560295706-554b7e4c7d9b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmlyZWthbmFuZGElMjByb2NrJTIwbWVtb3JpYWwlMjBrdW5haWt5dW1hcmljfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Pongal",
+                  "description":"Pongal is a four-day harvest festival celebrated in Tamil Nadu, which marks the beginning of the Tamil calendar year.",
+                  "image":"https://images.unsplash.com/photo-1579451867829-6b4a6d2c9e2f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9uZ2FsJTIwbmFkdXxlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Madurai Meenakshi Temple Festival",
+                  "description":"The Madurai Meenakshi Temple Festival is a 10-day festival celebrated in Madurai, Tamil Nadu, which attracts thousands of pilgrims from all over India.",
+                  "image":"https://images.unsplash.com/photo-1601611241971-3e7a5e7f3e8b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fG1hZHVpcmlzfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Natyanjali Dance Festival",
+                  "description":"The Natyanjali Dance Festival is a five-day dance festival held in Chidambaram, Tamil Nadu, which celebrates the classical dance form of Bharatanatyam.",
+                  "image":"https://images.unsplash.com/photo-1507914527120-9f5c70b9c4b4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmhhcmF0YW5hdHltYXRyYW18ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Mahamaham Festival",
+                  "description":"The Mahamaham Festival is a Hindu festival held in Kumbakonam, Tamil Nadu, which is celebrated once every 12 years and is considered to be very auspicious.",
+                  "image":"https://images.unsplash.com/photo-1607445091503-0d5c7c4c7a96?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8a3VtYmFrb25hbSUyMG1haGFtYW18ZW58MHwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Karthigai Deepam",
+                  "description":"Karthigai Deepam is a Hindu festival celebrated in Tamil Nadu, which involves lighting lamps and candles to signify the victory of good over evil.",
+                  "image":"https://images.unsplash.com/photo-1606151555912-bb5e9a9d6b25?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGthcnRoaWdhaSUyMGRlZXBhbXxlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "facts":[
+               "Tamil Nadu is the 11th largest state in India by area.",
+               "The official language of Tamil Nadu is Tamil.",
+               "The literacy rate of Tamil Nadu is 80.3%.",
+               "Tamil Nadu has a population of over 77 million people.",
+               "Tamil Nadu shares its borders with Kerala, Karnataka, and Andhra Pradesh.",
+               "The famous Brihadeeswarar Temple in Thanjavur, Tamil Nadu, is a UNESCO World Heritage Site.",
+               "Tamil Nadu is known for its famous dish, the 'dosa'."
+            ]
+         },
+         {
+            "id":9,
+            "title":"Karnataka",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Bengaluru",
+                  "description":"Bengaluru, also known as Bangalore, is the capital and largest city of Karnataka."
+               },
+               {
+                  "id":2,
+                  "name":"Mysuru",
+                  "description":"Mysuru, also known as Mysore, is a city in Karnataka, known for its palaces and temples."
+               },
+               {
+                  "id":3,
+                  "name":"Hubli-Dharwad",
+                  "description":"Hubli-Dharwad is a twin city in Karnataka, known for its industries and educational institutions."
+               },
+               {
+                  "id":4,
+                  "name":"Mangaluru",
+                  "description":"Mangaluru, also known as Mangalore, is a coastal city in Karnataka, known for its beaches and seafood."
+               },
+               {
+                  "id":5,
+                  "name":"Belagavi",
+                  "description":"Belagavi, also known as Belgaum, is a city in Karnataka, known for its historical sites and temples."
+               },
+               {
+                  "id":6,
+                  "name":"Shivamogga",
+                  "description":"Shivamogga, also known as Shimoga, is a city in Karnataka, known for its natural beauty and waterfalls."
+               }
+            ],
+            "about":"Karnataka is a state in southwest India, with Bengaluru as its capital. The state has a rich cultural heritage and is known for its historical sites, such as Hampi and Mysore Palace. Karnataka is also known for its industries, such as software and biotechnology.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Hampi",
+                  "description":"Hampi is a UNESCO World Heritage site in Karnataka, which was the capital of the Vijayanagara Empire in the 14th century.",
+                  "image":"https://images.unsplash.com/photo-1576509383469-7f3f63e3f5c1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhhbXBpfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Mysore Palace",
+                  "description":"Mysore Palace is a historic palace in Mysuru, Karnataka, which was the residence of the Wodeyar dynasty.",
+                  "image":"https://images.unsplash.com/photo-1578635803121-4d9d9e7b4c6f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bXlzb3JlJTIwcGFsYWNlfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Coorg",
+                  "description":"Coorg is a hill station in Karnataka, known for its coffee plantations and scenic beauty.",
+                  "image":"https://images.unsplash.com/photo-1603136660070-3a7d15c7f0e7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29vcmd8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Gokarna",
+                  "description":"Gokarna is a coastal town in Karnataka, known for its beaches and temples.",
+                  "image":"https://images.unsplash.com/photo-1605091420236-5b4e2a7c6d24?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z29rYXJuYXxlbnwwfDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Bandipur National Park",
+                  "description":"Bandipur National Park is a wildlife sanctuary in Karnataka, which is home to tigers, elephants and other animals.",
+                  "image":"https://images.unsplash.com/photo-1543363135-a86c982fcfe5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFuZGlwdXIlMjBuYXRpb25hbCUyMHBhcmtrJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJr"
+               },
+               {
+                  "id":6,
+                  "name":"Chikmagalur",
+                  "description":"Chikmagalur is a hill station in Karnataka, known for its coffee plantations and trekking trails.",
+                  "image":"https://images.unsplash.com/photo-1559365811-3f7e4c3d6e4d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpa21hZ2FsdXIlMjBjb2ZmZWUlMjBwbGFuYXRpb25zfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Trekking in Western Ghats",
+                  "description":"Go trekking in the Western Ghats in Karnataka and experience the natural beauty of the region.",
+                  "image":"https://images.unsplash.com/photo-1605192404511-4d5f46c7d5d4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHdlc3Rlcm4lMjBnaGF0c3xlbnwwfDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Visit Shravanabelagola",
+                  "description":"Visit Shravanabelagola in Karnataka and see the famous statue of Gommateshwara, which is one of the largest monolithic statues in the world.",
+                  "image":"https://images.unsplash.com/photo-1559365811-3f7e4c3d6e4d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpa21hZ2FsdXIlMjBjb2ZmZWUlMjBwbGFuYXRpb25zfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Explore Badami Caves",
+                  "description":"Explore the Badami Caves in Karnataka, which are ancient rock-cut temples and are believed to be built during the Chalukya dynasty.",
+                  "image":"https://images.unsplash.com/photo-1599736056616-12b6d9e6b6b5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmFkYW1pJTIwY2F2ZXN8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Visit Jog Falls",
+                  "description":"Visit Jog Falls in Karnataka, which is one of the highest waterfalls in India and is located in the Shimoga district.",
+                  "image":"https://images.unsplash.com/photo-1497316730643-415fac54a2af?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8am9nJTIwZmFsbHN8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Visit Srirangapatna",
+                  "description":"Visit Srirangapatna in Karnataka, which was the capital of the Mysore kingdom and is known for its historical sites.",
+                  "image":"https://images.unsplash.com/photo-1603136660070-3a7d15c7f0e7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29vcmd8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":6,
+                  "name":"Visit Coorg",
+                  "description":"Visit Coorg in Karnataka and experience the scenic beauty of the region, along with its coffee plantations and waterfalls.",
+                  "image":"https://images.unsplash.com/photo-1603136660070-3a7d15c7f0e7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29vcmd8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "facts":[
+               "Karnataka is the 6th largest state in India by area.",
+               "The official language of Karnataka is Kannada.",
+               "The literacy rate of Karnataka is 75.60%.",
+               "Karnataka has a population of over 61 million people.",
+               "The state of Karnataka was formed on November 1, 1956.",
+               "Karnataka shares its borders with Maharashtra, Goa, Andhra Pradesh, Tamil Nadu, and Kerala.",
+               "The capital city of Karnataka is Bengaluru, which is also known as the 'Silicon Valley of India'.",
+               "Karnataka is known for its rich cultural heritage, which includes classical music, dance, and literature."
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Mysuru Dasara",
+                  "description":"Mysuru Dasara is a 10-day festival in Karnataka, which celebrates the victory of good over evil and is known for its grand procession and cultural events.",
+                  "image":"https://images.unsplash.com/photo-1634481031149-3c1a9ebd4f0e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fG15c3VydSUyMGRhc2FyYXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Hampi Utsav",
+                  "description":"Hampi Utsav is a 3-day festival in Karnataka, which celebrates the rich heritage and culture of the Hampi region and includes cultural performances, food stalls, and a handicrafts fair.",
+                  "image":"https://images.unsplash.com/photo-1513618364587-a5b0b9bcb986?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGFtcGklMjB1dHNhdnxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Karaga Festival",
+                  "description":"Karaga Festival is a 9-day festival in Karnataka, which is celebrated in honor of the Hindu goddess Draupadi and includes a grand procession and cultural events.",
+                  "image":"https://images.unsplash.com/photo-1618530865794-0d5d6e9f60e4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGthcmFnYSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Ugadi",
+                  "description":"Ugadi is the New Year's Day for the people of Karnataka and is celebrated with traditional rituals and cultural events.",
+                  "image":"https://images.unsplash.com/photo-1586078509559-bf5a6c9d5c7e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dWdhZGl8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Holi",
+                  "description":"Holi is a popular festival in Karnataka, which is celebrated with colors and water and is known for its fun and festive atmosphere.",
+                  "image":"https://images.unsplash.com/photo-1614006500674-aca02c7b7c52?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG9saSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ]
+         }
       ]
    }
 ]
