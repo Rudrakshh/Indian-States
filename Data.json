@@ -1311,282 +1311,282 @@
             ]
          },
          {
-   "id":10,
-   "title":"Andhra Pradesh",
-   "cities":[
-      {
-         "id":1,
-         "name":"Visakhapatnam",
-         "description":"Visakhapatnam is a port city on the southeast coast of India, known for its beaches, temples, and museums.",
-         "image":"https://images.unsplash.com/photo-1590773693195-5e13d6bd4c31?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlzYWtoYSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":2,
-         "name":"Tirupati",
-         "description":"Tirupati is a holy city in Andhra Pradesh, known for its Sri Venkateswara Temple, which is one of the most visited pilgrimage sites in the world.",
-         "image":"https://images.unsplash.com/photo-1601185038775-5c9a4e1c4a4c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHZlbmthdGVzd2FyYXN2YXJhfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":3,
-         "name":"Vijayawada",
-         "description":"Vijayawada is a city in Andhra Pradesh, known for its Kanaka Durga Temple and Prakasam Barrage.",
-         "image":"https://images.unsplash.com/photo-1621599425809-69c7e0f7a9a3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmlqYXlhd2FkYXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":4,
-         "name":"Guntur",
-         "description":"Guntur is a city in Andhra Pradesh, known for its spicy food, historic temples, and parks.",
-         "image":"https://images.unsplash.com/photo-1621599425809-69c7e0f7a9a3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmlqYXlhd2FkYXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":5,
-         "name":"Kurnool",
-         "description":"Kurnool is a city in Andhra Pradesh, known for its historic forts, temples, and natural beauty.",
-         "image":"https://images.unsplash.com/photo-1573584373611-fb7e6b0d3c7d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8a3Vybm9vbCUyMGZvcnRzJTIwbmF0dXJhbCUyMGJlYXV0eXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
-      }
-   ],
-   "attractions":[
-      {
-         "id":1,
-         "name":"Sri Venkateswara Temple",
-         "description":"Sri Venkateswara Temple is a Hindu temple in Tirupati, Andhra Pradesh, dedicated to Lord Venkateswara.",
-         "image":"https://images.unsplash.com/photo-1601185038775-5c9a4e1c4a4c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHZlbmthdGVzd2FyYXN2YXJhfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":2,
-         "name":"Borra Caves",
-         "description":"Borra Caves are natural caves in the Ananthagiri Hills of Andhra Pradesh, known for their limestone formations and stalactites.",
-         "image":"https://images.unsplash.com/photo-1620918031397-a6dfbce9b57d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Ym9ycmElMjBjYXZlc3xlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":3,
-         "name":"Kondapalli Fort",
-         "description":"Kondapalli Fort is a historic fort in Andhra Pradesh, known for its architecture and scenic views.",
-         "image":"https://images.unsplash.com/photo-1604011484020-3e4f76a7e9c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGtvbmRhcGlsbGl8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":4,
-         "name":"Belum Caves",
-         "description":"Belum Caves are natural caves in Andhra Pradesh, known for their stalactite and stalagmite formations.",
-         "image":"https://images.unsplash.com/photo-1604011484020-3e4f76a7e9c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGtvbmRhcGlsbGl8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":5,
-         "name":"Kuchipudi Dance",
-         "description":"Kuchipudi is a classical dance form of Andhra Pradesh, known for its intricate footwork and expressions.",
-         "image":"https://images.unsplash.com/photo-1619942408886-7d71f5a0c9a0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8a3VjaGlwdWRpJTIwZGFuY2VzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      }
-   ],
-   "things_to_do":[
-      {
-         "id":1,
-         "name":"Visit the beaches of Visakhapatnam",
-         "description":"Visakhapatnam is known for its beautiful beaches, such as Rishikonda Beach, Yarada Beach, and Rushikonda Beach.",
-         "image":"https://images.unsplash.com/photo-1620918031397-a6dfbce9b57d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Ym9ycmElMjBjYXZlc3xlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":2,
-         "name":"Explore the history of Tirupati",
-         "description":"Tirupati has a rich history and is home to many historic sites, such as Sri Venkateswara Temple, Sri Kapileswara Swamy Temple, and Sri Govindarajaswami Temple.",
-         "image":"https://images.unsplash.com/photo-1601185038775-5c9a4e1c4a4c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHZlbmthdGVzd2FyYXN2YXJhfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":3,
-         "name":"Taste the spicy food of Guntur",
-         "description":"Guntur is known for its spicy food, such as Guntur chilli chicken, Gongura pickle, and Mirchi bajji.",
-         "image":"https://images.unsplash.com/photo-1621599425809-69c7e0f7a9a3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmlqYXlhd2FkYXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":4,
-         "name":"Go on a nature walk in Kurnool",
-         "description":"Kurnool is known for its natural beauty and is home to many parks and gardens, such as Oravakallu Rock Garden, Rollapadu Wildlife Sanctuary, and Mahanandi.",
-         "image":"https://images.unsplash.com/photo-1573584373611-fb7e6b0d3c7d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8a3Vybm9vbCUyMGZvcnRzJTIwbmF0dXJhbCUyMGJlYXV0eXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":5,
-         "name":"Watch a Kuchipudi dance performance",
-         "description":"Kuchipudi is a classical dance form of Andhra Pradesh and is performed at many cultural events and festivals.",
-         "image":"https://images.unsplash.com/photo-1619942408886-7d71f5a0c9a0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8a3VjaGlwdWRpJTIwZGFuY2VzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      }
-   ],
-   "facts":[
-      "Andhra Pradesh is the 8th largest state in India by area.",
-      "The official language of Andhra Pradesh is Telugu.",
-      "The literacy rate of Andhra Pradesh is 67.4%.",
-      "Andhra Pradesh has a population of over 54 million people.",
-      "The state of Andhra Pradesh was formed on October 1, 1953.",
-      "Andhra Pradesh shares its borders with Telangana, Karnataka, Tamil Nadu, and Odisha.",
-      "The capital city of Andhra Pradesh is Amaravati, which is also known as the 'People's Capital'.",
-      "Andhra Pradesh is known for its rich cultural heritage, which includes Kuchipudi dance and Telugu literature."
-   ],
-   "events":[
-      {
-         "id":1,
-         "name":"Ugadi",
-         "description":"Ugadi is the New Year's Day for the people of Andhra Pradesh and is celebrated with traditional rituals and cultural events.",
-         "image":"https://images.unsplash.com/photo-1586078509559-bf5a6c9d5c7e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dWdhZGl8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":2,
-         "name":"Lumbini Festival",
-         "description":"Lumbini Festival is a 3-day festival in Andhra Pradesh, which celebrates the Buddhist heritage of the state and includes cultural performances and food stalls.",
-         "image":"https://images.unsplash.com/photo-1603185548446-eeb7b9b7ce0d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bHVtYmluaSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":3,
-         "name":"Visakha Utsav",
-         "description":"Visakha Utsav is a 3-day festival in Andhra Pradesh, which celebrates the cultural heritage of the Visakhapatnam region and includes cultural performances, food stalls, and a handicrafts fair.",
-         "image":"https://images.unsplash.com/photo-1590773693195-5e13d6bd4c31?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlzYWtoYSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":4,
-         "name":"Deccan Festival",
-         "description":"Deccan Festival is a 5-day festival in Andhra Pradesh, which celebrates the rich heritage and culture of the Deccan region and includes cultural performances, food stalls, and a handicrafts fair.",
-         "image":"https://images.unsplash.com/photo-1618530865794-0d5d6e9f60e4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGthcmFnYSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":5,
-         "name":"Brahmotsavam",
-         "description":"Brahmotsavam is a 9-day festival in Andhra Pradesh, which celebrates the Hindu god Venkateswara and includes a grand procession and cultural events.",
-         "image":"https://images.unsplash.com/photo-1601185038775-5c9a4e1c4a4c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHZlbmthdGVzd2FyYXN2YXJhfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      }
-   ]
-},
+            "id":10,
+            "title":"Andhra Pradesh",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Visakhapatnam",
+                  "description":"Visakhapatnam is a port city on the southeast coast of India, known for its beaches, temples, and museums.",
+                  "image":"https://images.unsplash.com/photo-1590773693195-5e13d6bd4c31?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlzYWtoYSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Tirupati",
+                  "description":"Tirupati is a holy city in Andhra Pradesh, known for its Sri Venkateswara Temple, which is one of the most visited pilgrimage sites in the world.",
+                  "image":"https://images.unsplash.com/photo-1601185038775-5c9a4e1c4a4c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHZlbmthdGVzd2FyYXN2YXJhfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Vijayawada",
+                  "description":"Vijayawada is a city in Andhra Pradesh, known for its Kanaka Durga Temple and Prakasam Barrage.",
+                  "image":"https://images.unsplash.com/photo-1621599425809-69c7e0f7a9a3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmlqYXlhd2FkYXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Guntur",
+                  "description":"Guntur is a city in Andhra Pradesh, known for its spicy food, historic temples, and parks.",
+                  "image":"https://images.unsplash.com/photo-1621599425809-69c7e0f7a9a3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmlqYXlhd2FkYXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Kurnool",
+                  "description":"Kurnool is a city in Andhra Pradesh, known for its historic forts, temples, and natural beauty.",
+                  "image":"https://images.unsplash.com/photo-1573584373611-fb7e6b0d3c7d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8a3Vybm9vbCUyMGZvcnRzJTIwbmF0dXJhbCUyMGJlYXV0eXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Sri Venkateswara Temple",
+                  "description":"Sri Venkateswara Temple is a Hindu temple in Tirupati, Andhra Pradesh, dedicated to Lord Venkateswara.",
+                  "image":"https://images.unsplash.com/photo-1601185038775-5c9a4e1c4a4c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHZlbmthdGVzd2FyYXN2YXJhfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Borra Caves",
+                  "description":"Borra Caves are natural caves in the Ananthagiri Hills of Andhra Pradesh, known for their limestone formations and stalactites.",
+                  "image":"https://images.unsplash.com/photo-1620918031397-a6dfbce9b57d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Ym9ycmElMjBjYXZlc3xlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Kondapalli Fort",
+                  "description":"Kondapalli Fort is a historic fort in Andhra Pradesh, known for its architecture and scenic views.",
+                  "image":"https://images.unsplash.com/photo-1604011484020-3e4f76a7e9c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGtvbmRhcGlsbGl8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Belum Caves",
+                  "description":"Belum Caves are natural caves in Andhra Pradesh, known for their stalactite and stalagmite formations.",
+                  "image":"https://images.unsplash.com/photo-1604011484020-3e4f76a7e9c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGtvbmRhcGlsbGl8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Kuchipudi Dance",
+                  "description":"Kuchipudi is a classical dance form of Andhra Pradesh, known for its intricate footwork and expressions.",
+                  "image":"https://images.unsplash.com/photo-1619942408886-7d71f5a0c9a0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8a3VjaGlwdWRpJTIwZGFuY2VzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "things_to_do":[
+               {
+                  "id":1,
+                  "name":"Visit the beaches of Visakhapatnam",
+                  "description":"Visakhapatnam is known for its beautiful beaches, such as Rishikonda Beach, Yarada Beach, and Rushikonda Beach.",
+                  "image":"https://images.unsplash.com/photo-1620918031397-a6dfbce9b57d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Ym9ycmElMjBjYXZlc3xlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Explore the history of Tirupati",
+                  "description":"Tirupati has a rich history and is home to many historic sites, such as Sri Venkateswara Temple, Sri Kapileswara Swamy Temple, and Sri Govindarajaswami Temple.",
+                  "image":"https://images.unsplash.com/photo-1601185038775-5c9a4e1c4a4c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHZlbmthdGVzd2FyYXN2YXJhfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Taste the spicy food of Guntur",
+                  "description":"Guntur is known for its spicy food, such as Guntur chilli chicken, Gongura pickle, and Mirchi bajji.",
+                  "image":"https://images.unsplash.com/photo-1621599425809-69c7e0f7a9a3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmlqYXlhd2FkYXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Go on a nature walk in Kurnool",
+                  "description":"Kurnool is known for its natural beauty and is home to many parks and gardens, such as Oravakallu Rock Garden, Rollapadu Wildlife Sanctuary, and Mahanandi.",
+                  "image":"https://images.unsplash.com/photo-1573584373611-fb7e6b0d3c7d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8a3Vybm9vbCUyMGZvcnRzJTIwbmF0dXJhbCUyMGJlYXV0eXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Watch a Kuchipudi dance performance",
+                  "description":"Kuchipudi is a classical dance form of Andhra Pradesh and is performed at many cultural events and festivals.",
+                  "image":"https://images.unsplash.com/photo-1619942408886-7d71f5a0c9a0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8a3VjaGlwdWRpJTIwZGFuY2VzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "facts":[
+               "Andhra Pradesh is the 8th largest state in India by area.",
+               "The official language of Andhra Pradesh is Telugu.",
+               "The literacy rate of Andhra Pradesh is 67.4%.",
+               "Andhra Pradesh has a population of over 54 million people.",
+               "The state of Andhra Pradesh was formed on October 1, 1953.",
+               "Andhra Pradesh shares its borders with Telangana, Karnataka, Tamil Nadu, and Odisha.",
+               "The capital city of Andhra Pradesh is Amaravati, which is also known as the 'People's Capital'.",
+               "Andhra Pradesh is known for its rich cultural heritage, which includes Kuchipudi dance and Telugu literature."
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Ugadi",
+                  "description":"Ugadi is the New Year's Day for the people of Andhra Pradesh and is celebrated with traditional rituals and cultural events.",
+                  "image":"https://images.unsplash.com/photo-1586078509559-bf5a6c9d5c7e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dWdhZGl8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Lumbini Festival",
+                  "description":"Lumbini Festival is a 3-day festival in Andhra Pradesh, which celebrates the Buddhist heritage of the state and includes cultural performances and food stalls.",
+                  "image":"https://images.unsplash.com/photo-1603185548446-eeb7b9b7ce0d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bHVtYmluaSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Visakha Utsav",
+                  "description":"Visakha Utsav is a 3-day festival in Andhra Pradesh, which celebrates the cultural heritage of the Visakhapatnam region and includes cultural performances, food stalls, and a handicrafts fair.",
+                  "image":"https://images.unsplash.com/photo-1590773693195-5e13d6bd4c31?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlzYWtoYSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Deccan Festival",
+                  "description":"Deccan Festival is a 5-day festival in Andhra Pradesh, which celebrates the rich heritage and culture of the Deccan region and includes cultural performances, food stalls, and a handicrafts fair.",
+                  "image":"https://images.unsplash.com/photo-1618530865794-0d5d6e9f60e4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGthcmFnYSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Brahmotsavam",
+                  "description":"Brahmotsavam is a 9-day festival in Andhra Pradesh, which celebrates the Hindu god Venkateswara and includes a grand procession and cultural events.",
+                  "image":"https://images.unsplash.com/photo-1601185038775-5c9a4e1c4a4c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHZlbmthdGVzd2FyYXN2YXJhfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ]
+         },
          {
-   "id":11,
-   "title":"Tripura",
-   "cities":[
-      {
-         "id":1,
-         "name":"Agartala",
-         "description":"Agartala is the capital and largest city of Tripura."
-      },
-      {
-         "id":2,
-         "name":"Udaipur",
-         "description":"Udaipur is a city in Tripura, known for its ancient temples and lakes."
-      },
-      {
-         "id":3,
-         "name":"Belonia",
-         "description":"Belonia is a city in Tripura, famous for its natural beauty and wildlife."
-      },
-      {
-         "id":4,
-         "name":"Dharmanagar",
-         "description":"Dharmanagar is a city in Tripura, known for its historical significance and temples."
-      },
-      {
-         "id":5,
-         "name":"Kailashahar",
-         "description":"Kailashahar is a city in Tripura, famous for its scenic beauty and waterfalls."
-      }
-   ],
-   "attractions":[
-      {
-         "id":1,
-         "name":"Neermahal Palace",
-         "description":"Neermahal Palace is a beautiful palace located in the middle of Rudrasagar Lake in Tripura.",
-         "image":"https://images.unsplash.com/photo-1538122538818-ab5426a4d5ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmVlcm1haGFsJTIwcGFsYWNlJTIwbGlzdHxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":2,
-         "name":"Tripura Sundari Temple",
-         "description":"Tripura Sundari Temple is a famous Hindu temple located in Udaipur, Tripura.",
-         "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":3,
-         "name":"Unakoti",
-         "description":"Unakoti is an ancient pilgrimage site in Tripura, known for its rock-cut sculptures and carvings.",
-         "image":"https://images.unsplash.com/photo-1592073720779-1b5b5b5c7e45?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dW5ha290aSUyMHNjaGVkdWxlcnxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":4,
-         "name":"Sepahijala Wildlife Sanctuary",
-         "description":"Sepahijala Wildlife Sanctuary is a nature reserve in Tripura, known for its rich biodiversity and wildlife.",
-         "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":5,
-         "name":"Jampui Hills",
-         "description":"Jampui Hills is a scenic hill station in Tripura, known for its beautiful landscapes and panoramic views.",
-         "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      }
-   ],
-   "thingsToDo":[
-      {
-         "id":1,
-         "name":"Boating in Rudrasagar Lake",
-         "description":"Take a boat ride on Rudrasagar Lake and enjoy the scenic beauty of Tripura.",
-         "image":"https://images.unsplash.com/photo-1538122538818-ab5426a4d5ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmVlcm1haGFsJTIwcGFsYWNlJTIwbGlzdHxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":2,
-         "name":"Visit the Ujjayanta Palace",
-         "description":"Explore the beautiful Ujjayanta Palace, a former royal palace that has been converted into a museum.",
-         "image":"https://images.unsplash.com/photo-1538122538818-ab5426a4d5ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dWpqYXlhbnRhaSUyMHBhbGFjZSUyMGxpc3R8ZW58MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":3,
-         "name":"Trekking in Jampui Hills",
-         "description":"Go trekking in Jampui Hills and enjoy the scenic beauty of the hill station.",
-         "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":4,
-         "name":"Visit Tripura Sundari Temple",
-         "description":"Visit the famous Tripura Sundari Temple and experience the spiritual side of Tripura.",
-         "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      },
-      {
-         "id":5,
-         "name":"Explore the Sepahijala Wildlife Sanctuary",
-         "description":"Explore the rich biodiversity and wildlife of Tripura at the Sepahijala Wildlife Sanctuary.",
-         "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
-      }
-   ],
-   "about":"Tripura is a state located in northeastern India, bordered by Bangladesh on three sides. It is the third-smallest state in the country. Agartala serves as the capital city and the largest urban center in Tripura. The state is known for its rich cultural heritage, diverse ethnic communities, and natural beauty. Tripura is home to several indigenous tribes, each with its distinct traditions, festivals, and crafts. The state's economy is primarily based on agriculture, with rice being the main crop. Tripura also has significant reserves of natural gas, making it one of the leading gas-producing states in India. The state offers several attractions for tourists, including historical sites, wildlife sanctuaries, scenic landscapes, and traditional handicrafts. It is a land of colorful festivals, with events like Durga Puja and Diwali being celebrated with great enthusiasm. Tripura provides a unique blend of traditional and modern elements, making it a fascinating destination for travelers seeking cultural experiences and natural beauty.",
-   "facts":[
-      "Tripura is the third-smallest state in India.",
-      "The official languages of Tripura are Bengali and Kokborok.",
-      "Tripura has a rich cultural heritage with various indigenous tribes and their unique traditions.",
-      "The state is known for its lush green landscapes, rolling hills, and beautiful valleys.",
-      "Tripura is famous for its bamboo and cane handicrafts, which are popularly exported.",
-      "Neermahal, located in the middle of Rudrasagar Lake, is one of the only two water palaces in India and is a major tourist attraction in Tripura."
-   ],
-   "events":[
-      {
-         "id":1,
-         "name":"Ker Puja",
-         "description":"Ker Puja is a significant tribal festival celebrated by the Tripuri community to appease the gods and goddesses for a good harvest.",
-         "image":"https://images.unsplash.com/photo-1575715732134-d883f1f94c84?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-      },
-      {
-         "id":2,
-         "name":"Kharchi Puja",
-         "description":"Kharchi Puja is a week-long festival celebrated at the Chaturdasha Devata Temple in Agartala, where deities are worshiped to seek blessings for the well-being of the people.",
-         "image":"https://images.unsplash.com/photo-1578257986801-9713d5a3b057?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-      },
-      {
-         "id":3,
-         "name":"Bizu Festival",
-         "description":"Bizu Festival is celebrated by the Chakma community to mark the beginning of their new year. It involves various cultural performances, traditional games, and feasts.",
-         "image":"https://images.unsplash.com/photo-1624923344566-8f1ff2fe5a33?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-      },
-      {
-         "id":4,
-         "name":"Durga Puja",
-         "description":"Durga Puja is one of the major festivals celebrated with great enthusiasm in Tripura. It involves elaborate decorations, cultural performances, and the worship of Goddess Durga.",
-         "image":"https://images.unsplash.com/photo-1569935810493-703cd161f44f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-      },
-      {
-         "id":5,
-         "name":"Diwali",
-         "description":"Diwali, the festival of lights, is celebrated with joy and enthusiasm in Tripura. It involvesvarious religious rituals, lighting of diyas (oil lamps), bursting of firecrackers, exchanging sweets, and decorating homes."
-      }
-   ]
-}
+            "id":11,
+            "title":"Tripura",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Agartala",
+                  "description":"Agartala is the capital and largest city of Tripura."
+               },
+               {
+                  "id":2,
+                  "name":"Udaipur",
+                  "description":"Udaipur is a city in Tripura, known for its ancient temples and lakes."
+               },
+               {
+                  "id":3,
+                  "name":"Belonia",
+                  "description":"Belonia is a city in Tripura, famous for its natural beauty and wildlife."
+               },
+               {
+                  "id":4,
+                  "name":"Dharmanagar",
+                  "description":"Dharmanagar is a city in Tripura, known for its historical significance and temples."
+               },
+               {
+                  "id":5,
+                  "name":"Kailashahar",
+                  "description":"Kailashahar is a city in Tripura, famous for its scenic beauty and waterfalls."
+               }
+            ],
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Neermahal Palace",
+                  "description":"Neermahal Palace is a beautiful palace located in the middle of Rudrasagar Lake in Tripura.",
+                  "image":"https://images.unsplash.com/photo-1538122538818-ab5426a4d5ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmVlcm1haGFsJTIwcGFsYWNlJTIwbGlzdHxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Tripura Sundari Temple",
+                  "description":"Tripura Sundari Temple is a famous Hindu temple located in Udaipur, Tripura.",
+                  "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Unakoti",
+                  "description":"Unakoti is an ancient pilgrimage site in Tripura, known for its rock-cut sculptures and carvings.",
+                  "image":"https://images.unsplash.com/photo-1592073720779-1b5b5b5c7e45?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dW5ha290aSUyMHNjaGVkdWxlcnxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Sepahijala Wildlife Sanctuary",
+                  "description":"Sepahijala Wildlife Sanctuary is a nature reserve in Tripura, known for its rich biodiversity and wildlife.",
+                  "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Jampui Hills",
+                  "description":"Jampui Hills is a scenic hill station in Tripura, known for its beautiful landscapes and panoramic views.",
+                  "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Boating in Rudrasagar Lake",
+                  "description":"Take a boat ride on Rudrasagar Lake and enjoy the scenic beauty of Tripura.",
+                  "image":"https://images.unsplash.com/photo-1538122538818-ab5426a4d5ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmVlcm1haGFsJTIwcGFsYWNlJTIwbGlzdHxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Visit the Ujjayanta Palace",
+                  "description":"Explore the beautiful Ujjayanta Palace, a former royal palace that has been converted into a museum.",
+                  "image":"https://images.unsplash.com/photo-1538122538818-ab5426a4d5ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dWpqYXlhbnRhaSUyMHBhbGFjZSUyMGxpc3R8ZW58MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Trekking in Jampui Hills",
+                  "description":"Go trekking in Jampui Hills and enjoy the scenic beauty of the hill station.",
+                  "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Visit Tripura Sundari Temple",
+                  "description":"Visit the famous Tripura Sundari Temple and experience the spiritual side of Tripura.",
+                  "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Explore the Sepahijala Wildlife Sanctuary",
+                  "description":"Explore the rich biodiversity and wildlife of Tripura at the Sepahijala Wildlife Sanctuary.",
+                  "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "about":"Tripura is a state located in northeastern India, bordered by Bangladesh on three sides. It is the third-smallest state in the country. Agartala serves as the capital city and the largest urban center in Tripura. The state is known for its rich cultural heritage, diverse ethnic communities, and natural beauty. Tripura is home to several indigenous tribes, each with its distinct traditions, festivals, and crafts. The state's economy is primarily based on agriculture, with rice being the main crop. Tripura also has significant reserves of natural gas, making it one of the leading gas-producing states in India. The state offers several attractions for tourists, including historical sites, wildlife sanctuaries, scenic landscapes, and traditional handicrafts. It is a land of colorful festivals, with events like Durga Puja and Diwali being celebrated with great enthusiasm. Tripura provides a unique blend of traditional and modern elements, making it a fascinating destination for travelers seeking cultural experiences and natural beauty.",
+            "facts":[
+               "Tripura is the third-smallest state in India.",
+               "The official languages of Tripura are Bengali and Kokborok.",
+               "Tripura has a rich cultural heritage with various indigenous tribes and their unique traditions.",
+               "The state is known for its lush green landscapes, rolling hills, and beautiful valleys.",
+               "Tripura is famous for its bamboo and cane handicrafts, which are popularly exported.",
+               "Neermahal, located in the middle of Rudrasagar Lake, is one of the only two water palaces in India and is a major tourist attraction in Tripura."
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Ker Puja",
+                  "description":"Ker Puja is a significant tribal festival celebrated by the Tripuri community to appease the gods and goddesses for a good harvest.",
+                  "image":"https://images.unsplash.com/photo-1575715732134-d883f1f94c84?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Kharchi Puja",
+                  "description":"Kharchi Puja is a week-long festival celebrated at the Chaturdasha Devata Temple in Agartala, where deities are worshiped to seek blessings for the well-being of the people.",
+                  "image":"https://images.unsplash.com/photo-1578257986801-9713d5a3b057?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Bizu Festival",
+                  "description":"Bizu Festival is celebrated by the Chakma community to mark the beginning of their new year. It involves various cultural performances, traditional games, and feasts.",
+                  "image":"https://images.unsplash.com/photo-1624923344566-8f1ff2fe5a33?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Durga Puja",
+                  "description":"Durga Puja is one of the major festivals celebrated with great enthusiasm in Tripura. It involves elaborate decorations, cultural performances, and the worship of Goddess Durga.",
+                  "image":"https://images.unsplash.com/photo-1569935810493-703cd161f44f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Diwali",
+                  "description":"Diwali, the festival of lights, is celebrated with joy and enthusiasm in Tripura. It involvesvarious religious rituals, lighting of diyas (oil lamps), bursting of firecrackers, exchanging sweets, and decorating homes."
+               }
+            ]
+         }
       ]
    }
 ]
