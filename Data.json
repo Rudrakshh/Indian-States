@@ -1588,691 +1588,681 @@
             ]
          },
          {
-   "id":12,
-   "title":"Jammu and Kashmir",
-   "cities":[
-      {
-         "id":1,
-         "name":"Srinagar",
-         "description":"Srinagar is the summer capital of Jammu and Kashmir, known for its beautiful Dal Lake and Mughal gardens."
-      },
-      {
-         "id":2,
-         "name":"Jammu",
-         "description":"Jammu is the winter capital of Jammu and Kashmir, famous for its ancient temples and historical sites."
-      },
-      {
-         "id":3,
-         "name":"Leh",
-         "description":"Leh is a popular tourist destination in Ladakh, known for its stunning landscapes, monasteries, and adventure activities."
-      },
-      {
-         "id":4,
-         "name":"Gulmarg",
-         "description":"Gulmarg is a picturesque hill station in Kashmir, renowned for its skiing slopes and beautiful meadows."
-      },
-      {
-         "id":5,
-         "name":"Pahalgam",
-         "description":"Pahalgam is a scenic town in Kashmir, famous for its lush green valleys, pristine rivers, and trekking opportunities."
-      },
-      {
-         "id":6,
-         "name":"Sonamarg",
-         "description":"Sonamarg, also known as the 'Meadow of Gold,' is a mesmerizing hill station in Kashmir, surrounded by snow-capped mountains and alpine meadows."
-      }
-   ],
-   "about":"Jammu and Kashmir is a union territory in northern India, known for its breathtaking landscapes, rich cultural heritage, and religious significance. The region is renowned for its scenic beauty, including the stunning Dal Lake, snow-clad mountains, and lush green valleys. Jammu and Kashmir offer a diverse range of attractions, such as ancient temples, monasteries, adventure sports, and traditional Kashmiri handicrafts.",
-   "attractions":[
-      {
-         "id":1,
-         "name":"Dal Lake",
-         "description":"Dal Lake is a famous lake in Srinagar, known for its mesmerizing beauty, houseboats, and shikara rides.",
-         "image":"https://images.unsplash.com/photo-1569466896819-33506953a0e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
-      },
-      {
-         "id":2,
-         "name":"Vaishno Devi Temple",
-         "description":"Vaishno Devi Temple is a renowned Hindu pilgrimage site in Jammu, dedicated to the goddess Vaishno Devi.",
-         "image":"https://images.unsplash.com/photo-1622406615106-03c477d6ff20?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
-      },
-      {
-         "id":3,
-         "name":"Magnetic Hill",
-         "description":"Magnetic Hill is a unique natural phenomenon near Leh, where vehicles appear to defy gravity and move uphill on their own.",
-         "image":"https://images.unsplash.com/photo-1607689300515-9ecde4b778e1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
-      },
-      {
-         "id":4,
-         "name":"Shankaracharya Temple",
-         "description":"Shankaracharya Temple is a prominent Hindu temple located on top of a hill in Srinagar, offering panoramic views of the city.",
-         "image":"https://images.unsplash.com/photo-1602538997395-5ad737fd2f4a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
-      },
-      {
-         "id":5,
-         "name":"Gulmarg Gondola",
-         "description":"Gulmarg Gondola is one of the highest cable car systems in the world, offering breathtaking views of the Himalayan peaks.",
-         "image":"https://images.unsplash.com/photo-1607869125001-70c5f27048a4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
-      },
-      {
-         "id":6,
-         "name":"Aru Valley",
-         "description":"Aru Valley is a serene and picturesque valley near Pahalgam, known for its pristine beauty and lush meadows.",
-         "image":"https://images.unsplash.com/photo-1567064151049-41bc4dce6fc7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
-      }
-   ],
-   "events":[
-      {
-         "id":1,
-         "name":"Tulip Festival",
-         "description":"The Tulip Festival is held in Srinagar every spring when the tulip gardens are in full bloom, showcasing a vibrant display of flowers.",
-         "date":"April",
-         "image":"https://images.unsplash.com/photo-1585475021639-12dd5a1e9a9f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
-      },
-      {
-         "id":2,
-         "name":"Hemis Festival",
-         "description":"Hemis Festival is a popular cultural event celebrated in the Hemis Monastery in Leh, featuring masked dances and music performances.",
-         "date":"June/July",
-         "image":"https://images.unsplash.com/photo-1573298189620-715b15c9d95b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
-      },
-      {
-         "id":3,
-         "name":"Kheer Bhawani Mela",
-         "description":"Kheer Bhawani Mela is a major religious festival held at the Kheer Bhawani Temple near Srinagar, attracting devotees from all over.",
-         "date":"May/June",
-         "image":"https://images.unsplash.com/photo-1591700115369-f0c41d809af3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
-      }
-   ],
-   "facts":[
-      "Jammu and Kashmir is often referred to as the 'Paradise on Earth' due to its stunning natural beauty.",
-      "The region is known for its rich heritage of traditional Kashmiri cuisine, including delicacies like Rogan Josh and Kashmiri Pulao.",
-      "Jammu and Kashmir is home to several ancient temples, mosques, and monasteries, reflecting its diverse religious and cultural heritage.",
-      "The Dal Lake in Srinagar is famous for its picturesque houseboats, known as 'Shikaras', offering a unique and tranquil experience for visitors.",
-      "The region is a popular destination for adventure enthusiasts, with activities like trekking, skiing, river rafting, and paragliding available in various parts of the state.",
-      "Jammu and Kashmir is known for its exquisite handcrafted products, including Pashmina shawls, carpets, and intricately designed Kashmiri embroidery.",
-      "The state is surrounded by the Himalayan mountain range, offering breathtaking landscapes, snow-capped peaks, and serene valleys.",
-      "Jammu and Kashmir has a rich history, with influences from various dynasties and empires, including the Mughals, Sikhs, and Dogras."
-   ]
-},
+            "id":12,
+            "title":"Jammu and Kashmir",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Srinagar",
+                  "description":"Srinagar is the summer capital of Jammu and Kashmir, known for its beautiful Dal Lake and Mughal gardens."
+               },
+               {
+                  "id":2,
+                  "name":"Jammu",
+                  "description":"Jammu is the winter capital of Jammu and Kashmir, famous for its ancient temples and historical sites."
+               },
+               {
+                  "id":3,
+                  "name":"Leh",
+                  "description":"Leh is a popular tourist destination in Ladakh, known for its stunning landscapes, monasteries, and adventure activities."
+               },
+               {
+                  "id":4,
+                  "name":"Gulmarg",
+                  "description":"Gulmarg is a picturesque hill station in Kashmir, renowned for its skiing slopes and beautiful meadows."
+               },
+               {
+                  "id":5,
+                  "name":"Pahalgam",
+                  "description":"Pahalgam is a scenic town in Kashmir, famous for its lush green valleys, pristine rivers, and trekking opportunities."
+               },
+               {
+                  "id":6,
+                  "name":"Sonamarg",
+                  "description":"Sonamarg, also known as the 'Meadow of Gold,' is a mesmerizing hill station in Kashmir, surrounded by snow-capped mountains and alpine meadows."
+               }
+            ],
+            "about":"Jammu and Kashmir is a union territory in northern India, known for its breathtaking landscapes, rich cultural heritage, and religious significance. The region is renowned for its scenic beauty, including the stunning Dal Lake, snow-clad mountains, and lush green valleys. Jammu and Kashmir offer a diverse range of attractions, such as ancient temples, monasteries, adventure sports, and traditional Kashmiri handicrafts.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Dal Lake",
+                  "description":"Dal Lake is a famous lake in Srinagar, known for its mesmerizing beauty, houseboats, and shikara rides.",
+                  "image":"https://images.unsplash.com/photo-1569466896819-33506953a0e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Vaishno Devi Temple",
+                  "description":"Vaishno Devi Temple is a renowned Hindu pilgrimage site in Jammu, dedicated to the goddess Vaishno Devi.",
+                  "image":"https://images.unsplash.com/photo-1622406615106-03c477d6ff20?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Magnetic Hill",
+                  "description":"Magnetic Hill is a unique natural phenomenon near Leh, where vehicles appear to defy gravity and move uphill on their own.",
+                  "image":"https://images.unsplash.com/photo-1607689300515-9ecde4b778e1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Shankaracharya Temple",
+                  "description":"Shankaracharya Temple is a prominent Hindu temple located on top of a hill in Srinagar, offering panoramic views of the city.",
+                  "image":"https://images.unsplash.com/photo-1602538997395-5ad737fd2f4a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Gulmarg Gondola",
+                  "description":"Gulmarg Gondola is one of the highest cable car systems in the world, offering breathtaking views of the Himalayan peaks.",
+                  "image":"https://images.unsplash.com/photo-1607869125001-70c5f27048a4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":6,
+                  "name":"Aru Valley",
+                  "description":"Aru Valley is a serene and picturesque valley near Pahalgam, known for its pristine beauty and lush meadows.",
+                  "image":"https://images.unsplash.com/photo-1567064151049-41bc4dce6fc7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Tulip Festival",
+                  "description":"The Tulip Festival is held in Srinagar every spring when the tulip gardens are in full bloom, showcasing a vibrant display of flowers.",
+                  "date":"April",
+                  "image":"https://images.unsplash.com/photo-1585475021639-12dd5a1e9a9f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Hemis Festival",
+                  "description":"Hemis Festival is a popular cultural event celebrated in the Hemis Monastery in Leh, featuring masked dances and music performances.",
+                  "date":"June/July",
+                  "image":"https://images.unsplash.com/photo-1573298189620-715b15c9d95b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Kheer Bhawani Mela",
+                  "description":"Kheer Bhawani Mela is a major religious festival held at the Kheer Bhawani Temple near Srinagar, attracting devotees from all over.",
+                  "date":"May/June",
+                  "image":"https://images.unsplash.com/photo-1591700115369-f0c41d809af3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               }
+            ],
+            "facts":[
+               "Jammu and Kashmir is often referred to as the 'Paradise on Earth' due to its stunning natural beauty.",
+               "The region is known for its rich heritage of traditional Kashmiri cuisine, including delicacies like Rogan Josh and Kashmiri Pulao.",
+               "Jammu and Kashmir is home to several ancient temples, mosques, and monasteries, reflecting its diverse religious and cultural heritage.",
+               "The Dal Lake in Srinagar is famous for its picturesque houseboats, known as 'Shikaras', offering a unique and tranquil experience for visitors.",
+               "The region is a popular destination for adventure enthusiasts, with activities like trekking, skiing, river rafting, and paragliding available in various parts of the state.",
+               "Jammu and Kashmir is known for its exquisite handcrafted products, including Pashmina shawls, carpets, and intricately designed Kashmiri embroidery.",
+               "The state is surrounded by the Himalayan mountain range, offering breathtaking landscapes, snow-capped peaks, and serene valleys.",
+               "Jammu and Kashmir has a rich history, with influences from various dynasties and empires, including the Mughals, Sikhs, and Dogras."
+            ]
+         },
          {
-  "id": 13,
-  "title": "Uttar Pradesh",
-  "cities": [
-    {
-      "id": 1,
-      "name": "Lucknow",
-      "description": "Lucknow is the capital city of Uttar Pradesh, known for its rich cultural heritage and architectural marvels like the Bara Imambara and Rumi Darwaza."
-    },
-    {
-      "id": 2,
-      "name": "Agra",
-      "description": "Agra is famous for the iconic Taj Mahal, a UNESCO World Heritage Site, and other historical landmarks like the Agra Fort and Fatehpur Sikri."
-    },
-    {
-      "id": 3,
-      "name": "Varanasi",
-      "description": "Varanasi, also known as Kashi, is one of the oldest living cities in the world and a major pilgrimage site for Hindus. It is famous for its ghats along the sacred River Ganges."
-    },
-    {
-      "id": 4,
-      "name": "Kanpur",
-      "description": "Kanpur is a major industrial city in Uttar Pradesh, known for its textile and leather industries. It is also home to the famous Kanpur Memorial Church and the Allen Forest Zoo."
-    },
-    {
-      "id": 5,
-      "name": "Allahabad",
-      "description": "Allahabad, officially known as Prayagraj, is a holy city in Uttar Pradesh. It is famous for the Triveni Sangam, the confluence of the Ganges, Yamuna, and mythical Saraswati rivers."
-    },
-    {
-      "id": 6,
-      "name": "Varanasi",
-      "description": "Mathura is a sacred city in Uttar Pradesh, believed to be the birthplace of Lord Krishna. It is known for its Krishna Janmabhoomi temple and vibrant Holi celebrations."
-    }
-  ],
-  "about": "Uttar Pradesh is the most populous state in India and is located in the northern part of the country. It is known for its rich historical and cultural heritage, with several iconic landmarks and religious sites. The state has a diverse landscape, ranging from the fertile plains of the Gangetic plain to the foothills of the Himalayas. Uttar Pradesh is renowned for its vibrant festivals, arts, literature, and cuisine.",
-  "attractions": [
-    {
-      "id": 1,
-      "name": "Taj Mahal",
-      "description": "The Taj Mahal is an iconic white marble mausoleum in Agra, built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal. It is considered a masterpiece of Mughal architecture.",
-      "image": "https://images.unsplash.com/photo-1550304788-27df8eb9bf9b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1778&q=80"
-    },
-    {
-      "id": 2,
-      "name": "Bara Imambara",
-      "description": "Bara Imambara is a historical monument in Lucknow, known for its unique architecture and the Bhool Bhulaiya labyrinth. It is a significant landmark of Awadh architecture.",
-      "image": "https://images.unsplash.com/photo-1634074237907-13357c67c4e0?ixid=MnwxMjA3fDB8MHxwaG90"
-    },
-     {
-        "id": 3,
-        "name": "Kashi Vishwanath Temple",
-      "description": "Kashi Vishwanath Temple is a famous Hindu temple dedicated to Lord Shiva in Varanasi. It is one of the holiest pilgrimage sites for Hindus and attracts millions of devotees every year.",
-      "image": "https://images.unsplash.com/photo-1579503781505-736af4641692?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80"
-    },
-    {
-      "id": 4,
-      "name": "Allahabad Fort",
-      "description": "Allahabad Fort is a majestic fort situated on the banks of the Yamuna River in Allahabad. It was built by Emperor Akbar and offers panoramic views of the surrounding area.",
-      "image": "https://images.unsplash.com/photo-1530883377402-51e81079c1ef?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80"
-    }
-  ],
-            "facts": [
-    "Uttar Pradesh is the most populous state in India.",
-    "It is the fourth-largest state in terms of area.",
-    "The state has a rich cultural heritage and is known for its historical monuments and architectural wonders.",
-    "Uttar Pradesh is the birthplace of Lord Rama and Lord Krishna, two prominent figures in Hindu mythology.",
-    "The state is famous for its traditional arts and crafts, including the intricate Lucknowi Chikankari embroidery and Banarasi silk sarees."
-  ],
-  "events": [
-    {
-      "id": 1,
-      "name": "Kumbh Mela",
-      "description": "Kumbh Mela is a major Hindu pilgrimage and one of the largest religious gatherings in the world. It is held every 12 years in different cities of Uttar Pradesh, including Allahabad, Haridwar, Nashik, and Ujjain.",
-      "image": "https://images.unsplash.com/photo-1553642636-22ab7efa89e6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-    },
-    {
-      "id": 2,
-      "name": "Taj Mahotsav",
-      "description": "Taj Mahotsav is an annual cultural festival held in Agra, Uttar Pradesh. It showcases the rich heritage, arts, crafts, music, and dance of the region.",
-      "image": "https://images.unsplash.com/photo-1585276568829-4473de9c7ea6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-    },
-    {
-      "id": 3,
-      "name": "Ayodhya Ram Navami Mela",
-      "description": "Ayodhya Ram Navami Mela is a grand celebration of Lord Rama's birth anniversary in Ayodhya, Uttar Pradesh. The city is believed to be the birthplace of Lord Rama, and the festival attracts devotees from all over the country.",
-      "image": "https://images.unsplash.com/photo-1585832635071-661f9f827a3d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-    },
-    {
-      "id": 4,
-      "name": "Lucknow Mahotsav",
-      "description": "Lucknow Mahotsav is a 10-day cultural extravaganza held in Lucknow, Uttar Pradesh. It showcases the vibrant arts, crafts, music, dance, and cuisine of the region.",
-      "image": "https://images.unsplash.com/photo-1599639637116-3b6f4780b3f2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-    },
-    {
-      "id": 5,
-      "name": "Varanasi Ganga Aarti",
-      "description": "Varanasi Ganga Aarti is a mesmerizing ritual held on the banks of the River Ganges in Varanasi, Uttar Pradesh. Devotees gather to witness the evening prayer ceremony, where lamps are lit and offered to the river as an act of worship.",
-             "image": "https://images.unsplash.com/photo-1572732533814-cc68aefcaa88?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-    }
-  ],
-  "thingsToDo": [
-    {
-      "id": 1,
-      "name": "Visit the Taj Mahal",
-      "description": "Explore the iconic Taj Mahal in Agra, a UNESCO World Heritage site and one of the Seven Wonders of the World. Admire its stunning architecture and learn about the love story behind its creation.",
-      "image": "https://images.unsplash.com/photo-1553642636-22ab7efa89e6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-    },
-    {
-      "id": 2,
-      "name": "Explore Varanasi",
-      "description": "Experience the spiritual city of Varanasi, situated on the banks of the sacred River Ganges. Witness the mesmerizing Ganga Aarti, take a boat ride along the ghats, and visit ancient temples.",
-      "image": "https://images.unsplash.com/photo-1542181961-9590d0c58a68?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-    },
-    {
-      "id": 3,
-      "name": "Discover the Heritage of Lucknow",
-      "description": "Immerse yourself in the cultural heritage of Lucknow, known for its architectural marvels like Bara Imambara and Chota Imambara. Indulge in the city's famous Awadhi cuisine and explore its vibrant markets.",
-      "image": "https://images.unsplash.com/photo-1551836596-4f3efdd280ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-    },
-    {
-      "id": 4,
-      "name": "Wildlife Safari in Dudhwa National Park",
-      "description": "Embark on an exciting wildlife safari in Dudhwa National Park, located in the Terai region of Uttar Pradesh. Spot majestic tigers, rhinoceros, elephants, and various bird species in their natural habitat.",
-      "image": "https://images.unsplash.com/photo-1542282088-3aabe618c6c5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-    },
-    {
-      "id": 5,
-      "name": "Visit the City of Nawabs - Faizabad",
-      "description": "Explore the historical city of Faizabad, known for its architectural gems like the Faizabad Fort and the Gulab Bari mausoleum. Learn about the cultural significance of the city and enjoy its serene ambiance.",
-      "image": "https://images.unsplash.com/photo-1558055717-9ddcf755aafe?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-    }
-  ]
-},
+            "id":13,
+            "title":"Uttar Pradesh",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Lucknow",
+                  "description":"Lucknow is the capital city of Uttar Pradesh, known for its rich cultural heritage and architectural marvels like the Bara Imambara and Rumi Darwaza."
+               },
+               {
+                  "id":2,
+                  "name":"Agra",
+                  "description":"Agra is famous for the iconic Taj Mahal, a UNESCO World Heritage Site, and other historical landmarks like the Agra Fort and Fatehpur Sikri."
+               },
+               {
+                  "id":3,
+                  "name":"Varanasi",
+                  "description":"Varanasi, also known as Kashi, is one of the oldest living cities in the world and a major pilgrimage site for Hindus. It is famous for its ghats along the sacred River Ganges."
+               },
+               {
+                  "id":4,
+                  "name":"Kanpur",
+                  "description":"Kanpur is a major industrial city in Uttar Pradesh, known for its textile and leather industries. It is also home to the famous Kanpur Memorial Church and the Allen Forest Zoo."
+               },
+               {
+                  "id":5,
+                  "name":"Allahabad",
+                  "description":"Allahabad, officially known as Prayagraj, is a holy city in Uttar Pradesh. It is famous for the Triveni Sangam, the confluence of the Ganges, Yamuna, and mythical Saraswati rivers."
+               },
+               {
+                  "id":6,
+                  "name":"Varanasi",
+                  "description":"Mathura is a sacred city in Uttar Pradesh, believed to be the birthplace of Lord Krishna. It is known for its Krishna Janmabhoomi temple and vibrant Holi celebrations."
+               }
+            ],
+            "about":"Uttar Pradesh is the most populous state in India and is located in the northern part of the country. It is known for its rich historical and cultural heritage, with several iconic landmarks and religious sites. The state has a diverse landscape, ranging from the fertile plains of the Gangetic plain to the foothills of the Himalayas. Uttar Pradesh is renowned for its vibrant festivals, arts, literature, and cuisine.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Taj Mahal",
+                  "description":"The Taj Mahal is an iconic white marble mausoleum in Agra, built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal. It is considered a masterpiece of Mughal architecture.",
+                  "image":"https://images.unsplash.com/photo-1550304788-27df8eb9bf9b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Bara Imambara",
+                  "description":"Bara Imambara is a historical monument in Lucknow, known for its unique architecture and the Bhool Bhulaiya labyrinth. It is a significant landmark of Awadh architecture.",
+                  "image":"https://images.unsplash.com/photo-1634074237907-13357c67c4e0?ixid=MnwxMjA3fDB8MHxwaG90"
+               },
+               {
+                  "id":3,
+                  "name":"Kashi Vishwanath Temple",
+                  "description":"Kashi Vishwanath Temple is a famous Hindu temple dedicated to Lord Shiva in Varanasi. It is one of the holiest pilgrimage sites for Hindus and attracts millions of devotees every year.",
+                  "image":"https://images.unsplash.com/photo-1579503781505-736af4641692?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Allahabad Fort",
+                  "description":"Allahabad Fort is a majestic fort situated on the banks of the Yamuna River in Allahabad. It was built by Emperor Akbar and offers panoramic views of the surrounding area.",
+                  "image":"https://images.unsplash.com/photo-1530883377402-51e81079c1ef?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80"
+               }
+            ],
+            "facts":[
+               "Uttar Pradesh is the most populous state in India.",
+               "It is the fourth-largest state in terms of area.",
+               "The state has a rich cultural heritage and is known for its historical monuments and architectural wonders.",
+               "Uttar Pradesh is the birthplace of Lord Rama and Lord Krishna, two prominent figures in Hindu mythology.",
+               "The state is famous for its traditional arts and crafts, including the intricate Lucknowi Chikankari embroidery and Banarasi silk sarees."
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Kumbh Mela",
+                  "description":"Kumbh Mela is a major Hindu pilgrimage and one of the largest religious gatherings in the world. It is held every 12 years in different cities of Uttar Pradesh, including Allahabad, Haridwar, Nashik, and Ujjain.",
+                  "image":"https://images.unsplash.com/photo-1553642636-22ab7efa89e6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Taj Mahotsav",
+                  "description":"Taj Mahotsav is an annual cultural festival held in Agra, Uttar Pradesh. It showcases the rich heritage, arts, crafts, music, and dance of the region.",
+                  "image":"https://images.unsplash.com/photo-1585276568829-4473de9c7ea6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Ayodhya Ram Navami Mela",
+                  "description":"Ayodhya Ram Navami Mela is a grand celebration of Lord Rama's birth anniversary in Ayodhya, Uttar Pradesh. The city is believed to be the birthplace of Lord Rama, and the festival attracts devotees from all over the country.",
+                  "image":"https://images.unsplash.com/photo-1585832635071-661f9f827a3d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Lucknow Mahotsav",
+                  "description":"Lucknow Mahotsav is a 10-day cultural extravaganza held in Lucknow, Uttar Pradesh. It showcases the vibrant arts, crafts, music, dance, and cuisine of the region.",
+                  "image":"https://images.unsplash.com/photo-1599639637116-3b6f4780b3f2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Varanasi Ganga Aarti",
+                  "description":"Varanasi Ganga Aarti is a mesmerizing ritual held on the banks of the River Ganges in Varanasi, Uttar Pradesh. Devotees gather to witness the evening prayer ceremony, where lamps are lit and offered to the river as an act of worship.",
+                  "image":"https://images.unsplash.com/photo-1572732533814-cc68aefcaa88?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Visit the Taj Mahal",
+                  "description":"Explore the iconic Taj Mahal in Agra, a UNESCO World Heritage site and one of the Seven Wonders of the World. Admire its stunning architecture and learn about the love story behind its creation.",
+                  "image":"https://images.unsplash.com/photo-1553642636-22ab7efa89e6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Explore Varanasi",
+                  "description":"Experience the spiritual city of Varanasi, situated on the banks of the sacred River Ganges. Witness the mesmerizing Ganga Aarti, take a boat ride along the ghats, and visit ancient temples.",
+                  "image":"https://images.unsplash.com/photo-1542181961-9590d0c58a68?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Discover the Heritage of Lucknow",
+                  "description":"Immerse yourself in the cultural heritage of Lucknow, known for its architectural marvels like Bara Imambara and Chota Imambara. Indulge in the city's famous Awadhi cuisine and explore its vibrant markets.",
+                  "image":"https://images.unsplash.com/photo-1551836596-4f3efdd280ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Wildlife Safari in Dudhwa National Park",
+                  "description":"Embark on an exciting wildlife safari in Dudhwa National Park, located in the Terai region of Uttar Pradesh. Spot majestic tigers, rhinoceros, elephants, and various bird species in their natural habitat.",
+                  "image":"https://images.unsplash.com/photo-1542282088-3aabe618c6c5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Visit the City of Nawabs - Faizabad",
+                  "description":"Explore the historical city of Faizabad, known for its architectural gems like the Faizabad Fort and the Gulab Bari mausoleum. Learn about the cultural significance of the city and enjoy its serene ambiance.",
+                  "image":"https://images.unsplash.com/photo-1558055717-9ddcf755aafe?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               }
+            ]
+         },
          {
-   "id":14,
-   "title":"Rajasthan",
-   "cities":[
-      {
-         "id":1,
-         "name":"Jaipur",
-         "description":"Jaipur is the capital city of Rajasthan, known as the 'Pink City' due to its pink-colored buildings."
-      },
-      {
-         "id":2,
-         "name":"Udaipur",
-         "description":"Udaipur is a city in Rajasthan, famous for its beautiful lakes, palaces, and romantic ambiance."
-      },
-      {
-         "id":3,
-         "name":"Jodhpur",
-         "description":"Jodhpur is a city in Rajasthan, known for its magnificent forts, palaces, and vibrant culture."
-      },
-      {
-         "id":4,
-         "name":"Jaisalmer",
-         "description":"Jaisalmer is a city in Rajasthan, famous for its golden sand dunes, magnificent forts, and camel safaris."
-      },
-      {
-         "id":5,
-         "name":"Pushkar",
-         "description":"Pushkar is a holy city in Rajasthan, known for its sacred Pushkar Lake and the annual Pushkar Camel Fair."
-      },
-      {
-         "id":6,
-         "name":"Ajmer",
-         "description":"Ajmer is a city in Rajasthan, famous for the Ajmer Sharif Dargah, a Sufi shrine visited by devotees from different faiths."
-      }
-   ],
-   "about":"Rajasthan is a state in northern India, known for its rich history, vibrant culture, and stunning architecture. It is famous for its majestic palaces, magnificent forts, colorful festivals, and warm hospitality. Rajasthan offers a unique blend of natural beauty, desert landscapes, and royal heritage.",
-   "attractions":[
-      {
-         "id":1,
-         "name":"Amber Fort",
-         "description":"Amber Fort is a magnificent fort complex located in Jaipur, Rajasthan, known for its impressive architecture and artistic elements."
-      },
-      {
-         "id":2,
-         "name":"Hawa Mahal",
-         "description":"Hawa Mahal is a famous palace in Jaipur, Rajasthan, known for its unique honeycomb-like structure and numerous small windows."
-      },
-      {
-         "id":3,
-         "name":"Lake Palace",
-         "description":"Lake Palace is a beautiful palace located in Udaipur, Rajasthan, situated on an island in Lake Pichola, offering breathtaking views."
-      },
-      {
-         "id":4,
-         "name":"Jaisalmer Fort",
-         "description":"Jaisalmer Fort is a massive fortification in Jaisalmer, Rajasthan, known for its yellow sandstone walls and stunning architecture."
-      },
-      {
-         "id":5,
-         "name":"Mehrangarh Fort",
-         "description":"Mehrangarh Fort is a historic fort in Jodhpur, Rajasthan, known for its imposing structure and panoramic views of the city."
-      },
-      {
-         "id":6,
-         "name":"Pushkar Lake",
-         "description":"Pushkar Lake is a sacred lake in Pushkar, Rajasthan, believed to be created by Lord Brahma and is an important pilgrimage site."
-      }
-   ],
-   "thingsToDo":[
-      {
-         "id":1,
-         "name":"Camel Safari in Thar Desert",
-         "description":"Experience the thrill of a camel safari in the Thar Desert, exploring the sand dunes and enjoying the Rajasthani culture."
-      },
-      {
-         "id":2,
-         "name":"Visit the City Palace",
-         "description":"Explore the grandeur of the City Palace in Jaipur, a magnificent palace complex showcasing Rajput and Mughal architecture."
-      },
-      {
-         "id":3,
-         "name":"Attend the Pushkar Camel Fair",
-         "description":"Participate in the vibrant Pushkar Camel Fair, a famous annual livestock fair featuring camel races, cultural events, and more."
-      },
-      {
-         "id":4,
-         "name":"Explore the Blue City of Jodhpur",
-         "description":"Discover the vibrant blue-painted houses and narrow streets of Jodhpur, also known as the Blue City of Rajasthan."
-      },
-      {
-         "id":5,
-         "name":"Shop for Traditional Handicrafts",
-         "description":"Indulge in shopping for traditional handicrafts like textiles, pottery, jewelry, and paintings in the bustling markets of Rajasthan."
-      },
-      {
-         "id":6,
-         "name":"Witness the Elephant Festival",
-         "description":"Experience the grandeur of the Elephant Festival in Jaipur, featuring beautifully decorated elephants, cultural performances, and more."
-      }
-   ],
-   "events":[
-      {
-         "id":1,
-         "name":"Jaipur Literature Festival",
-         "description":"The Jaipur Literature Festival is a renowned literary event held annually in Jaipur, attracting writers, thinkers, and literature enthusiasts from around the world.",
-         "image":""
-      },
-      {
-         "id":2,
-         "name":"Pushkar Camel Fair",
-         "description":"The Pushkar Camel Fair is a famous cultural and livestock fair held in Pushkar, Rajasthan, featuring camel races, music, dance, and trading",
-         "image":""
-      },
-      {
-         "id":3,
-         "name":"Desert Festival",
-         "description":"The Desert Festival is a vibrant cultural event held in Jaisalmer, Rajasthan, showcasing folk music and dance performances, camel races, and other traditional activities.",
-         "image":""
-      },
-      {
-         "id":4,
-         "name":"Kite Festival",
-         "description":"The Kite Festival, also known as Makar Sankranti, is celebrated with great enthusiasm in Rajasthan, where people fly colorful kites and engage in friendly kite-flying competitions.",
-         "image":""
-      },
-      {
-         "id":5,
-         "name":"Teej Festival",
-         "description":"Teej Festival is a significant celebration in Rajasthan, especially for women, featuring traditional dance, singing, swings, and applying henna designs.",
-         "image":""
-      },
-      {
-         "id":6,
-         "name":"Gangaur Festival",
-         "description":"Gangaur Festival is a colorful women-centric festival celebrated in Rajasthan, honoring the goddess Gauri with processions, music, and dancing.",
-         "image":""
-      }
-   ],
-   "facts":[
-      "Rajasthan is known as the 'Land of Kings' due to its rich history of Rajputana kingdoms.",
-      "The Thar Desert, also known as the Great Indian Desert, is located in Rajasthan.",
-      "Rajasthan is home to several magnificent forts and palaces that showcase the architectural brilliance of the region.",
-      "The state of Rajasthan is famous for its traditional art forms, such as miniature paintings, puppetry, and folk music.",
-      "Rajasthan is known for its delicious cuisine, including popular dishes like dal bati churma, gatte ki sabzi, and laal maas.",
-      "Rajasthan is a popular destination for wildlife enthusiasts, with several national parks and sanctuaries, including Ranthambore National Park and Sariska Tiger Reserve."
-   ]
-},
+            "id":14,
+            "title":"Rajasthan",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Jaipur",
+                  "description":"Jaipur is the capital city of Rajasthan, known as the 'Pink City' due to its pink-colored buildings."
+               },
+               {
+                  "id":2,
+                  "name":"Udaipur",
+                  "description":"Udaipur is a city in Rajasthan, famous for its beautiful lakes, palaces, and romantic ambiance."
+               },
+               {
+                  "id":3,
+                  "name":"Jodhpur",
+                  "description":"Jodhpur is a city in Rajasthan, known for its magnificent forts, palaces, and vibrant culture."
+               },
+               {
+                  "id":4,
+                  "name":"Jaisalmer",
+                  "description":"Jaisalmer is a city in Rajasthan, famous for its golden sand dunes, magnificent forts, and camel safaris."
+               },
+               {
+                  "id":5,
+                  "name":"Pushkar",
+                  "description":"Pushkar is a holy city in Rajasthan, known for its sacred Pushkar Lake and the annual Pushkar Camel Fair."
+               },
+               {
+                  "id":6,
+                  "name":"Ajmer",
+                  "description":"Ajmer is a city in Rajasthan, famous for the Ajmer Sharif Dargah, a Sufi shrine visited by devotees from different faiths."
+               }
+            ],
+            "about":"Rajasthan is a state in northern India, known for its rich history, vibrant culture, and stunning architecture. It is famous for its majestic palaces, magnificent forts, colorful festivals, and warm hospitality. Rajasthan offers a unique blend of natural beauty, desert landscapes, and royal heritage.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Amber Fort",
+                  "description":"Amber Fort is a magnificent fort complex located in Jaipur, Rajasthan, known for its impressive architecture and artistic elements."
+               },
+               {
+                  "id":2,
+                  "name":"Hawa Mahal",
+                  "description":"Hawa Mahal is a famous palace in Jaipur, Rajasthan, known for its unique honeycomb-like structure and numerous small windows."
+               },
+               {
+                  "id":3,
+                  "name":"Lake Palace",
+                  "description":"Lake Palace is a beautiful palace located in Udaipur, Rajasthan, situated on an island in Lake Pichola, offering breathtaking views."
+               },
+               {
+                  "id":4,
+                  "name":"Jaisalmer Fort",
+                  "description":"Jaisalmer Fort is a massive fortification in Jaisalmer, Rajasthan, known for its yellow sandstone walls and stunning architecture."
+               },
+               {
+                  "id":5,
+                  "name":"Mehrangarh Fort",
+                  "description":"Mehrangarh Fort is a historic fort in Jodhpur, Rajasthan, known for its imposing structure and panoramic views of the city."
+               },
+               {
+                  "id":6,
+                  "name":"Pushkar Lake",
+                  "description":"Pushkar Lake is a sacred lake in Pushkar, Rajasthan, believed to be created by Lord Brahma and is an important pilgrimage site."
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Camel Safari in Thar Desert",
+                  "description":"Experience the thrill of a camel safari in the Thar Desert, exploring the sand dunes and enjoying the Rajasthani culture."
+               },
+               {
+                  "id":2,
+                  "name":"Visit the City Palace",
+                  "description":"Explore the grandeur of the City Palace in Jaipur, a magnificent palace complex showcasing Rajput and Mughal architecture."
+               },
+               {
+                  "id":3,
+                  "name":"Attend the Pushkar Camel Fair",
+                  "description":"Participate in the vibrant Pushkar Camel Fair, a famous annual livestock fair featuring camel races, cultural events, and more."
+               },
+               {
+                  "id":4,
+                  "name":"Explore the Blue City of Jodhpur",
+                  "description":"Discover the vibrant blue-painted houses and narrow streets of Jodhpur, also known as the Blue City of Rajasthan."
+               },
+               {
+                  "id":5,
+                  "name":"Shop for Traditional Handicrafts",
+                  "description":"Indulge in shopping for traditional handicrafts like textiles, pottery, jewelry, and paintings in the bustling markets of Rajasthan."
+               },
+               {
+                  "id":6,
+                  "name":"Witness the Elephant Festival",
+                  "description":"Experience the grandeur of the Elephant Festival in Jaipur, featuring beautifully decorated elephants, cultural performances, and more."
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Jaipur Literature Festival",
+                  "description":"The Jaipur Literature Festival is a renowned literary event held annually in Jaipur, attracting writers, thinkers, and literature enthusiasts from around the world.",
+                  "image":""
+               },
+               {
+                  "id":2,
+                  "name":"Pushkar Camel Fair",
+                  "description":"The Pushkar Camel Fair is a famous cultural and livestock fair held in Pushkar, Rajasthan, featuring camel races, music, dance, and trading",
+                  "image":""
+               },
+               {
+                  "id":3,
+                  "name":"Desert Festival",
+                  "description":"The Desert Festival is a vibrant cultural event held in Jaisalmer, Rajasthan, showcasing folk music and dance performances, camel races, and other traditional activities.",
+                  "image":""
+               },
+               {
+                  "id":4,
+                  "name":"Kite Festival",
+                  "description":"The Kite Festival, also known as Makar Sankranti, is celebrated with great enthusiasm in Rajasthan, where people fly colorful kites and engage in friendly kite-flying competitions.",
+                  "image":""
+               },
+               {
+                  "id":5,
+                  "name":"Teej Festival",
+                  "description":"Teej Festival is a significant celebration in Rajasthan, especially for women, featuring traditional dance, singing, swings, and applying henna designs.",
+                  "image":""
+               },
+               {
+                  "id":6,
+                  "name":"Gangaur Festival",
+                  "description":"Gangaur Festival is a colorful women-centric festival celebrated in Rajasthan, honoring the goddess Gauri with processions, music, and dancing.",
+                  "image":""
+               }
+            ],
+            "facts":[
+               "Rajasthan is known as the 'Land of Kings' due to its rich history of Rajputana kingdoms.",
+               "The Thar Desert, also known as the Great Indian Desert, is located in Rajasthan.",
+               "Rajasthan is home to several magnificent forts and palaces that showcase the architectural brilliance of the region.",
+               "The state of Rajasthan is famous for its traditional art forms, such as miniature paintings, puppetry, and folk music.",
+               "Rajasthan is known for its delicious cuisine, including popular dishes like dal bati churma, gatte ki sabzi, and laal maas.",
+               "Rajasthan is a popular destination for wildlife enthusiasts, with several national parks and sanctuaries, including Ranthambore National Park and Sariska Tiger Reserve."
+            ]
+         },
          {
-   "id":2,
-   "title":"Madhya Pradesh",
-   "cities":[
-      {
-         "id":1,
-         "name":"Bhopal",
-         "description":"Bhopal is the capital and largest city of Madhya Pradesh."
-      },
-      {
-         "id":2,
-         "name":"Indore",
-         "description":"Indore is the largest city in Madhya Pradesh and known for its vibrant food scene."
-      },
-      {
-         "id":3,
-         "name":"Gwalior",
-         "description":"Gwalior is a historic city in Madhya Pradesh, known for its magnificent Gwalior Fort."
-      },
-      {
-         "id":4,
-         "name":"Jabalpur",
-         "description":"Jabalpur is a city in Madhya Pradesh, famous for its marble rock formations and Dhuandhar Waterfall."
-      },
-      {
-         "id":5,
-         "name":"Ujjain",
-         "description":"Ujjain is an ancient city in Madhya Pradesh, known for its religious significance and Kumbh Mela."
-      },
-      {
-         "id":6,
-         "name":"Khajuraho",
-         "description":"Khajuraho is a UNESCO World Heritage site in Madhya Pradesh, renowned for its intricately carved temples."
-      }
-   ],
-   "about":"Madhya Pradesh, located in central India, is known for its rich history, diverse culture, and architectural wonders. The state is home to numerous ancient temples, UNESCO World Heritage sites, and wildlife sanctuaries. Madhya Pradesh offers a blend of natural beauty, historical landmarks, and spiritual experiences.",
-   "attractions":[
-      {
-         "id":1,
-         "name":"Kanha National Park",
-         "description":"Kanha National Park is one of the largest tiger reserves in India and a popular wildlife destination in Madhya Pradesh.",
-         "image":"https://images.unsplash.com/photo-1613217197043-c6346d9b63c5"
-      },
-      {
-         "id":2,
-         "name":"Sanchi Stupa",
-         "description":"Sanchi Stupa is a UNESCO World Heritage site and an important Buddhist monument in Madhya Pradesh.",
-         "image":"https://images.unsplash.com/photo-1598037595710-f1dced99f7f3"
-      },
-      {
-         "id":3,
-         "name":"Gwalior Fort",
-         "description":"Gwalior Fort is a majestic hilltop fort in Gwalior, known for its stunning architecture and panoramic views.",
-         "image":"https://images.unsplash.com/photo-1600258142755-540ceabb1a0b"
-      },
-      {
-         "id":4,
-         "name":"Bhimbetka Caves",
-         "description":"Bhimbetka Caves are a UNESCO World Heritage site and showcase prehistoric rock art in Madhya Pradesh.",
-         "image":"https://images.unsplash.com/photo-1599475237786-8aeb0af5e4c9"
-      },
-      {
-         "id":5,
-         "name":"Khajuraho Temples",
-         "description":"Khajuraho Temples are a group of magnificent temples known for their erotic sculptures and architectural brilliance.",
-         "image":"https://images.unsplash.com/photo-1564890504026-62a1eaea6158"
-      },
-      {
-         "id":6,
-         "name":"Pachmarhi",
-         "description":"Pachmarhi is a hill station in Madhya Pradesh, offering breathtaking views, waterfalls, and lush green landscapes.",
-         "image":"https://images.unsplash.com/photo-1623045791236-3a2a8e9e99fc"
-      }
-   ],
-   "thingsToDo":[
-      {
-         "id":1,
-         "name":"Explore the Wildlife at Kanha National Park",
-         "description":"Embark on a thrilling wildlife safari in Kanha National Park to spot tigers, leopards, deer, and a variety of bird species."
-      },
-      {
-         "id":2,
-         "name":"Visit Sanchi Stupa",
-         "description":"Discover the ancient Buddhist heritage at Sanchi Stupa and admire the intricate carvings and serene surroundings."
-      },
-      {
-         "id":3,
-         "name":"Witness the Magnificence of Gwalior Fort",
-         "description":"Explore the grandeur of Gwalior Fort, visit the historic palaces, and enjoy the panoramic views of the city."
-      },
-      {
-         "id":4,
-         "name":"Marvel at the Rock Art in Bhimbetka Caves",
-         "description":"Take a journey back in time at Bhimbetka Caves and admire the fascinating prehistoric rock paintings."
-      },
-      {
-         "id":5,
-         "name":"Experience the Splendor of Khajuraho Temples",
-         "description":"Immerse yourself in the architectural brilliance and intricate sculptures of the Khajuraho Temples, depicting various aspects of life."
-      },
-      {
-         "id":6,
-         "name":"Enjoy Nature in Pachmarhi",
-         "description":"Indulge in the serene beauty of Pachmarhi, go hiking to the viewpoints, and relax amidst the enchanting waterfalls."
-      }
-   ],
-   "events":[
-      {
-         "id":1,
-         "name":"Khajuraho Dance Festival",
-         "description":"Witness captivating classical dance performances at the Khajuraho Dance Festival held annually in February."
-      },
-      {
-         "id":2,
-         "name":"Ujjain Kumbh Mela",
-         "description":"Participate in the spiritual gathering of Ujjain Kumbh Mela, held once every 12 years, and experience Hindu rituals and ceremonies."
-      },
-      {
-         "id":3,
-         "name":"Tansen Music Festival",
-         "description":"Enjoy melodious classical music performances at the Tansen Music Festival in Gwalior, dedicated to the legendary musician Tansen."
-      },
-      {
-         "id":4,
-         "name":"Malwa Utsav",
-         "description":"Celebrate the vibrant culture of Malwa region at the Malwa Utsav, featuring traditional music, dance, and handicrafts."
-      },
-      {
-         "id":5,
-         "name":"Tribal Lokotsav",
-         "description":"Experience the rich tribal culture of Madhya Pradesh at the Tribal Lokotsav, showcasing traditional art, crafts, and performances."
-      }
-   ],
-   "facts":[
-      "Madhya Pradesh is often referred to as the 'Heart of India' due to its central location.",
-      "The state has nine national parks and 25 wildlife sanctuaries, making it a haven for nature and wildlife enthusiasts.",
-      "The world-famous Kumbh Mela takes place in Madhya Pradesh, rotating between the cities of Ujjain, Haridwar, Nashik, and Allahabad.",
-      "Bhopal, the capital city of Madhya Pradesh, is known as the 'City of Lakes' due to the presence of several beautiful lakes.",
-      "Madhya Pradesh is home to the largest group of monuments in India, including the UNESCO World Heritage sites of Khajuraho and Sanchi Stupa.",
-      "The state is renowned for its handloom and handicrafts, including the famous Chanderi and Maheshwari sarees.",
-      "Madhya Pradesh has a rich cultural heritage and is known for its folk dances like Giddha, Gond, and Kalbelia.",
-      "Poha, a popular breakfast dish made from flattened rice, is a specialty of Madhya Pradesh.",
-      "The state has a diverse range of flora and fauna, including the iconic Royal Bengal Tiger in its national parks.",
-      "Madhya Pradesh is also known for its natural wonders like marble rock formations in Bhedaghat and the Dhuandhar Waterfall in Jabalpur."
-   ]
-},
-  {
-   "id":16,
-   "title":"Chhattisgarh",
-   "cities":[
-      {
-         "id":1,
-         "name":"Raipur",
-         "description":"Raipur is the capital and largest city of Chhattisgarh."
-      },
-      {
-         "id":2,
-         "name":"Bilaspur",
-         "description":"Bilaspur is a major city in Chhattisgarh, known for its rich cultural heritage and historical sites."
-      },
-      {
-         "id":3,
-         "name":"Raigarh",
-         "description":"Raigarh is a city in Chhattisgarh, famous for its coal mines and steel plants."
-      },
-      {
-         "id":4,
-         "name":"Jagdalpur",
-         "description":"Jagdalpur is a scenic city in Chhattisgarh, surrounded by lush green forests and waterfalls."
-      },
-      {
-         "id":5,
-         "name":"Durg",
-         "description":"Durg is a vibrant city in Chhattisgarh, known for its historical temples and industrial significance."
-      },
-      {
-         "id":6,
-         "name":"Bastar",
-         "description":"Bastar is a tribal region in Chhattisgarh, offering a unique cultural experience and natural beauty."
-      }
-   ],
-   "about":"Chhattisgarh, located in central India, is a state known for its tribal heritage, rich biodiversity, and ancient temples. The state boasts of stunning natural landscapes, waterfalls, and dense forests, providing ample opportunities for adventure and exploration. Chhattisgarh is also home to vibrant tribal communities, each with its distinct culture and traditions.",
-   "attractions":[
-      {
-         "id":1,
-         "name":"Chitrakote Waterfall",
-         "description":"Chitrakote Waterfall is the widest waterfall in India, often referred to as the 'Niagara Falls of India.'",
-         "image":"https://images.unsplash.com/photo-1565099486862-c6e2b8b47f4b"
-      },
-      {
-         "id":2,
-         "name":"Barnawapara Wildlife Sanctuary",
-         "description":"Barnawapara Wildlife Sanctuary is a haven for wildlife enthusiasts, offering sightings of tigers, leopards, and various bird species.",
-         "image":"https://images.unsplash.com/photo-1604610846797-4e73d932e7db"
-      },
-      {
-         "id":3,
-         "name":"Bastar Dussehra",
-         "description":"Bastar Dussehra is a unique celebration of the festival, characterized by colorful processions, traditional dances, and music.",
-         "image":"https://images.unsplash.com/photo-1572624856491-5f527823d6a1"
-      },
-      {
-         "id":4,
-         "name":"Bhoramdeo Temple",
-         "description":"Bhoramdeo Temple is an ancient Hindu temple dedicated to Lord Shiva, known for its intricate carvings and architectural beauty.",
-         "image":"https://images.unsplash.com/photo-1595958827680-5326bb0ef527"
-      },
-      {
-         "id":5,
-         "name":"Kanger Ghati National Park",
-         "description":"Kanger Ghati National Park is a biodiversity hotspot, home to unique flora and fauna, caves, and stunning natural formations.",
-         "image":"https://images.unsplash.com/photo-1575557380757-13"
-      },
-      {
-         "id":6,
-         "name":"Mahamaya Temple",
-         "description":"Mahamaya Temple is a popular pilgrimage site in Chhattisgarh, dedicated to the goddess Mahamaya."
-      }
-   ],
-   "thingsToDo":[
-      {
-         "id":1,
-         "name":"Explore the Majestic Chitrakote Waterfall",
-         "description":"Visit Chitrakote Waterfall and witness its breathtaking beauty, surrounded by lush greenery and cascading waters."
-      },
-      {
-         "id":2,
-         "name":"Embark on a Wildlife Safari at Barnawapara Wildlife Sanctuary",
-         "description":"Experience an exciting wildlife safari at Barnawapara Wildlife Sanctuary, spot rare animals, and enjoy birdwatching."
-      },
-      {
-         "id":3,
-         "name":"Witness the Vibrant Bastar Dussehra Festival",
-         "description":"Immerse yourself in the vibrant celebrations of Bastar Dussehra, characterized by colorful processions, traditional dances, and music."
-      },
-      {
-         "id":4,
-         "name":"Discover the Architectural Beauty of Bhoramdeo Temple",
-         "description":"Visit the ancient Bhoramdeo Temple dedicated to Lord Shiva, known for its exquisite carvings and architectural splendor."
-      },
-      {
-         "id":5,
-         "name":"Explore the Biodiversity at Kanger Ghati National Park",
-         "description":"Embark on a nature adventure at Kanger Ghati National Park, home to diverse flora, fauna, caves, and natural formations."
-      },
-      {
-         "id":6,
-         "name":"Visit Mahant Ghasidas Memorial Museum",
-         "description":"Explore the fascinating exhibits at Mahant Ghasidas Memorial Museum in Raipur, showcasing the rich history and culture of the region."
-      }
-   ],
-   "events":[
-      {
-         "id":1,
-         "name":"Bastar Lokotsav",
-         "description":"Experience the vibrant tribal culture at the Bastar Lokotsav, featuring traditional art, craft, music, and dance performances."
-      },
-      {
-         "id":2,
-         "name":"Rajim Kumbh Mela",
-         "description":"Participate in the auspicious Rajim Kumbh Mela, a major Hindu pilgrimage and cultural festival held in Rajim."
-      },
-      {
-         "id":3,
-         "name":"Sirpur Dance and Music Festival",
-         "description":"Enjoy mesmerizing dance and music performances at the Sirpur Dance and Music Festival, showcasing classical and folk art forms."
-      },
-      {
-         "id":4,
-         "name":"Hareli Festival",
-         "description":"Celebrate the agricultural festival of Hareli, marked by rituals, traditional performances, and the worship of goddess Annapurna."
-      },
-      {
-         "id":5,
-         "name":"Champaran Mela",
-         "description":"Participate in the vibrant Champaran Mela, a fair dedicated to Lord Rama, featuring cultural programs, music, and local cuisine."
-      }
-   ],
-   "facts":[
-      "Chhattisgarh is the 10th largest state in India, known for its abundant mineral resources.",
-      "The state is famous for its traditional tribal art forms, such as the Bastar wooden crafts and terracotta figurines.",
-      "Chhattisgarh has several ancient rock-cut caves, including the famous Jogimara and Kutumsar caves.",
-      "The state is home to various wildlife sanctuaries and national parks, including Indravati National Park and Udanti-Sitanadi Wildlife Sanctuary.",
-      "Chhattisgarh has a diverse cuisine that includes regional specialties like 'Koshti curry,' 'Chila,' and 'Petha.'",
-      "The state celebrates numerous festivals, including Bastar Dussehra, Madai Festival, and Rajim Kumbh Mela."
-   ]
-}
-
-
-        
-        
-         
-         
-         
-
-     
-
+            "id":2,
+            "title":"Madhya Pradesh",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Bhopal",
+                  "description":"Bhopal is the capital and largest city of Madhya Pradesh."
+               },
+               {
+                  "id":2,
+                  "name":"Indore",
+                  "description":"Indore is the largest city in Madhya Pradesh and known for its vibrant food scene."
+               },
+               {
+                  "id":3,
+                  "name":"Gwalior",
+                  "description":"Gwalior is a historic city in Madhya Pradesh, known for its magnificent Gwalior Fort."
+               },
+               {
+                  "id":4,
+                  "name":"Jabalpur",
+                  "description":"Jabalpur is a city in Madhya Pradesh, famous for its marble rock formations and Dhuandhar Waterfall."
+               },
+               {
+                  "id":5,
+                  "name":"Ujjain",
+                  "description":"Ujjain is an ancient city in Madhya Pradesh, known for its religious significance and Kumbh Mela."
+               },
+               {
+                  "id":6,
+                  "name":"Khajuraho",
+                  "description":"Khajuraho is a UNESCO World Heritage site in Madhya Pradesh, renowned for its intricately carved temples."
+               }
+            ],
+            "about":"Madhya Pradesh, located in central India, is known for its rich history, diverse culture, and architectural wonders. The state is home to numerous ancient temples, UNESCO World Heritage sites, and wildlife sanctuaries. Madhya Pradesh offers a blend of natural beauty, historical landmarks, and spiritual experiences.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Kanha National Park",
+                  "description":"Kanha National Park is one of the largest tiger reserves in India and a popular wildlife destination in Madhya Pradesh.",
+                  "image":"https://images.unsplash.com/photo-1613217197043-c6346d9b63c5"
+               },
+               {
+                  "id":2,
+                  "name":"Sanchi Stupa",
+                  "description":"Sanchi Stupa is a UNESCO World Heritage site and an important Buddhist monument in Madhya Pradesh.",
+                  "image":"https://images.unsplash.com/photo-1598037595710-f1dced99f7f3"
+               },
+               {
+                  "id":3,
+                  "name":"Gwalior Fort",
+                  "description":"Gwalior Fort is a majestic hilltop fort in Gwalior, known for its stunning architecture and panoramic views.",
+                  "image":"https://images.unsplash.com/photo-1600258142755-540ceabb1a0b"
+               },
+               {
+                  "id":4,
+                  "name":"Bhimbetka Caves",
+                  "description":"Bhimbetka Caves are a UNESCO World Heritage site and showcase prehistoric rock art in Madhya Pradesh.",
+                  "image":"https://images.unsplash.com/photo-1599475237786-8aeb0af5e4c9"
+               },
+               {
+                  "id":5,
+                  "name":"Khajuraho Temples",
+                  "description":"Khajuraho Temples are a group of magnificent temples known for their erotic sculptures and architectural brilliance.",
+                  "image":"https://images.unsplash.com/photo-1564890504026-62a1eaea6158"
+               },
+               {
+                  "id":6,
+                  "name":"Pachmarhi",
+                  "description":"Pachmarhi is a hill station in Madhya Pradesh, offering breathtaking views, waterfalls, and lush green landscapes.",
+                  "image":"https://images.unsplash.com/photo-1623045791236-3a2a8e9e99fc"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Explore the Wildlife at Kanha National Park",
+                  "description":"Embark on a thrilling wildlife safari in Kanha National Park to spot tigers, leopards, deer, and a variety of bird species."
+               },
+               {
+                  "id":2,
+                  "name":"Visit Sanchi Stupa",
+                  "description":"Discover the ancient Buddhist heritage at Sanchi Stupa and admire the intricate carvings and serene surroundings."
+               },
+               {
+                  "id":3,
+                  "name":"Witness the Magnificence of Gwalior Fort",
+                  "description":"Explore the grandeur of Gwalior Fort, visit the historic palaces, and enjoy the panoramic views of the city."
+               },
+               {
+                  "id":4,
+                  "name":"Marvel at the Rock Art in Bhimbetka Caves",
+                  "description":"Take a journey back in time at Bhimbetka Caves and admire the fascinating prehistoric rock paintings."
+               },
+               {
+                  "id":5,
+                  "name":"Experience the Splendor of Khajuraho Temples",
+                  "description":"Immerse yourself in the architectural brilliance and intricate sculptures of the Khajuraho Temples, depicting various aspects of life."
+               },
+               {
+                  "id":6,
+                  "name":"Enjoy Nature in Pachmarhi",
+                  "description":"Indulge in the serene beauty of Pachmarhi, go hiking to the viewpoints, and relax amidst the enchanting waterfalls."
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Khajuraho Dance Festival",
+                  "description":"Witness captivating classical dance performances at the Khajuraho Dance Festival held annually in February."
+               },
+               {
+                  "id":2,
+                  "name":"Ujjain Kumbh Mela",
+                  "description":"Participate in the spiritual gathering of Ujjain Kumbh Mela, held once every 12 years, and experience Hindu rituals and ceremonies."
+               },
+               {
+                  "id":3,
+                  "name":"Tansen Music Festival",
+                  "description":"Enjoy melodious classical music performances at the Tansen Music Festival in Gwalior, dedicated to the legendary musician Tansen."
+               },
+               {
+                  "id":4,
+                  "name":"Malwa Utsav",
+                  "description":"Celebrate the vibrant culture of Malwa region at the Malwa Utsav, featuring traditional music, dance, and handicrafts."
+               },
+               {
+                  "id":5,
+                  "name":"Tribal Lokotsav",
+                  "description":"Experience the rich tribal culture of Madhya Pradesh at the Tribal Lokotsav, showcasing traditional art, crafts, and performances."
+               }
+            ],
+            "facts":[
+               "Madhya Pradesh is often referred to as the 'Heart of India' due to its central location.",
+               "The state has nine national parks and 25 wildlife sanctuaries, making it a haven for nature and wildlife enthusiasts.",
+               "The world-famous Kumbh Mela takes place in Madhya Pradesh, rotating between the cities of Ujjain, Haridwar, Nashik, and Allahabad.",
+               "Bhopal, the capital city of Madhya Pradesh, is known as the 'City of Lakes' due to the presence of several beautiful lakes.",
+               "Madhya Pradesh is home to the largest group of monuments in India, including the UNESCO World Heritage sites of Khajuraho and Sanchi Stupa.",
+               "The state is renowned for its handloom and handicrafts, including the famous Chanderi and Maheshwari sarees.",
+               "Madhya Pradesh has a rich cultural heritage and is known for its folk dances like Giddha, Gond, and Kalbelia.",
+               "Poha, a popular breakfast dish made from flattened rice, is a specialty of Madhya Pradesh.",
+               "The state has a diverse range of flora and fauna, including the iconic Royal Bengal Tiger in its national parks.",
+               "Madhya Pradesh is also known for its natural wonders like marble rock formations in Bhedaghat and the Dhuandhar Waterfall in Jabalpur."
+            ]
+         },
+         {
+            "id":16,
+            "title":"Chhattisgarh",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Raipur",
+                  "description":"Raipur is the capital and largest city of Chhattisgarh."
+               },
+               {
+                  "id":2,
+                  "name":"Bilaspur",
+                  "description":"Bilaspur is a major city in Chhattisgarh, known for its rich cultural heritage and historical sites."
+               },
+               {
+                  "id":3,
+                  "name":"Raigarh",
+                  "description":"Raigarh is a city in Chhattisgarh, famous for its coal mines and steel plants."
+               },
+               {
+                  "id":4,
+                  "name":"Jagdalpur",
+                  "description":"Jagdalpur is a scenic city in Chhattisgarh, surrounded by lush green forests and waterfalls."
+               },
+               {
+                  "id":5,
+                  "name":"Durg",
+                  "description":"Durg is a vibrant city in Chhattisgarh, known for its historical temples and industrial significance."
+               },
+               {
+                  "id":6,
+                  "name":"Bastar",
+                  "description":"Bastar is a tribal region in Chhattisgarh, offering a unique cultural experience and natural beauty."
+               }
+            ],
+            "about":"Chhattisgarh, located in central India, is a state known for its tribal heritage, rich biodiversity, and ancient temples. The state boasts of stunning natural landscapes, waterfalls, and dense forests, providing ample opportunities for adventure and exploration. Chhattisgarh is also home to vibrant tribal communities, each with its distinct culture and traditions.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Chitrakote Waterfall",
+                  "description":"Chitrakote Waterfall is the widest waterfall in India, often referred to as the 'Niagara Falls of India.'",
+                  "image":"https://images.unsplash.com/photo-1565099486862-c6e2b8b47f4b"
+               },
+               {
+                  "id":2,
+                  "name":"Barnawapara Wildlife Sanctuary",
+                  "description":"Barnawapara Wildlife Sanctuary is a haven for wildlife enthusiasts, offering sightings of tigers, leopards, and various bird species.",
+                  "image":"https://images.unsplash.com/photo-1604610846797-4e73d932e7db"
+               },
+               {
+                  "id":3,
+                  "name":"Bastar Dussehra",
+                  "description":"Bastar Dussehra is a unique celebration of the festival, characterized by colorful processions, traditional dances, and music.",
+                  "image":"https://images.unsplash.com/photo-1572624856491-5f527823d6a1"
+               },
+               {
+                  "id":4,
+                  "name":"Bhoramdeo Temple",
+                  "description":"Bhoramdeo Temple is an ancient Hindu temple dedicated to Lord Shiva, known for its intricate carvings and architectural beauty.",
+                  "image":"https://images.unsplash.com/photo-1595958827680-5326bb0ef527"
+               },
+               {
+                  "id":5,
+                  "name":"Kanger Ghati National Park",
+                  "description":"Kanger Ghati National Park is a biodiversity hotspot, home to unique flora and fauna, caves, and stunning natural formations.",
+                  "image":"https://images.unsplash.com/photo-1575557380757-13"
+               },
+               {
+                  "id":6,
+                  "name":"Mahamaya Temple",
+                  "description":"Mahamaya Temple is a popular pilgrimage site in Chhattisgarh, dedicated to the goddess Mahamaya."
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Explore the Majestic Chitrakote Waterfall",
+                  "description":"Visit Chitrakote Waterfall and witness its breathtaking beauty, surrounded by lush greenery and cascading waters."
+               },
+               {
+                  "id":2,
+                  "name":"Embark on a Wildlife Safari at Barnawapara Wildlife Sanctuary",
+                  "description":"Experience an exciting wildlife safari at Barnawapara Wildlife Sanctuary, spot rare animals, and enjoy birdwatching."
+               },
+               {
+                  "id":3,
+                  "name":"Witness the Vibrant Bastar Dussehra Festival",
+                  "description":"Immerse yourself in the vibrant celebrations of Bastar Dussehra, characterized by colorful processions, traditional dances, and music."
+               },
+               {
+                  "id":4,
+                  "name":"Discover the Architectural Beauty of Bhoramdeo Temple",
+                  "description":"Visit the ancient Bhoramdeo Temple dedicated to Lord Shiva, known for its exquisite carvings and architectural splendor."
+               },
+               {
+                  "id":5,
+                  "name":"Explore the Biodiversity at Kanger Ghati National Park",
+                  "description":"Embark on a nature adventure at Kanger Ghati National Park, home to diverse flora, fauna, caves, and natural formations."
+               },
+               {
+                  "id":6,
+                  "name":"Visit Mahant Ghasidas Memorial Museum",
+                  "description":"Explore the fascinating exhibits at Mahant Ghasidas Memorial Museum in Raipur, showcasing the rich history and culture of the region."
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Bastar Lokotsav",
+                  "description":"Experience the vibrant tribal culture at the Bastar Lokotsav, featuring traditional art, craft, music, and dance performances."
+               },
+               {
+                  "id":2,
+                  "name":"Rajim Kumbh Mela",
+                  "description":"Participate in the auspicious Rajim Kumbh Mela, a major Hindu pilgrimage and cultural festival held in Rajim."
+               },
+               {
+                  "id":3,
+                  "name":"Sirpur Dance and Music Festival",
+                  "description":"Enjoy mesmerizing dance and music performances at the Sirpur Dance and Music Festival, showcasing classical and folk art forms."
+               },
+               {
+                  "id":4,
+                  "name":"Hareli Festival",
+                  "description":"Celebrate the agricultural festival of Hareli, marked by rituals, traditional performances, and the worship of goddess Annapurna."
+               },
+               {
+                  "id":5,
+                  "name":"Champaran Mela",
+                  "description":"Participate in the vibrant Champaran Mela, a fair dedicated to Lord Rama, featuring cultural programs, music, and local cuisine."
+               }
+            ],
+            "facts":[
+               "Chhattisgarh is the 10th largest state in India, known for its abundant mineral resources.",
+               "The state is famous for its traditional tribal art forms, such as the Bastar wooden crafts and terracotta figurines.",
+               "Chhattisgarh has several ancient rock-cut caves, including the famous Jogimara and Kutumsar caves.",
+               "The state is home to various wildlife sanctuaries and national parks, including Indravati National Park and Udanti-Sitanadi Wildlife Sanctuary.",
+               "Chhattisgarh has a diverse cuisine that includes regional specialties like 'Koshti curry,' 'Chila,' and 'Petha.'",
+               "The state celebrates numerous festivals, including Bastar Dussehra, Madai Festival, and Rajim Kumbh Mela."
+            ]
+         }
       ]
    }
 ]
