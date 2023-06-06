@@ -2262,7 +2262,163 @@
                "Chhattisgarh has a diverse cuisine that includes regional specialties like 'Koshti curry,' 'Chila,' and 'Petha.'",
                "The state celebrates numerous festivals, including Bastar Dussehra, Madai Festival, and Rajim Kumbh Mela."
             ]
-         }
+         },
+         {
+   "id":17,
+   "title":"Jharkhand",
+   "cities":[
+      {
+         "id":1,
+         "name":"Ranchi",
+         "description":"Ranchi is the capital and largest city of Jharkhand, known for its picturesque landscapes and cool climate."
+      },
+      {
+         "id":2,
+         "name":"Jamshedpur",
+         "description":"Jamshedpur is a major industrial city in Jharkhand and home to Tata Steel, one of the largest steel plants in India."
+      },
+      {
+         "id":3,
+         "name":"Dhanbad",
+         "description":"Dhanbad is known as the 'Coal Capital of India' due to its extensive coal mining activities."
+      },
+      {
+         "id":4,
+         "name":"Bokaro",
+         "description":"Bokaro is an industrial city famous for Bokaro Steel Plant and scenic attractions like Parasnath Hill."
+      },
+      {
+         "id":5,
+         "name":"Hazaribagh",
+         "description":"Hazaribagh is a popular tourist destination known for its wildlife sanctuary, waterfalls, and scenic beauty."
+      },
+      {
+         "id":6,
+         "name":"Deoghar",
+         "description":"Deoghar is a holy city and home to the famous Baidyanath Temple, one of the twelve Jyotirlingas in India."
+      }
+   ],
+   "about":"Jharkhand is a state in eastern India known for its rich mineral resources, dense forests, and vibrant tribal culture. The state was carved out of Bihar in 2000 and has since witnessed significant industrial and economic growth. Jharkhand is home to several indigenous tribal communities and offers a unique blend of natural beauty, cultural heritage, and modern development.",
+   "events":[
+      {
+         "id":1,
+         "name":"Chhau Dance Festival",
+         "description":"Witness the vibrant Chhau dance performances during the Chhau Dance Festival, showcasing the traditional martial dance form of Jharkhand."
+      },
+      {
+         "id":2,
+         "name":"Sarhul Festival",
+         "description":"Participate in the colorful Sarhul Festival celebrated by the tribal communities of Jharkhand, featuring cultural performances, music, and traditional rituals."
+      },
+      {
+         "id":3,
+         "name":"Kolhaiya Mela",
+         "description":"Experience the Kolhaiya Mela, a famous cattle fair held in Jharkhand, showcasing cattle trading, traditional sports, folk dances, and local crafts."
+      },
+      {
+         "id":4,
+         "name":"Tusu Parab",
+         "description":"Celebrate the Tusu Parab festival, a harvest festival of Jharkhand, with singing, dancing, and the creation of colorful clay figurines known as Tusu."
+      },
+      {
+         "id":5,
+         "name":"Karma Festival",
+         "description":"Partake in the joyous Karma Festival, celebrated by the tribes of Jharkhand to appease the deity of fate, with traditional music, dance, and rituals."
+      },
+      {
+         "id":6,
+         "name":"Jharkhand Film Festival",
+         "description":"Attend the Jharkhand Film Festival, a platform for showcasing regional films and promoting local talent in the field of cinema."
+      }
+   ],
+   "thingsToDo":[
+      {
+         "id":1,
+         "name":"Explore the scenic beauty of Netarhat",
+         "description":"Visit the picturesque hill station of Netarhat known for its breathtaking landscapes and enjoy nature walks, trekking, and stunning sunset views."
+      },
+      {
+         "id":2,
+         "name":"Visit the ancient ruins of Rajrappa Temple",
+         "description":"Discover the ancient temple complex of Rajrappa dedicated to the Hindu goddess Chinnamasta and explore its historical significance and architectural beauty."
+      },
+      {
+         "id":3,
+         "name":"Embark on a wildlife safari at Palamau Tiger Reserve",
+         "description":"Experience a thrilling wildlife safari at Palamau Tiger Reserve and spot diverse flora and fauna, including tigers, leopards, elephants, and various bird species."
+      },
+      {
+         "id":4,
+         "name":"Enjoy water sports and boating at Hudru and Jonha Falls",
+         "description":"Indulge in adventurous water sports and enjoy boating at Hudru and Jonha Falls, known for their scenic beauty and mesmerizing cascades."
+      },
+      {
+         "id":5,
+         "name":"Experience rock climbing and rappelling at Parasnath Hills",
+         "description":"Challenge yourself with rock climbing and rappelling activities at Parasnath Hills, the highest peak in Jharkhand, and enjoy panoramic views from the top."
+      },
+      {
+         "id":6,
+         "name":"Witness tribal culture during the Sarhul festival",
+         "description":"Immerse yourself in the vibrant tribal culture of Jharkhand during the Sarhul festival, featuring traditional dances, music, rituals, and the worship of trees and forests."
+      },
+      {
+         "id":7,
+         "name":"Take a pilgrimage tour to Baidyanath Temple in Deoghar",
+         "description":"Embark on a sacred pilgrimage tour to the renowned Baidyanath Temple in Deoghar, one of the twelve Jyotirlingas, and seek blessings of Lord Shiva."
+      }
+   ],
+   "facts":[
+      "Jharkhand is the leading producer of mineral resources in India, including coal, iron ore, and mica.",
+      "The state of Jharkhand was formed on November 15, 2000, after being carved out of Bihar.",
+      "Jharkhand is home to various indigenous tribal communities, including Santhal, Munda, and Oraon.",
+      "The famous Maithon Dam in Jharkhand is the first multipurpose dam in the country.",
+      "Dhanbad, also known as the 'Coal Capital of India,' is one of the most important coal mining areas in the world."
+   ],
+   "attractions":[
+      {
+         "id":1,
+         "name":"Hazaribagh Wildlife Sanctuary",
+         "description":"Explore the Hazaribagh Wildlife Sanctuary, known for its diverse flora and fauna, trekking trails, and scenic landscapes."
+      },
+      {
+         "id":2,
+         "name":"Jagannath Temple, Ranchi",
+         "description":"Visit the Jagannath Temple in Ranchi, a popular pilgrimage site and architectural marvel known for its beautiful temple complex."
+      },
+      {
+         "id":3,
+         "name":"Betla National Park",
+         "description":"Discover the Betla National Park, home to a wide range of wildlife including tigers, elephants, leopards, and various bird species."
+      },
+      {
+         "id":4,
+         "name":"Dassam Falls",
+         "description":"Witness the breathtaking Dassam Falls, a natural waterfall located near Ranchi, offering picturesque views and a serene atmosphere."
+      },
+      {
+         "id":5,
+         "name":"Netarhat",
+         "description":"Visit the scenic hill station of Netarhat, known as the 'Queen of Chota Nagpur Plateau,' offering panoramic views and pleasant weather."
+      },
+      {
+         "id":6,
+         "name":"Parasnath Hill",
+         "description":"Embark on a spiritual journey to Parasnath Hill, the highest mountain in Jharkhand and an important pilgrimage site for Jains."
+      }
+   ]
+}
+
+
+
+
+
+
+
+
+
+
+
       ]
    }
 ]
