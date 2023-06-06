@@ -2545,6 +2545,136 @@
       "The traditional Assamese cuisine is known for its flavorsome dishes like masor tenga (sour fish curry) and pitha (rice cakes).",
       "The Ahom dynasty, known for its architectural marvels, ruled Assam for about 600 years."
    ]
+},
+       {
+   "id":4,
+   "title":"Meghalaya",
+   "cities":[
+      {
+         "id":1,
+         "name":"Shillong",
+         "description":"Shillong is the capital and largest city of Meghalaya, known for its picturesque landscapes, waterfalls, and vibrant music scene."
+      },
+      {
+         "id":2,
+         "name":"Cherrapunji",
+         "description":"Cherrapunji is a scenic town in Meghalaya, famous for being one of the wettest places on Earth and its lush green hills."
+      },
+      {
+         "id":3,
+         "name":"Mawlynnong",
+         "description":"Mawlynnong is a pristine village in Meghalaya, often referred to as the cleanest village in Asia, known for its eco-friendly practices."
+      },
+      {
+         "id":4,
+         "name":"Dawki",
+         "description":"Dawki is a small border town in Meghalaya, renowned for its crystal-clear Umngot River and the annual boat race."
+      },
+      {
+         "id":5,
+         "name":"Nongpoh",
+         "description":"Nongpoh is a town in Meghalaya, known for its scenic beauty, strawberry farms, and as a stopover point for travelers."
+      },
+      {
+         "id":6,
+         "name":"Tura",
+         "description":"Tura is a picturesque town in Meghalaya, located in the Garo Hills region and known for its pleasant climate and rich Garo tribal culture."
+      }
+   ],
+   "about":"Meghalaya, located in northeastern India, is known as the 'Abode of Clouds.' The state is famous for its stunning landscapes, cascading waterfalls, and living root bridges. Meghalaya is home to various indigenous tribes, each with its distinct culture, traditions, and vibrant festivals. The region's lush green valleys, sacred forests, and diverse flora and fauna make it a popular destination for nature lovers and adventure enthusiasts.",
+   "attractions":[
+      {
+         "id":1,
+         "name":"Living Root Bridges",
+         "description":"Experience the marvel of living root bridges in Meghalaya, created by intertwining the aerial roots of trees, offering a unique and eco-friendly mode of crossing rivers and streams."
+      },
+      {
+         "id":2,
+         "name":"Mawphlang Sacred Forest",
+         "description":"Explore the Mawphlang Sacred Forest, a pristine woodland believed to be protected by benevolent spirits, and learn about the indigenous Khasi culture and traditions."
+      },
+      {
+         "id":3,
+         "name":"Nohkalikai Falls",
+         "description":"Witness the majestic Nohkalikai Falls, one of the tallest plunge waterfalls in India, plunging from a height of approximately 1,100 feet amidst lush green surroundings."
+      },
+      {
+         "id":4,
+         "name":"Double Decker Living Root Bridge",
+         "description":"Visit the Double Decker Living Root Bridge in Nongriat village, a unique natural wonder where two living root bridges are stacked one above the other."
+      },
+      {
+         "id":5,
+         "name":"Elephant Falls",
+         "description":"Admire the scenic beauty of Elephant Falls, a three-tiered waterfall located near Shillong, named after a rock resembling an elephant."
+      }
+   ],
+   "thingsToDo":[
+      {
+         "id":1,
+         "name":"Trek to the Living Root Bridges",
+         "description":"Embark on a trekking adventure to witness the fascinating living root bridges of Meghalaya, navigating through lush green forests and picturesque landscapes."
+      },
+      {
+         "id":2,
+         "name":"Explore Mawsmai Cave",
+         "description":"Discover the wonders of Mawsmai Cave in Cherrapunji, a limestone cave system offering an exciting underground exploration experience."
+      },
+      {
+         "id":3,
+         "name":"Enjoy Waterfall Hopping",
+         "description":"Indulge in waterfall hopping and visit stunning waterfalls like Seven Sisters Falls, Dainthlen Falls, and Krang Suri Falls, among others."
+      },
+      {
+         "id":4,
+         "name":"Experience River Rafting in Umngot River",
+         "description":"Engage in thrilling river rafting in the crystal-clear waters of Umngot River in Dawki, enjoying the scenic beauty and adrenaline rush."
+      },
+      {
+         "id":5,
+         "name":"Witness the Living Root Bridge Illumination",
+         "description":"Attend the mesmerizing Living Root Bridge Illumination event, where the bridges are adorned with colorful lights, creating a magical ambiance."
+      },
+      {
+         "id":6,
+         "name":"Savor Traditional Khasi Cuisine",
+         "description":"Delight your taste buds with traditional Khasi cuisine, savoring dishes like Jadoh (rice and meat), Dohneiiong (pork with black sesame), and Nakham Bitchi (fermented fish chutney)."
+      }
+   ],
+   "events":[
+      {
+         "id":1,
+         "name":"Wangala Festival",
+         "description":"Celebrate the vibrant Wangala Festival, also known as the Hundred Drums Festival, showcasing the Garo tribal culture through traditional music, dance, and colorful costumes."
+      },
+      {
+         "id":2,
+         "name":"Shad Suk Mynsiem",
+         "description":"Participate in the Shad Suk Mynsiem festival, an important Khasi festival held in Shillong, featuring traditional dances, music, and thanksgiving rituals."
+      },
+      {
+         "id":3,
+         "name":"Behdienkhlam Festival",
+         "description":"Experience the joyous Behdienkhlam Festival celebrated by the Pnar tribe, characterized by vibrant processions, traditional music, and a unique ritual of bamboo fighting."
+      },
+      {
+         "id":4,
+         "name":"Nongkrem Dance Festival",
+         "description":"Attend the Nongkrem Dance Festival, a religious festival of the Khasi tribe held in Shillong, featuring rhythmic dances, rituals, and sacrificial offerings."
+      },
+      {
+         "id":5,
+         "name":"Wangala Dance Competition",
+         "description":"Witness the fierce Wangala Dance Competition, a highlight of the Wangala Festival, where teams showcase their traditional Garo dance skills in a spirited competition."
+      }
+   ],
+   "facts":[
+      "Meghalaya is known as the 'Abode of Clouds' due to its misty landscapes, frequent rainfall, and the cloud cover that blankets the region.",
+      "Cherrapunji, a town in Meghalaya, holds the record for being one of the wettest places on Earth, receiving exceptionally high rainfall.",
+      "Mawlynnong, a village in Meghalaya, has gained recognition as the 'Cleanest Village in Asia' for its exceptional cleanliness and community-driven efforts.",
+      "Meghalaya is renowned for its unique living root bridges, which are natural bridges formed by guiding the roots of rubber trees over many years.",
+      "Meghalaya is home to various indigenous tribes, such as the Khasi, Garo, and Jaintia tribes, each with its distinct culture, traditions, and colorful festivals."
+   ]
 }
 
 
