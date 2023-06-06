@@ -1586,7 +1586,117 @@
                   "description":"Diwali, the festival of lights, is celebrated with joy and enthusiasm in Tripura. It involvesvarious religious rituals, lighting of diyas (oil lamps), bursting of firecrackers, exchanging sweets, and decorating homes."
                }
             ]
-         }
+         },
+         {
+   "id":12,
+   "title":"Jammu and Kashmir",
+   "cities":[
+      {
+         "id":1,
+         "name":"Srinagar",
+         "description":"Srinagar is the summer capital of Jammu and Kashmir, known for its beautiful Dal Lake and Mughal gardens."
+      },
+      {
+         "id":2,
+         "name":"Jammu",
+         "description":"Jammu is the winter capital of Jammu and Kashmir, famous for its ancient temples and historical sites."
+      },
+      {
+         "id":3,
+         "name":"Leh",
+         "description":"Leh is a popular tourist destination in Ladakh, known for its stunning landscapes, monasteries, and adventure activities."
+      },
+      {
+         "id":4,
+         "name":"Gulmarg",
+         "description":"Gulmarg is a picturesque hill station in Kashmir, renowned for its skiing slopes and beautiful meadows."
+      },
+      {
+         "id":5,
+         "name":"Pahalgam",
+         "description":"Pahalgam is a scenic town in Kashmir, famous for its lush green valleys, pristine rivers, and trekking opportunities."
+      },
+      {
+         "id":6,
+         "name":"Sonamarg",
+         "description":"Sonamarg, also known as the 'Meadow of Gold,' is a mesmerizing hill station in Kashmir, surrounded by snow-capped mountains and alpine meadows."
+      }
+   ],
+   "about":"Jammu and Kashmir is a union territory in northern India, known for its breathtaking landscapes, rich cultural heritage, and religious significance. The region is renowned for its scenic beauty, including the stunning Dal Lake, snow-clad mountains, and lush green valleys. Jammu and Kashmir offer a diverse range of attractions, such as ancient temples, monasteries, adventure sports, and traditional Kashmiri handicrafts.",
+   "attractions":[
+      {
+         "id":1,
+         "name":"Dal Lake",
+         "description":"Dal Lake is a famous lake in Srinagar, known for its mesmerizing beauty, houseboats, and shikara rides.",
+         "image":"https://images.unsplash.com/photo-1569466896819-33506953a0e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+      },
+      {
+         "id":2,
+         "name":"Vaishno Devi Temple",
+         "description":"Vaishno Devi Temple is a renowned Hindu pilgrimage site in Jammu, dedicated to the goddess Vaishno Devi.",
+         "image":"https://images.unsplash.com/photo-1622406615106-03c477d6ff20?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+      },
+      {
+         "id":3,
+         "name":"Magnetic Hill",
+         "description":"Magnetic Hill is a unique natural phenomenon near Leh, where vehicles appear to defy gravity and move uphill on their own.",
+         "image":"https://images.unsplash.com/photo-1607689300515-9ecde4b778e1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+      },
+      {
+         "id":4,
+         "name":"Shankaracharya Temple",
+         "description":"Shankaracharya Temple is a prominent Hindu temple located on top of a hill in Srinagar, offering panoramic views of the city.",
+         "image":"https://images.unsplash.com/photo-1602538997395-5ad737fd2f4a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+      },
+      {
+         "id":5,
+         "name":"Gulmarg Gondola",
+         "description":"Gulmarg Gondola is one of the highest cable car systems in the world, offering breathtaking views of the Himalayan peaks.",
+         "image":"https://images.unsplash.com/photo-1607869125001-70c5f27048a4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+      },
+      {
+         "id":6,
+         "name":"Aru Valley",
+         "description":"Aru Valley is a serene and picturesque valley near Pahalgam, known for its pristine beauty and lush meadows.",
+         "image":"https://images.unsplash.com/photo-1567064151049-41bc4dce6fc7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+      }
+   ],
+   "events":[
+      {
+         "id":1,
+         "name":"Tulip Festival",
+         "description":"The Tulip Festival is held in Srinagar every spring when the tulip gardens are in full bloom, showcasing a vibrant display of flowers.",
+         "date":"April",
+         "image":"https://images.unsplash.com/photo-1585475021639-12dd5a1e9a9f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+      },
+      {
+         "id":2,
+         "name":"Hemis Festival",
+         "description":"Hemis Festival is a popular cultural event celebrated in the Hemis Monastery in Leh, featuring masked dances and music performances.",
+         "date":"June/July",
+         "image":"https://images.unsplash.com/photo-1573298189620-715b15c9d95b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+      },
+      {
+         "id":3,
+         "name":"Kheer Bhawani Mela",
+         "description":"Kheer Bhawani Mela is a major religious festival held at the Kheer Bhawani Temple near Srinagar, attracting devotees from all over.",
+         "date":"May/June",
+         "image":"https://images.unsplash.com/photo-1591700115369-f0c41d809af3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+      }
+   ],
+   "facts":[
+      "Jammu and Kashmir is often referred to as the 'Paradise on Earth' due to its stunning natural beauty.",
+      "The region is known for its rich heritage of traditional Kashmiri cuisine, including delicacies like Rogan Josh and Kashmiri Pulao.",
+      "Jammu and Kashmir is home to several ancient temples, mosques, and monasteries, reflecting its diverse religious and cultural heritage.",
+      "The Dal Lake in Srinagar is famous for its picturesque houseboats, known as 'Shikaras', offering a unique and tranquil experience for visitors.",
+      "The region is a popular destination for adventure enthusiasts, with activities like trekking, skiing, river rafting, and paragliding available in various parts of the state.",
+      "Jammu and Kashmir is known for its exquisite handcrafted products, including Pashmina shawls, carpets, and intricately designed Kashmiri embroidery.",
+      "The state is surrounded by the Himalayan mountain range, offering breathtaking landscapes, snow-capped peaks, and serene valleys.",
+      "Jammu and Kashmir has a rich history, with influences from various dynasties and empires, including the Mughals, Sikhs, and Dogras."
+   ]
+}
+     
+
       ]
    }
 ]
