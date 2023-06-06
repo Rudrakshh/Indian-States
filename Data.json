@@ -1696,7 +1696,7 @@
    ]
 },
          {
-  "id": 3,
+  "id": 13,
   "title": "Uttar Pradesh",
   "cities": [
     {
@@ -1828,7 +1828,155 @@
       "image": "https://images.unsplash.com/photo-1558055717-9ddcf755aafe?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     }
   ]
+},
+         {
+   "id":2,
+   "title":"Rajasthan",
+   "cities":[
+      {
+         "id":1,
+         "name":"Jaipur",
+         "description":"Jaipur is the capital city of Rajasthan, known as the 'Pink City' due to its pink-colored buildings."
+      },
+      {
+         "id":2,
+         "name":"Udaipur",
+         "description":"Udaipur is a city in Rajasthan, famous for its beautiful lakes, palaces, and romantic ambiance."
+      },
+      {
+         "id":3,
+         "name":"Jodhpur",
+         "description":"Jodhpur is a city in Rajasthan, known for its magnificent forts, palaces, and vibrant culture."
+      },
+      {
+         "id":4,
+         "name":"Jaisalmer",
+         "description":"Jaisalmer is a city in Rajasthan, famous for its golden sand dunes, magnificent forts, and camel safaris."
+      },
+      {
+         "id":5,
+         "name":"Pushkar",
+         "description":"Pushkar is a holy city in Rajasthan, known for its sacred Pushkar Lake and the annual Pushkar Camel Fair."
+      },
+      {
+         "id":6,
+         "name":"Ajmer",
+         "description":"Ajmer is a city in Rajasthan, famous for the Ajmer Sharif Dargah, a Sufi shrine visited by devotees from different faiths."
+      }
+   ],
+   "about":"Rajasthan is a state in northern India, known for its rich history, vibrant culture, and stunning architecture. It is famous for its majestic palaces, magnificent forts, colorful festivals, and warm hospitality. Rajasthan offers a unique blend of natural beauty, desert landscapes, and royal heritage.",
+   "attractions":[
+      {
+         "id":1,
+         "name":"Amber Fort",
+         "description":"Amber Fort is a magnificent fort complex located in Jaipur, Rajasthan, known for its impressive architecture and artistic elements."
+      },
+      {
+         "id":2,
+         "name":"Hawa Mahal",
+         "description":"Hawa Mahal is a famous palace in Jaipur, Rajasthan, known for its unique honeycomb-like structure and numerous small windows."
+      },
+      {
+         "id":3,
+         "name":"Lake Palace",
+         "description":"Lake Palace is a beautiful palace located in Udaipur, Rajasthan, situated on an island in Lake Pichola, offering breathtaking views."
+      },
+      {
+         "id":4,
+         "name":"Jaisalmer Fort",
+         "description":"Jaisalmer Fort is a massive fortification in Jaisalmer, Rajasthan, known for its yellow sandstone walls and stunning architecture."
+      },
+      {
+         "id":5,
+         "name":"Mehrangarh Fort",
+         "description":"Mehrangarh Fort is a historic fort in Jodhpur, Rajasthan, known for its imposing structure and panoramic views of the city."
+      },
+      {
+         "id":6,
+         "name":"Pushkar Lake",
+         "description":"Pushkar Lake is a sacred lake in Pushkar, Rajasthan, believed to be created by Lord Brahma and is an important pilgrimage site."
+      }
+   ],
+   "thingsToDo":[
+      {
+         "id":1,
+         "name":"Camel Safari in Thar Desert",
+         "description":"Experience the thrill of a camel safari in the Thar Desert, exploring the sand dunes and enjoying the Rajasthani culture."
+      },
+      {
+         "id":2,
+         "name":"Visit the City Palace",
+         "description":"Explore the grandeur of the City Palace in Jaipur, a magnificent palace complex showcasing Rajput and Mughal architecture."
+      },
+      {
+         "id":3,
+         "name":"Attend the Pushkar Camel Fair",
+         "description":"Participate in the vibrant Pushkar Camel Fair, a famous annual livestock fair featuring camel races, cultural events, and more."
+      },
+      {
+         "id":4,
+         "name":"Explore the Blue City of Jodhpur",
+         "description":"Discover the vibrant blue-painted houses and narrow streets of Jodhpur, also known as the Blue City of Rajasthan."
+      },
+      {
+         "id":5,
+         "name":"Shop for Traditional Handicrafts",
+         "description":"Indulge in shopping for traditional handicrafts like textiles, pottery, jewelry, and paintings in the bustling markets of Rajasthan."
+      },
+      {
+         "id":6,
+         "name":"Witness the Elephant Festival",
+         "description":"Experience the grandeur of the Elephant Festival in Jaipur, featuring beautifully decorated elephants, cultural performances, and more."
+      }
+   ],
+   "events":[
+      {
+         "id":1,
+         "name":"Jaipur Literature Festival",
+         "description":"The Jaipur Literature Festival is a renowned literary event held annually in Jaipur, attracting writers, thinkers, and literature enthusiasts from around the world.",
+         "image":""
+      },
+      {
+         "id":2,
+         "name":"Pushkar Camel Fair",
+         "description":"The Pushkar Camel Fair is a famous cultural and livestock fair held in Pushkar, Rajasthan, featuring camel races, music, dance, and trading",
+         "image":""
+      },
+      {
+         "id":3,
+         "name":"Desert Festival",
+         "description":"The Desert Festival is a vibrant cultural event held in Jaisalmer, Rajasthan, showcasing folk music and dance performances, camel races, and other traditional activities.",
+         "image":""
+      },
+      {
+         "id":4,
+         "name":"Kite Festival",
+         "description":"The Kite Festival, also known as Makar Sankranti, is celebrated with great enthusiasm in Rajasthan, where people fly colorful kites and engage in friendly kite-flying competitions.",
+         "image":""
+      },
+      {
+         "id":5,
+         "name":"Teej Festival",
+         "description":"Teej Festival is a significant celebration in Rajasthan, especially for women, featuring traditional dance, singing, swings, and applying henna designs.",
+         "image":""
+      },
+      {
+         "id":6,
+         "name":"Gangaur Festival",
+         "description":"Gangaur Festival is a colorful women-centric festival celebrated in Rajasthan, honoring the goddess Gauri with processions, music, and dancing.",
+         "image":""
+      }
+   ],
+   "facts":[
+      "Rajasthan is known as the 'Land of Kings' due to its rich history of Rajputana kingdoms.",
+      "The Thar Desert, also known as the Great Indian Desert, is located in Rajasthan.",
+      "Rajasthan is home to several magnificent forts and palaces that showcase the architectural brilliance of the region.",
+      "The state of Rajasthan is famous for its traditional art forms, such as miniature paintings, puppetry, and folk music.",
+      "Rajasthan is known for its delicious cuisine, including popular dishes like dal bati churma, gatte ki sabzi, and laal maas.",
+      "Rajasthan is a popular destination for wildlife enthusiasts, with several national parks and sanctuaries, including Ranthambore National Park and Sariska Tiger Reserve."
+   ]
 }
+        
         
          
          
