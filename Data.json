@@ -2121,7 +2121,150 @@
       "The state has a diverse range of flora and fauna, including the iconic Royal Bengal Tiger in its national parks.",
       "Madhya Pradesh is also known for its natural wonders like marble rock formations in Bhedaghat and the Dhuandhar Waterfall in Jabalpur."
    ]
+},
+  {
+   "id":16,
+   "title":"Chhattisgarh",
+   "cities":[
+      {
+         "id":1,
+         "name":"Raipur",
+         "description":"Raipur is the capital and largest city of Chhattisgarh."
+      },
+      {
+         "id":2,
+         "name":"Bilaspur",
+         "description":"Bilaspur is a major city in Chhattisgarh, known for its rich cultural heritage and historical sites."
+      },
+      {
+         "id":3,
+         "name":"Raigarh",
+         "description":"Raigarh is a city in Chhattisgarh, famous for its coal mines and steel plants."
+      },
+      {
+         "id":4,
+         "name":"Jagdalpur",
+         "description":"Jagdalpur is a scenic city in Chhattisgarh, surrounded by lush green forests and waterfalls."
+      },
+      {
+         "id":5,
+         "name":"Durg",
+         "description":"Durg is a vibrant city in Chhattisgarh, known for its historical temples and industrial significance."
+      },
+      {
+         "id":6,
+         "name":"Bastar",
+         "description":"Bastar is a tribal region in Chhattisgarh, offering a unique cultural experience and natural beauty."
+      }
+   ],
+   "about":"Chhattisgarh, located in central India, is a state known for its tribal heritage, rich biodiversity, and ancient temples. The state boasts of stunning natural landscapes, waterfalls, and dense forests, providing ample opportunities for adventure and exploration. Chhattisgarh is also home to vibrant tribal communities, each with its distinct culture and traditions.",
+   "attractions":[
+      {
+         "id":1,
+         "name":"Chitrakote Waterfall",
+         "description":"Chitrakote Waterfall is the widest waterfall in India, often referred to as the 'Niagara Falls of India.'",
+         "image":"https://images.unsplash.com/photo-1565099486862-c6e2b8b47f4b"
+      },
+      {
+         "id":2,
+         "name":"Barnawapara Wildlife Sanctuary",
+         "description":"Barnawapara Wildlife Sanctuary is a haven for wildlife enthusiasts, offering sightings of tigers, leopards, and various bird species.",
+         "image":"https://images.unsplash.com/photo-1604610846797-4e73d932e7db"
+      },
+      {
+         "id":3,
+         "name":"Bastar Dussehra",
+         "description":"Bastar Dussehra is a unique celebration of the festival, characterized by colorful processions, traditional dances, and music.",
+         "image":"https://images.unsplash.com/photo-1572624856491-5f527823d6a1"
+      },
+      {
+         "id":4,
+         "name":"Bhoramdeo Temple",
+         "description":"Bhoramdeo Temple is an ancient Hindu temple dedicated to Lord Shiva, known for its intricate carvings and architectural beauty.",
+         "image":"https://images.unsplash.com/photo-1595958827680-5326bb0ef527"
+      },
+      {
+         "id":5,
+         "name":"Kanger Ghati National Park",
+         "description":"Kanger Ghati National Park is a biodiversity hotspot, home to unique flora and fauna, caves, and stunning natural formations.",
+         "image":"https://images.unsplash.com/photo-1575557380757-13"
+      },
+      {
+         "id":6,
+         "name":"Mahamaya Temple",
+         "description":"Mahamaya Temple is a popular pilgrimage site in Chhattisgarh, dedicated to the goddess Mahamaya."
+      }
+   ],
+   "thingsToDo":[
+      {
+         "id":1,
+         "name":"Explore the Majestic Chitrakote Waterfall",
+         "description":"Visit Chitrakote Waterfall and witness its breathtaking beauty, surrounded by lush greenery and cascading waters."
+      },
+      {
+         "id":2,
+         "name":"Embark on a Wildlife Safari at Barnawapara Wildlife Sanctuary",
+         "description":"Experience an exciting wildlife safari at Barnawapara Wildlife Sanctuary, spot rare animals, and enjoy birdwatching."
+      },
+      {
+         "id":3,
+         "name":"Witness the Vibrant Bastar Dussehra Festival",
+         "description":"Immerse yourself in the vibrant celebrations of Bastar Dussehra, characterized by colorful processions, traditional dances, and music."
+      },
+      {
+         "id":4,
+         "name":"Discover the Architectural Beauty of Bhoramdeo Temple",
+         "description":"Visit the ancient Bhoramdeo Temple dedicated to Lord Shiva, known for its exquisite carvings and architectural splendor."
+      },
+      {
+         "id":5,
+         "name":"Explore the Biodiversity at Kanger Ghati National Park",
+         "description":"Embark on a nature adventure at Kanger Ghati National Park, home to diverse flora, fauna, caves, and natural formations."
+      },
+      {
+         "id":6,
+         "name":"Visit Mahant Ghasidas Memorial Museum",
+         "description":"Explore the fascinating exhibits at Mahant Ghasidas Memorial Museum in Raipur, showcasing the rich history and culture of the region."
+      }
+   ],
+   "events":[
+      {
+         "id":1,
+         "name":"Bastar Lokotsav",
+         "description":"Experience the vibrant tribal culture at the Bastar Lokotsav, featuring traditional art, craft, music, and dance performances."
+      },
+      {
+         "id":2,
+         "name":"Rajim Kumbh Mela",
+         "description":"Participate in the auspicious Rajim Kumbh Mela, a major Hindu pilgrimage and cultural festival held in Rajim."
+      },
+      {
+         "id":3,
+         "name":"Sirpur Dance and Music Festival",
+         "description":"Enjoy mesmerizing dance and music performances at the Sirpur Dance and Music Festival, showcasing classical and folk art forms."
+      },
+      {
+         "id":4,
+         "name":"Hareli Festival",
+         "description":"Celebrate the agricultural festival of Hareli, marked by rituals, traditional performances, and the worship of goddess Annapurna."
+      },
+      {
+         "id":5,
+         "name":"Champaran Mela",
+         "description":"Participate in the vibrant Champaran Mela, a fair dedicated to Lord Rama, featuring cultural programs, music, and local cuisine."
+      }
+   ],
+   "facts":[
+      "Chhattisgarh is the 10th largest state in India, known for its abundant mineral resources.",
+      "The state is famous for its traditional tribal art forms, such as the Bastar wooden crafts and terracotta figurines.",
+      "Chhattisgarh has several ancient rock-cut caves, including the famous Jogimara and Kutumsar caves.",
+      "The state is home to various wildlife sanctuaries and national parks, including Indravati National Park and Udanti-Sitanadi Wildlife Sanctuary.",
+      "Chhattisgarh has a diverse cuisine that includes regional specialties like 'Koshti curry,' 'Chila,' and 'Petha.'",
+      "The state celebrates numerous festivals, including Bastar Dussehra, Madai Festival, and Rajim Kumbh Mela."
+   ]
 }
+
+
         
         
          
