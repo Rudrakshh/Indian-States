@@ -1694,7 +1694,146 @@
       "The state is surrounded by the Himalayan mountain range, offering breathtaking landscapes, snow-capped peaks, and serene valleys.",
       "Jammu and Kashmir has a rich history, with influences from various dynasties and empires, including the Mughals, Sikhs, and Dogras."
    ]
+},
+         {
+  "id": 3,
+  "title": "Uttar Pradesh",
+  "cities": [
+    {
+      "id": 1,
+      "name": "Lucknow",
+      "description": "Lucknow is the capital city of Uttar Pradesh, known for its rich cultural heritage and architectural marvels like the Bara Imambara and Rumi Darwaza."
+    },
+    {
+      "id": 2,
+      "name": "Agra",
+      "description": "Agra is famous for the iconic Taj Mahal, a UNESCO World Heritage Site, and other historical landmarks like the Agra Fort and Fatehpur Sikri."
+    },
+    {
+      "id": 3,
+      "name": "Varanasi",
+      "description": "Varanasi, also known as Kashi, is one of the oldest living cities in the world and a major pilgrimage site for Hindus. It is famous for its ghats along the sacred River Ganges."
+    },
+    {
+      "id": 4,
+      "name": "Kanpur",
+      "description": "Kanpur is a major industrial city in Uttar Pradesh, known for its textile and leather industries. It is also home to the famous Kanpur Memorial Church and the Allen Forest Zoo."
+    },
+    {
+      "id": 5,
+      "name": "Allahabad",
+      "description": "Allahabad, officially known as Prayagraj, is a holy city in Uttar Pradesh. It is famous for the Triveni Sangam, the confluence of the Ganges, Yamuna, and mythical Saraswati rivers."
+    },
+    {
+      "id": 6,
+      "name": "Varanasi",
+      "description": "Mathura is a sacred city in Uttar Pradesh, believed to be the birthplace of Lord Krishna. It is known for its Krishna Janmabhoomi temple and vibrant Holi celebrations."
+    }
+  ],
+  "about": "Uttar Pradesh is the most populous state in India and is located in the northern part of the country. It is known for its rich historical and cultural heritage, with several iconic landmarks and religious sites. The state has a diverse landscape, ranging from the fertile plains of the Gangetic plain to the foothills of the Himalayas. Uttar Pradesh is renowned for its vibrant festivals, arts, literature, and cuisine.",
+  "attractions": [
+    {
+      "id": 1,
+      "name": "Taj Mahal",
+      "description": "The Taj Mahal is an iconic white marble mausoleum in Agra, built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal. It is considered a masterpiece of Mughal architecture.",
+      "image": "https://images.unsplash.com/photo-1550304788-27df8eb9bf9b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1778&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Bara Imambara",
+      "description": "Bara Imambara is a historical monument in Lucknow, known for its unique architecture and the Bhool Bhulaiya labyrinth. It is a significant landmark of Awadh architecture.",
+      "image": "https://images.unsplash.com/photo-1634074237907-13357c67c4e0?ixid=MnwxMjA3fDB8MHxwaG90"
+    },
+     {
+        "id": 3,
+        "name": "Kashi Vishwanath Temple",
+      "description": "Kashi Vishwanath Temple is a famous Hindu temple dedicated to Lord Shiva in Varanasi. It is one of the holiest pilgrimage sites for Hindus and attracts millions of devotees every year.",
+      "image": "https://images.unsplash.com/photo-1579503781505-736af4641692?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Allahabad Fort",
+      "description": "Allahabad Fort is a majestic fort situated on the banks of the Yamuna River in Allahabad. It was built by Emperor Akbar and offers panoramic views of the surrounding area.",
+      "image": "https://images.unsplash.com/photo-1530883377402-51e81079c1ef?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80"
+    }
+  ],
+            "facts": [
+    "Uttar Pradesh is the most populous state in India.",
+    "It is the fourth-largest state in terms of area.",
+    "The state has a rich cultural heritage and is known for its historical monuments and architectural wonders.",
+    "Uttar Pradesh is the birthplace of Lord Rama and Lord Krishna, two prominent figures in Hindu mythology.",
+    "The state is famous for its traditional arts and crafts, including the intricate Lucknowi Chikankari embroidery and Banarasi silk sarees."
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Kumbh Mela",
+      "description": "Kumbh Mela is a major Hindu pilgrimage and one of the largest religious gatherings in the world. It is held every 12 years in different cities of Uttar Pradesh, including Allahabad, Haridwar, Nashik, and Ujjain.",
+      "image": "https://images.unsplash.com/photo-1553642636-22ab7efa89e6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Taj Mahotsav",
+      "description": "Taj Mahotsav is an annual cultural festival held in Agra, Uttar Pradesh. It showcases the rich heritage, arts, crafts, music, and dance of the region.",
+      "image": "https://images.unsplash.com/photo-1585276568829-4473de9c7ea6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Ayodhya Ram Navami Mela",
+      "description": "Ayodhya Ram Navami Mela is a grand celebration of Lord Rama's birth anniversary in Ayodhya, Uttar Pradesh. The city is believed to be the birthplace of Lord Rama, and the festival attracts devotees from all over the country.",
+      "image": "https://images.unsplash.com/photo-1585832635071-661f9f827a3d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Lucknow Mahotsav",
+      "description": "Lucknow Mahotsav is a 10-day cultural extravaganza held in Lucknow, Uttar Pradesh. It showcases the vibrant arts, crafts, music, dance, and cuisine of the region.",
+      "image": "https://images.unsplash.com/photo-1599639637116-3b6f4780b3f2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Varanasi Ganga Aarti",
+      "description": "Varanasi Ganga Aarti is a mesmerizing ritual held on the banks of the River Ganges in Varanasi, Uttar Pradesh. Devotees gather to witness the evening prayer ceremony, where lamps are lit and offered to the river as an act of worship.",
+             "image": "https://images.unsplash.com/photo-1572732533814-cc68aefcaa88?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    }
+  ],
+  "thingsToDo": [
+    {
+      "id": 1,
+      "name": "Visit the Taj Mahal",
+      "description": "Explore the iconic Taj Mahal in Agra, a UNESCO World Heritage site and one of the Seven Wonders of the World. Admire its stunning architecture and learn about the love story behind its creation.",
+      "image": "https://images.unsplash.com/photo-1553642636-22ab7efa89e6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Explore Varanasi",
+      "description": "Experience the spiritual city of Varanasi, situated on the banks of the sacred River Ganges. Witness the mesmerizing Ganga Aarti, take a boat ride along the ghats, and visit ancient temples.",
+      "image": "https://images.unsplash.com/photo-1542181961-9590d0c58a68?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Discover the Heritage of Lucknow",
+      "description": "Immerse yourself in the cultural heritage of Lucknow, known for its architectural marvels like Bara Imambara and Chota Imambara. Indulge in the city's famous Awadhi cuisine and explore its vibrant markets.",
+      "image": "https://images.unsplash.com/photo-1551836596-4f3efdd280ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Wildlife Safari in Dudhwa National Park",
+      "description": "Embark on an exciting wildlife safari in Dudhwa National Park, located in the Terai region of Uttar Pradesh. Spot majestic tigers, rhinoceros, elephants, and various bird species in their natural habitat.",
+      "image": "https://images.unsplash.com/photo-1542282088-3aabe618c6c5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Visit the City of Nawabs - Faizabad",
+      "description": "Explore the historical city of Faizabad, known for its architectural gems like the Faizabad Fort and the Gulab Bari mausoleum. Learn about the cultural significance of the city and enjoy its serene ambiance.",
+      "image": "https://images.unsplash.com/photo-1558055717-9ddcf755aafe?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    }
+  ]
 }
+        
+         
+         
+         
+
      
 
       ]
