@@ -2407,7 +2407,147 @@
          "description":"Embark on a spiritual journey to Parasnath Hill, the highest mountain in Jharkhand and an important pilgrimage site for Jains."
       }
    ]
+},
+        {
+   "id":4,
+   "title":"Assam",
+   "cities":[
+      {
+         "id":1,
+         "name":"Guwahati",
+         "description":"Guwahati is the largest city in Assam and serves as the gateway to the northeastern region of India."
+      },
+      {
+         "id":2,
+         "name":"Jorhat",
+         "description":"Jorhat is a major urban center in Assam known for its tea gardens, historical sites, and cultural heritage."
+      },
+      {
+         "id":3,
+         "name":"Dibrugarh",
+         "description":"Dibrugarh is the largest city in eastern Assam, famous for its tea industry, vibrant markets, and the Brahmaputra River."
+      },
+      {
+         "id":4,
+         "name":"Tezpur",
+         "description":"Tezpur is a city located on the banks of the Brahmaputra River, known for its scenic beauty, archaeological sites, and temples."
+      },
+      {
+         "id":5,
+         "name":"Silchar",
+         "description":"Silchar is the second-largest city in Assam, known for its picturesque landscapes, tea gardens, and diverse cultural heritage."
+      },
+      {
+         "id":6,
+         "name":"Haflong",
+         "description":"Haflong is the only hill station in Assam, offering panoramic views of the surrounding hills, waterfalls, and rich biodiversity."
+      }
+   ],
+   "about":"Assam, located in northeastern India, is known for its lush tea gardens, wildlife reserves, and rich cultural heritage. The state is home to the mighty Brahmaputra River, the world's largest river island, and numerous national parks. Assam's vibrant festivals, delicious cuisine, and warm hospitality make it a popular destination for travelers seeking unique experiences.",
+   "attractions":[
+      {
+         "id":1,
+         "name":"Kaziranga National Park",
+         "description":"Kaziranga National Park is a UNESCO World Heritage site and a renowned wildlife sanctuary famous for its one-horned rhinoceros and Bengal tigers."
+      },
+      {
+         "id":2,
+         "name":"Majuli",
+         "description":"Majuli is the world's largest river island and a cultural hotspot in Assam, known for its Vaishnavite monasteries and traditional arts."
+      },
+      {
+         "id":3,
+         "name":"Kamakhya Temple",
+         "description":"Visit the Kamakhya Temple, a revered Hindu pilgrimage site dedicated to Goddess Kamakhya and known for its tantric rituals."
+      },
+      {
+         "id":4,
+         "name":"Manas National Park",
+         "description":"Explore the Manas National Park, a UNESCO World Heritage site and a tiger reserve, home to diverse wildlife and breathtaking landscapes."
+      },
+      {
+         "id":5,
+         "name":"Sivasagar",
+         "description":"Sivasagar is a historically significant town in Assam, known for its ancient temples, palaces, and the iconic Rang Ghar."
+      },
+      {
+         "id":6,
+         "name":"Kamakhya Hilltop",
+         "description":"Hike up the Kamakhya Hilltop for panoramic views of Guwahati city, the Brahmaputra River, and the surrounding natural beauty."
+      }
+   ],
+   "thingsToDo":[
+      {
+         "id":1,
+         "name":"Take a River Cruise on the Brahmaputra",
+         "description":"Embark on a scenic river cruise on the mighty Brahmaputra River, enjoying breathtaking views of the surrounding landscapes and wildlife."
+      },
+      {
+         "id":2,
+         "name":"Explore Tea Gardens in Jorhat",
+         "description":"Visit the lush tea gardens in Jorhat, learn about the tea production process, and savor a cup of Assam's famous tea."
+      },
+      {
+         "id":3,
+         "name":"Experience Wildlife Safari in Kaziranga",
+         "description":"Go on an adventurous wildlife safari in Kaziranga National Park, spotting the iconic one-horned rhinoceros, elephants, and other wildlife."
+      },
+      {
+         "id":4,
+         "name":"Discover the Living Cultures of Majuli",
+         "description":"Immerse yourself in the vibrant cultural traditions of Majuli, interact with the locals, and witness traditional dance and music performances."
+      },
+      {
+         "id":5,
+         "name":"Visit the Ahom Monuments in Sivasagar",
+         "description":"Explore the historical sites and ancient Ahom monuments in Sivasagar, including the Rang Ghar and Talatal Ghar."
+      },
+      {
+         "id":6,
+         "name":"Witness the Ambubachi Mela",
+         "description":"Attend the annual Ambubachi Mela held at the Kamakhya Temple, where devotees gather to celebrate the divine feminine power."
+      }
+   ],
+   "events":[
+      {
+         "id":1,
+         "name":"Bihu Festival",
+         "description":"Participate in the joyous Bihu Festival, Assam's most important cultural festival celebrating the arrival of spring with dance, music, and feasts."
+      },
+      {
+         "id":2,
+         "name":"Ambubachi Mela",
+         "description":"Experience the religious fervor of the Ambubachi Mela, a significant annual festival held at the Kamakhya Temple in Guwahati."
+      },
+      {
+         "id":3,
+         "name":"Tea Festival",
+         "description":"Celebrate the rich tea heritage of Assam at the Tea Festival, featuring tea tasting, cultural performances, and exhibitions."
+      },
+      {
+         "id":4,
+         "name":"Jonbeel Mela",
+         "description":"Witness the vibrant Jonbeel Mela, a traditional fair held at Jonbeel in Morigaon, featuring trade, cultural events, and sports."
+      },
+      {
+         "id":5,
+         "name":"Dehing Patkai Festival",
+         "description":"Attend the Dehing Patkai Festival, showcasing the cultural diversity of Assam with traditional music, dance, and local cuisine."
+      }
+   ],
+   "facts":[
+      "Assam is known for its lush tea gardens and is one of the largest tea-producing regions in the world.",
+      "The Kaziranga National Park is home to two-thirds of the world's population of the endangered one-horned rhinoceros.",
+      "Majuli, the world's largest river island, is a hub of neo-Vaishnavite culture and home to several ancient monasteries.",
+      "Assam is rich in biodiversity and is home to various wildlife sanctuaries and national parks, including Manas National Park and Nameri National Park.",
+      "The Brahmaputra River, flowing through Assam, is one of the longest rivers in the world and plays a significant role in the state's economy and culture.",
+      "Assam is known for its traditional crafts, including handloom weaving, pottery, and bamboo crafts.",
+      "The traditional Assamese cuisine is known for its flavorsome dishes like masor tenga (sour fish curry) and pitha (rice cakes).",
+      "The Ahom dynasty, known for its architectural marvels, ruled Assam for about 600 years."
+   ]
 }
+
+
 
 
 
