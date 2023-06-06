@@ -1975,6 +1975,152 @@
       "Rajasthan is known for its delicious cuisine, including popular dishes like dal bati churma, gatte ki sabzi, and laal maas.",
       "Rajasthan is a popular destination for wildlife enthusiasts, with several national parks and sanctuaries, including Ranthambore National Park and Sariska Tiger Reserve."
    ]
+},
+         {
+   "id":2,
+   "title":"Madhya Pradesh",
+   "cities":[
+      {
+         "id":1,
+         "name":"Bhopal",
+         "description":"Bhopal is the capital and largest city of Madhya Pradesh."
+      },
+      {
+         "id":2,
+         "name":"Indore",
+         "description":"Indore is the largest city in Madhya Pradesh and known for its vibrant food scene."
+      },
+      {
+         "id":3,
+         "name":"Gwalior",
+         "description":"Gwalior is a historic city in Madhya Pradesh, known for its magnificent Gwalior Fort."
+      },
+      {
+         "id":4,
+         "name":"Jabalpur",
+         "description":"Jabalpur is a city in Madhya Pradesh, famous for its marble rock formations and Dhuandhar Waterfall."
+      },
+      {
+         "id":5,
+         "name":"Ujjain",
+         "description":"Ujjain is an ancient city in Madhya Pradesh, known for its religious significance and Kumbh Mela."
+      },
+      {
+         "id":6,
+         "name":"Khajuraho",
+         "description":"Khajuraho is a UNESCO World Heritage site in Madhya Pradesh, renowned for its intricately carved temples."
+      }
+   ],
+   "about":"Madhya Pradesh, located in central India, is known for its rich history, diverse culture, and architectural wonders. The state is home to numerous ancient temples, UNESCO World Heritage sites, and wildlife sanctuaries. Madhya Pradesh offers a blend of natural beauty, historical landmarks, and spiritual experiences.",
+   "attractions":[
+      {
+         "id":1,
+         "name":"Kanha National Park",
+         "description":"Kanha National Park is one of the largest tiger reserves in India and a popular wildlife destination in Madhya Pradesh.",
+         "image":"https://images.unsplash.com/photo-1613217197043-c6346d9b63c5"
+      },
+      {
+         "id":2,
+         "name":"Sanchi Stupa",
+         "description":"Sanchi Stupa is a UNESCO World Heritage site and an important Buddhist monument in Madhya Pradesh.",
+         "image":"https://images.unsplash.com/photo-1598037595710-f1dced99f7f3"
+      },
+      {
+         "id":3,
+         "name":"Gwalior Fort",
+         "description":"Gwalior Fort is a majestic hilltop fort in Gwalior, known for its stunning architecture and panoramic views.",
+         "image":"https://images.unsplash.com/photo-1600258142755-540ceabb1a0b"
+      },
+      {
+         "id":4,
+         "name":"Bhimbetka Caves",
+         "description":"Bhimbetka Caves are a UNESCO World Heritage site and showcase prehistoric rock art in Madhya Pradesh.",
+         "image":"https://images.unsplash.com/photo-1599475237786-8aeb0af5e4c9"
+      },
+      {
+         "id":5,
+         "name":"Khajuraho Temples",
+         "description":"Khajuraho Temples are a group of magnificent temples known for their erotic sculptures and architectural brilliance.",
+         "image":"https://images.unsplash.com/photo-1564890504026-62a1eaea6158"
+      },
+      {
+         "id":6,
+         "name":"Pachmarhi",
+         "description":"Pachmarhi is a hill station in Madhya Pradesh, offering breathtaking views, waterfalls, and lush green landscapes.",
+         "image":"https://images.unsplash.com/photo-1623045791236-3a2a8e9e99fc"
+      }
+   ],
+   "thingsToDo":[
+      {
+         "id":1,
+         "name":"Explore the Wildlife at Kanha National Park",
+         "description":"Embark on a thrilling wildlife safari in Kanha National Park to spot tigers, leopards, deer, and a variety of bird species."
+      },
+      {
+         "id":2,
+         "name":"Visit Sanchi Stupa",
+         "description":"Discover the ancient Buddhist heritage at Sanchi Stupa and admire the intricate carvings and serene surroundings."
+      },
+      {
+         "id":3,
+         "name":"Witness the Magnificence of Gwalior Fort",
+         "description":"Explore the grandeur of Gwalior Fort, visit the historic palaces, and enjoy the panoramic views of the city."
+      },
+      {
+         "id":4,
+         "name":"Marvel at the Rock Art in Bhimbetka Caves",
+         "description":"Take a journey back in time at Bhimbetka Caves and admire the fascinating prehistoric rock paintings."
+      },
+      {
+         "id":5,
+         "name":"Experience the Splendor of Khajuraho Temples",
+         "description":"Immerse yourself in the architectural brilliance and intricate sculptures of the Khajuraho Temples, depicting various aspects of life."
+      },
+      {
+         "id":6,
+         "name":"Enjoy Nature in Pachmarhi",
+         "description":"Indulge in the serene beauty of Pachmarhi, go hiking to the viewpoints, and relax amidst the enchanting waterfalls."
+      }
+   ],
+   "events":[
+      {
+         "id":1,
+         "name":"Khajuraho Dance Festival",
+         "description":"Witness captivating classical dance performances at the Khajuraho Dance Festival held annually in February."
+      },
+      {
+         "id":2,
+         "name":"Ujjain Kumbh Mela",
+         "description":"Participate in the spiritual gathering of Ujjain Kumbh Mela, held once every 12 years, and experience Hindu rituals and ceremonies."
+      },
+      {
+         "id":3,
+         "name":"Tansen Music Festival",
+         "description":"Enjoy melodious classical music performances at the Tansen Music Festival in Gwalior, dedicated to the legendary musician Tansen."
+      },
+      {
+         "id":4,
+         "name":"Malwa Utsav",
+         "description":"Celebrate the vibrant culture of Malwa region at the Malwa Utsav, featuring traditional music, dance, and handicrafts."
+      },
+      {
+         "id":5,
+         "name":"Tribal Lokotsav",
+         "description":"Experience the rich tribal culture of Madhya Pradesh at the Tribal Lokotsav, showcasing traditional art, crafts, and performances."
+      }
+   ],
+   "facts":[
+      "Madhya Pradesh is often referred to as the 'Heart of India' due to its central location.",
+      "The state has nine national parks and 25 wildlife sanctuaries, making it a haven for nature and wildlife enthusiasts.",
+      "The world-famous Kumbh Mela takes place in Madhya Pradesh, rotating between the cities of Ujjain, Haridwar, Nashik, and Allahabad.",
+      "Bhopal, the capital city of Madhya Pradesh, is known as the 'City of Lakes' due to the presence of several beautiful lakes.",
+      "Madhya Pradesh is home to the largest group of monuments in India, including the UNESCO World Heritage sites of Khajuraho and Sanchi Stupa.",
+      "The state is renowned for its handloom and handicrafts, including the famous Chanderi and Maheshwari sarees.",
+      "Madhya Pradesh has a rich cultural heritage and is known for its folk dances like Giddha, Gond, and Kalbelia.",
+      "Poha, a popular breakfast dish made from flattened rice, is a specialty of Madhya Pradesh.",
+      "The state has a diverse range of flora and fauna, including the iconic Royal Bengal Tiger in its national parks.",
+      "Madhya Pradesh is also known for its natural wonders like marble rock formations in Bhedaghat and the Dhuandhar Waterfall in Jabalpur."
+   ]
 }
         
         
