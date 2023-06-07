@@ -1590,6 +1590,44 @@
          {
             "id":12,
             "title":"Jammu and Kashmir",
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Explore Dal Lake",
+                  "description":"Take a shikara ride and explore the beautiful Dal Lake, known for its scenic beauty and floating gardens.",
+                  "image":"https://example.com/dal-lake.jpg"
+               },
+               {
+                  "id":2,
+                  "name":"Visit the Mughal Gardens",
+                  "description":"Visit the famous Mughal Gardens in Srinagar, such as Shalimar Bagh, Nishat Bagh, and Chashme Shahi, known for their stunning terraced gardens and historical significance.",
+                  "image":"https://example.com/mughal-gardens.jpg"
+               },
+               {
+                  "id":3,
+                  "name":"Experience the Amarnath Yatra",
+                  "description":"Embark on the holy pilgrimage to the Amarnath Cave, located in the Himalayas, and witness the natural ice lingam, which is believed to be a manifestation of Lord Shiva.",
+                  "image":"https://example.com/amarnath-yatra.jpg"
+               },
+               {
+                  "id":4,
+                  "name":"Visit the Vaishno Devi Shrine",
+                  "description":"Pay a visit to the sacred Vaishno Devi Shrine, located in the Trikuta Mountains, and seek blessings from the revered Hindu goddess Vaishno Devi.",
+                  "image":"https://example.com/vaishno-devi.jpg"
+               },
+               {
+                  "id":5,
+                  "name":"Explore Gulmarg",
+                  "description":"Experience the breathtaking beauty of Gulmarg, a popular hill station known for its picturesque landscapes, skiing opportunities, and the Gulmarg Gondola, one of the highest cable car rides in the world.",
+                  "image":"https://example.com/gulmarg.jpg"
+               },
+               {
+                  "id":6,
+                  "name":"Visit the Leh-Ladakh Region",
+                  "description":"Explore the stunning landscapes of the Leh-Ladakh region, including the scenic Pangong Lake, Nubra Valley, and monasteries such as Hemis and Thiksey.",
+                  "image":"https://example.com/leh-ladakh.jpg"
+               }
+            ],
             "cities":[
                {
                   "id":1,
