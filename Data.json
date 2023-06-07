@@ -2833,6 +2833,1441 @@
                   "image":"https://example.com/kang-chingba.jpg"
                }
             ]
+         },
+         {
+            "id":21,
+            "title":"Nagaland",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Kohima",
+                  "description":"Kohima is the capital and largest city of Nagaland."
+               },
+               {
+                  "id":2,
+                  "name":"Dimapur",
+                  "description":"Dimapur is the largest commercial city of Nagaland."
+               },
+               {
+                  "id":3,
+                  "name":"Mokokchung",
+                  "description":"Mokokchung is a town in Nagaland known for its rich cultural heritage."
+               },
+               {
+                  "id":4,
+                  "name":"Wokha",
+                  "description":"Wokha is a scenic town in Nagaland, famous for its orange orchards."
+               },
+               {
+                  "id":5,
+                  "name":"Tuensang",
+                  "description":"Tuensang is a district in Nagaland known for its vibrant tribal culture."
+               },
+               {
+                  "id":6,
+                  "name":"Zunheboto",
+                  "description":"Zunheboto is a town in Nagaland, known for its traditional Naga huts and shawls."
+               }
+            ],
+            "about":"Nagaland is a state in northeastern India, bordered by Assam, Arunachal Pradesh, Manipur, and Myanmar. It is known for its rich tribal heritage and picturesque landscapes. The state is home to various indigenous Naga tribes, each with its distinct customs, traditions, and festivals. Nagaland offers visitors a chance to experience its vibrant tribal culture, traditional arts and crafts, and breathtaking natural beauty.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Hornbill Festival",
+                  "description":"Hornbill Festival is a week-long cultural extravaganza held in Kohima, showcasing the traditional dance, music, arts, and crafts of the Naga tribes.",
+                  "image":"https://images.unsplash.com/photo-1543637550-017dcbd2b24d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1780&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Dzukou Valley",
+                  "description":"Dzukou Valley is a picturesque valley known for its enchanting landscapes, seasonal flowers, and trekking opportunities.",
+                  "image":"https://images.unsplash.com/photo-1601651609240-8fb3f1c11255?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Kohima War Cemetery",
+                  "description":"Kohima War Cemetery is a memorial dedicated to the soldiers who lost their lives during the Battle of Kohima in World War II.",
+                  "image":"https://images.unsplash.com/photo-1543637549-bc4ca6a32bb0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1782&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Kachari Ruins",
+                  "description":"Kachari Ruins is an archaeological site in Dimapur, featuring remnants of an ancient civilization and intricate stone carvings.",
+                  "image":"https://images.unsplash.com/photo-1601567171575-aa07d5b725e1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Intanki National Park",
+                  "description":"Intanki National Park is a wildlife sanctuary in Nagaland, home to various species of flora and fauna, including the endangered Hoolock gibbon.",
+                  "image":"https://images.unsplash.com/photo-1565597782-792ab3c9523e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":6,
+                  "name":"Kohima Museum",
+                  "description":"Kohima Museum is a museum that showcases the history, culture, and heritage of Nagaland and its indigenous tribes.",
+                  "image":"https://images.unsplash.com/photo-1601567115125-36e4170592ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Explore Traditional Naga Villages",
+                  "description":"Explore the traditional Naga villages and experience the unique customs and traditions of the indigenous tribes.",
+                  "image":"https://images.unsplash.com/photo-1524383189304-719a95e80e5f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Attend Hornbill Festival",
+                  "description":"Attend the Hornbill Festival, which offers a glimpse into the vibrant Naga culture through traditional dances, music, and crafts.",
+                  "image":"https://images.unsplash.com/photo-1542654146-651fcf8b947d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Visit Dzukou Valley",
+                  "description":"Visit Dzukou Valley and enjoy trekking amidst its breathtaking landscapes and seasonal flowers.",
+                  "image":"https://images.unsplash.com/photo-1569237365306-12941aa73036?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Explore Kohima War Cemetery",
+                  "description":"Explore the Kohima War Cemetery, a poignant reminder of the sacrifices made during World War II.",
+                  "image":"https://images.unsplash.com/photo-1524773394709-3a6007b6f8a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Take Wildlife Safari in Intanki National Park",
+                  "description":"Take a wildlife safari in Intanki National Park and spot various species of flora and fauna, including the endangered Hoolock gibbon.",
+                  "image":"https://images.unsplash.com/photo-1565597782-792ab3c9523e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":6,
+                  "name":"Visit Kohima Museum",
+                  "description":"Visit Kohima Museum to learn about the history, culture, and heritage of Nagaland and its indigenous tribes.",
+                  "image":"https://images.unsplash.com/photo-1601567115125-36e4170592ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":7,
+                  "name":"Shop for Traditional Naga Handicrafts",
+                  "description":"Shop for traditional Naga handicrafts, shawls, and textiles, known for their intricate designs and craftsmanship.",
+                  "image":"https://images.unsplash.com/photo-1581743090035-403201f902ee?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":8,
+                  "name":"Try Local Naga Cuisine",
+                  "description":"Try the local Naga cuisine, known for its unique flavors and ingredients like bamboo shoots, fermented soybeans, and smoked meats.",
+                  "image":"https://images.unsplash.com/photo-1529331317795-22f7f2e66e20?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Hornbill Festival",
+                  "description":"Hornbill Festival is a week-long cultural extravaganza held in Kohima, showcasing the traditional dance, music, arts, and crafts of the Naga tribes.",
+                  "date":"December 1 - 10",
+                  "location":"Kohima, Nagaland"
+               },
+               {
+                  "id":2,
+                  "name":"Moatsu Festival",
+                  "description":"Moatsu Festival is a major agricultural festival celebrated by the Ao Naga tribe in May. It involves various rituals, dances, and feasts.",
+                  "date":"May",
+                  "location":"Mokokchung, Nagaland"
+               },
+               {
+                  "id":3,
+                  "name":"Sekrenyi Festival",
+                  "description":"Sekrenyi Festival is a significant Angami Naga festival celebrated in February. It involves purification rituals, feasting, and traditional dances.",
+                  "date":"February",
+                  "location":"Kohima, Nagaland"
+               },
+               {
+                  "id":4,
+                  "name":"Aoling Festival",
+                  "description":"Aoling Festival is a vibrant festival celebrated by the Konyak Naga tribe in April. It involves rituals, dances, and traditional games.",
+                  "date":"April",
+                  "location":"Mon, Nagaland"
+               }
+            ],
+            "facts":[
+               "Nagaland is known as the 'Land of Festivals' due to its rich cultural heritage and the numerous festivals celebrated throughout the year.",
+               "The state is famous for its traditional Naga shawls, which are handwoven with intricate designs and vibrant colors.",
+               "Naga cuisine is known for its use of bamboo shoots, fermented soybeans (axone), smoked meats, and spicy chutneys.",
+               "Nagaland has a literacy rate of over 80%, which is higher than the national average.",
+               "The state is home to the endangered Hoolock gibbon, a species of ape found only in the northeastern region of India.",
+               "Nagaland shares its borders with Assam, Arunachal Pradesh, Manipur, and Myanmar.",
+               "The official language of Nagaland is English, but various Naga dialects are also spoken.",
+               "The traditional attire of the Naga tribes includes colorful woven shawls, adorned with intricate jewelry and accessories.",
+               "Nagaland is known for its traditional arts and crafts, including woodcarving, bamboo work, pottery, and beadwork.",
+               "The state has several music and dance forms, including the popular Naga warrior dance called 'War Dance' or 'Zeliang Dance.'"
+            ]
+         },
+         {
+            "id":22,
+            "title":"Mizoram",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Aizawl",
+                  "description":"Aizawl is the capital and largest city of Mizoram, known for its scenic beauty and vibrant culture."
+               },
+               {
+                  "id":2,
+                  "name":"Lunglei",
+                  "description":"Lunglei is a town in Mizoram, famous for its picturesque landscape and natural attractions."
+               },
+               {
+                  "id":3,
+                  "name":"Champhai",
+                  "description":"Champhai is a border town in Mizoram, located near the Myanmar border and known for its scenic beauty."
+               },
+               {
+                  "id":4,
+                  "name":"Serchhip",
+                  "description":"Serchhip is a town in Mizoram, known for its beautiful hills, waterfalls, and serene environment."
+               },
+               {
+                  "id":5,
+                  "name":"Kolasib",
+                  "description":"Kolasib is a town in Mizoram, famous for its green valleys, tea gardens, and wildlife sanctuaries."
+               },
+               {
+                  "id":6,
+                  "name":"Champhai",
+                  "description":"Champhai is a town in Mizoram, located near the Myanmar border and known for its scenic beauty."
+               }
+            ],
+            "about":"Mizoram is a state in northeastern India, bordered by Myanmar and Bangladesh. It is known for its stunning natural beauty, with lush green valleys, rolling hills, and vibrant flora and fauna. Aizawl, the capital city, is a cultural hub with traditional Mizo heritage and modern influences. Mizoram is famous for its handloom and handicrafts, rich cultural festivals, and warm hospitality of its people.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Durtlang Hills",
+                  "description":"Durtlang Hills offer panoramic views of Aizawl city and the surrounding valleys, attracting nature lovers and hikers.",
+                  "image":"https://images.unsplash.com/photo-1582597247527-0ad0e639abf6"
+               },
+               {
+                  "id":2,
+                  "name":"Phawngpui Peak",
+                  "description":"Phawngpui Peak, also known as the Blue Mountain, is the highest peak in Mizoram, offering breathtaking views and trekking opportunities.",
+                  "image":"https://images.unsplash.com/photo-1577846832824-87d783b392e2"
+               },
+               {
+                  "id":3,
+                  "name":"Palak Lake",
+                  "description":"Palak Lake is a scenic freshwater lake surrounded by lush greenery, perfect for boating and enjoying the tranquil ambiance.",
+                  "image":"https://images.unsplash.com/photo-1577846885206-5f10e3b7e679"
+               },
+               {
+                  "id":4,
+                  "name":"Vantawng Falls",
+                  "description":"Vantawng Falls is a mesmerizing waterfall cascading down from a height of over 750 feet, offering a breathtaking sight.",
+                  "image":"https://images.unsplash.com/photo-1577846790650-63aa21f6477a"
+               },
+               {
+                  "id":5,
+                  "name":"Reiek Tlang",
+                  "description":"Reiek Tlang is a picturesque hill located near Aizawl, offering stunning views of the surrounding landscape. It is also a popular spot for trekking and enjoying nature.",
+                  "image":"https://images.unsplash.com/photo-1577846904933-0ff0d8e8c431"
+               },
+               {
+                  "id":6,
+                  "name":"Tam Dil",
+                  "description":"Tam Dil is a serene natural lake located near Saitual, known for its calm and peaceful atmosphere. Visitors can enjoy boating and fishing in the lake.",
+                  "image":"https://images.unsplash.com/photo-1577846832824-87d783b392e2"
+               },
+               {
+                  "id":7,
+                  "name":"Murlen National Park",
+                  "description":"Murlen National Park is a wildlife sanctuary located in Champhai district, known for its diverse flora and fauna. It offers opportunities for wildlife spotting and trekking.",
+                  "image":"https://images.unsplash.com/photo-1577846746387-29250a9f3d8f"
+               },
+               {
+                  "id":8,
+                  "name":"Tamdil Lake",
+                  "description":"Tamdil Lake is a picturesque lake located in Aizawl district, surrounded by lush green hills. It is a popular spot for picnics and boating.",
+                  "image":"https://images.unsplash.com/photo-1577846770761-52a9b7d82fcd"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Trekking in Durtlang Hills",
+                  "description":"Embark on a trekking adventure in the scenic Durtlang Hills near Aizawl, offering panoramic views of the city and surrounding landscapes.",
+                  "image":"https://images.unsplash.com/photo-1577846591530-1ce3505bb675"
+               },
+               {
+                  "id":2,
+                  "name":"Visit Vantawng Falls",
+                  "description":"Explore the majestic Vantawng Falls, one of the highest waterfalls in Mizoram, surrounded by lush greenery and tranquil ambiance.",
+                  "image":"https://images.unsplash.com/photo-1577846474481-4b0ea9d4a20f"
+               },
+               {
+                  "id":3,
+                  "name":"Experience Traditional Mizo Culture",
+                  "description":"Immerse yourself in the rich cultural heritage of Mizoram by experiencing traditional Mizo music, dance, cuisine, and handicrafts.",
+                  "image":"https://images.unsplash.com/photo-1577846672883-d89b7dc7f1f2"
+               },
+               {
+                  "id":4,
+                  "name":"Explore Phawngpui National Park",
+                  "description":"Visit Phawngpui National Park, also known as the Blue Mountain National Park, and discover its diverse flora, fauna, and stunning landscapes.",
+                  "image":"https://images.unsplash.com/photo-1577846885157-30c69edfa4f5"
+               },
+               {
+                  "id":5,
+                  "name":"Indulge in Bamboo Craft Shopping",
+                  "description":"Shop for exquisite bamboo crafts, including baskets, furniture, and decorative items, showcasing the skilled craftsmanship of Mizoram.",
+                  "image":"https://images.unsplash.com/photo-1577846512707-2064026d41d8"
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Chapchar Kut",
+                  "description":"Chapchar Kut is a vibrant harvest festival celebrated in Mizoram with music, dance, and traditional performances.",
+                  "image":"https://images.unsplash.com/photo-1577846630223-ba748083f2c0"
+               },
+               {
+                  "id":2,
+                  "name":"Mim Kut",
+                  "description":"Mim Kut is a post-harvest festival celebrated by the Mizo community, featuring feasts, dances, and cultural activities.",
+                  "image":"https://images.unsplash.com/photo-1577846611710-5a6ab2ae25fc"
+               },
+               {
+                  "id":3,
+                  "name":"Chapchar Kut",
+                  "description":"Chapchar Kut is a vibrant harvest festival celebrated in Mizoram with music, dance, and traditional performances.",
+                  "image":"https://images.unsplash.com/photo-1577846630223-ba748083f2c0"
+               },
+               {
+                  "id":4,
+                  "name":"Thalfavang Kut",
+                  "description":"Thalfavang Kut is a post-harvest festival celebrated by the Lusei tribe, featuring cultural programs, sports, and community feasts.",
+                  "image":"https://images.unsplash.com/photo-1577846651272-9a90d7e5295b"
+               },
+               {
+                  "id":5,
+                  "name":"Pawl Kut",
+                  "description":"Pawl Kut is a harvest festival celebrated by the Mara tribe, involving traditional dances, music, and religious rituals.",
+                  "image":"https://images.unsplash.com/photo-1577846601701-ecaf6e31eab1"
+               }
+            ],
+            "facts":[
+               "Mizoram is known as the 'Land of the Highlanders' due to its hilly terrain and the majority of the population being tribal communities.",
+               "It is one of the Seven Sister states in northeastern India, sharing borders with Myanmar and Bangladesh.",
+               "Mizoram has a high literacy rate and is considered one of the most literate states in India.",
+               "The state is rich in biodiversity and is home to several wildlife sanctuaries and national parks, including the famous Phawngpui National Park.",
+               "Mizo cuisine is known for its unique flavors and ingredients, with dishes like Bai, Vawksa Rep, and Koat Pitha being popular delicacies.",
+               "Traditional bamboo and cane crafts are an integral part of Mizo culture and are widely produced and sold in the state.",
+               "Mizoram experiences a pleasant climate throughout the year, with cool summers and mild winters.",
+               "The Mizo language is the official language of Mizoram, and English is also widely spoken and understood."
+            ]
+         },
+         {
+            "id":23,
+            "title":"Sikkim",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Gangtok",
+                  "description":"Gangtok is the capital and largest city of Sikkim, known for its scenic beauty and Buddhist monasteries."
+               },
+               {
+                  "id":2,
+                  "name":"Pelling",
+                  "description":"Pelling is a charming town in Sikkim, offering breathtaking views of the Kanchenjunga mountain range."
+               },
+               {
+                  "id":3,
+                  "name":"Namchi",
+                  "description":"Namchi is a picturesque town in Sikkim, famous for its serene Buddhist monasteries and the towering statue of Guru Padmasambhava."
+               },
+               {
+                  "id":4,
+                  "name":"Lachung",
+                  "description":"Lachung is a small mountain village in Sikkim, known for its natural beauty, waterfalls, and snow-capped peaks."
+               },
+               {
+                  "id":5,
+                  "name":"Ravangla",
+                  "description":"Ravangla is a scenic town in Sikkim, offering panoramic views of the Himalayan range and hosting the annual Pang Lhabsol festival."
+               },
+               {
+                  "id":6,
+                  "name":"Yuksom",
+                  "description":"Yuksom is a historical town in Sikkim, serving as the base camp for treks to the majestic Kanchenjunga peak."
+               }
+            ],
+            "about":"Sikkim is a northeastern state in India, nestled in the Himalayas and bordered by Nepal, Tibet, and Bhutan. It is known for its breathtaking landscapes, alpine forests, and rich biodiversity. Sikkim is a popular tourist destination, offering opportunities for adventure sports, trekking, and exploring Buddhist monasteries.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Tsomgo Lake",
+                  "description":"Tsomgo Lake, also known as Changu Lake, is a glacial lake in Sikkim, surrounded by snow-capped mountains and offering picturesque views.",
+                  "image":"https://example.com/tsomgo-lake.jpg"
+               },
+               {
+                  "id":2,
+                  "name":"Nathu La Pass",
+                  "description":"Nathu La Pass is a mountain pass at the Indo-China border, connecting Sikkim with Tibet Autonomous Region, known for its strategic importance and scenic beauty.",
+                  "image":"https://example.com/nathu-la-pass.jpg"
+               },
+               {
+                  "id":3,
+                  "name":"Gurudongmar Lake",
+                  "description":"Gurudongmar Lake is one of the highest lakes in the world, located at an altitude of 17,800 feet, offering breathtaking views and religious significance.",
+                  "image":"https://example.com/gurudongmar-lake.jpg"
+               },
+               {
+                  "id":4,
+                  "name":"Khangchendzonga National Park",
+                  "description":"Khangchendzonga National Park is a UNESCO World Heritage Site and a biosphere reserve, home to diverse wildlife and rare alpine flora.",
+                  "image":"https://example.com/khangchendzonga-national-park.jpg"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Visit Rumtek Monastery",
+                  "description":"Explore Rumtek Monastery, a prominent Buddhist monastery in Sikkim, known for its stunning architecture and religious significance."
+               },
+               {
+                  "id":2,
+                  "name":"Go for a Trek to Goecha La",
+                  "description":"Embark on a challenging trek to Goecha La, offering mesmerizing views of the Kanchenjunga range and pristine alpine landscapes."
+               },
+               {
+                  "id":3,
+                  "name":"Enjoy Adventure Sports in Sikkim",
+                  "description":"Indulge in thrilling adventure sports like paragliding, river rafting, and mountain biking, taking advantage of Sikkim's natural beauty."
+               },
+               {
+                  "id":4,
+                  "name":"Visit the Enchey Monastery",
+                  "description":"Discover the Enchey Monastery, a 200-year-old Buddhist monastery in Gangtok, known for its annual Chaam dance festival."
+               },
+               {
+                  "id":5,
+                  "name":"Explore Yumthang Valley",
+                  "description":"Experience the scenic beauty of Yumthang Valley, known as the 'Valley of Flowers,' with its vibrant blooms and hot springs."
+               },
+               {
+                  "id":6,
+                  "name":"Take a Cable Car Ride to Tashi Viewpoint",
+                  "description":"Enjoy a cable car ride to Tashi Viewpoint, offering panoramic views of the snow-clad Himalayan peaks and the surrounding valleys."
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Losar Festival",
+                  "description":"Participate in the vibrant Losar Festival, celebrated by the Tibetan community in Sikkim, marking the Tibetan New Year with traditional music, dance, and rituals."
+               },
+               {
+                  "id":2,
+                  "name":"Bumchu Festival",
+                  "description":"Witness the Bumchu Festival, a sacred festival held at the Tashiding Monastery, where a pot containing holy water is opened to predict the future."
+               },
+               {
+                  "id":3,
+                  "name":"International Flower Festival",
+                  "description":"Experience the International Flower Festival in Gangtok, a colorful event showcasing a variety of exotic flowers and ornamental plants."
+               },
+               {
+                  "id":4,
+                  "name":"Tendong Lho Rum Faat",
+                  "description":"Partake in Tendong Lho Rum Faat, a festival celebrated by the Lepcha community in Ravangla, showcasing their rich culture and traditions."
+               },
+               {
+                  "id":5,
+                  "name":"Namchi Mahotsav",
+                  "description":"Celebrate Namchi Mahotsav, a grand carnival in Namchi, featuring cultural performances, traditional sports, and local delicacies."
+               },
+               {
+                  "id":6,
+                  "name":"Saga Dawa",
+                  "description":"Observe Saga Dawa, an important Buddhist festival commemorating the birth, enlightenment, and death of Gautama Buddha, with religious ceremonies and processions."
+               }
+            ],
+            "facts":[
+               "Sikkim is the least populous state in India.",
+               "It became the 22nd state of India in 1975.",
+               "Kanchenjunga, the third highest peak in the world, is located in Sikkim.",
+               "Sikkim is the only state in India with an ethnic Nepali majority.",
+               "It is the first fully organic state in India, promoting sustainable agriculture practices.",
+               "Sikkim is home to the Red Panda, a vulnerable species found in the Himalayas.",
+               "The traditional Sikkimese dish 'Gundruk' is made from fermented leafy greens.",
+               "Sikkim has a diverse range of languages spoken, including Nepali, Lepcha, Bhutia, and Limbu."
+            ]
+         },
+         {
+            "id":24,
+            "title":"West Bengal",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Kolkata",
+                  "description":"Kolkata, also known as the 'City of Joy,' is the capital and largest city of West Bengal."
+               },
+               {
+                  "id":2,
+                  "name":"Darjeeling",
+                  "description":"Darjeeling is a famous hill station in West Bengal, known for its tea plantations and panoramic views of the Himalayas."
+               },
+               {
+                  "id":3,
+                  "name":"Siliguri",
+                  "description":"Siliguri is a major city in West Bengal, located at the foothills of the Eastern Himalayas and serving as a gateway to the northeastern states of India."
+               },
+               {
+                  "id":4,
+                  "name":"Durgapur",
+                  "description":"Durgapur is an industrial city in West Bengal, known for its steel and coal industries."
+               },
+               {
+                  "id":5,
+                  "name":"Howrah",
+                  "description":"Howrah is a city located on the banks of the Hooghly River, opposite Kolkata, and is known for the iconic Howrah Bridge."
+               },
+               {
+                  "id":6,
+                  "name":"Sundarbans",
+                  "description":"Sundarbans is a vast mangrove forest located in the southern part of West Bengal, famous for its rich biodiversity and Royal Bengal tigers."
+               }
+            ],
+            "about":"West Bengal is a state in eastern India, known for its diverse culture, literature, and art. It is home to the vibrant city of Kolkata and is famous for its historical landmarks, delicious cuisine, and festivals. The state offers a mix of urban and rural experiences, with beautiful hill stations, wildlife sanctuaries, and heritage sites.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Victoria Memorial",
+                  "description":"Victoria Memorial is a grand marble building in Kolkata, built in memory of Queen Victoria. It is now a museum and a popular tourist attraction.",
+                  "image":"https://images.unsplash.com/photo-1547067036-bfaae3e47788?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Darjeeling Himalayan Railway",
+                  "description":"Darjeeling Himalayan Railway, also known as the 'Toy Train,' is a UNESCO World Heritage site and offers a scenic ride through the hills of Darjeeling.",
+                  "image":"https://images.unsplash.com/photo-1601981735950-6e6f8dd83df9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Belur Math",
+                  "description":"Belur Math is a serene temple complex located on the banks of the Hooghly River, known for its architectural beauty and religious significance.",
+                  "image":"https://images.unsplash.com/photo-1601981954682-3c88ba01156a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Sunderbans National Park",
+                  "description":"Sunderbans National Park is a UNESCO World Heritage site and a tiger reserve located in the Sundarbans region. It is known for its mangrove forests and diverse wildlife.",
+                  "image":"https://images.unsplash.com/photo-1529887225944-8d9071f6f89e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Kalimpong",
+                  "description":"Kalimpong is a picturesque hill town in West Bengal, famous for its panoramic views, Buddhist monasteries, and flower nurseries.",
+                  "image":"https://images.unsplash.com/photo-1531795241967-a4de1b2fdd11?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":6,
+                  "name":"Shantiniketan",
+                  "description":"Shantiniketan is a town known for its association with Nobel laureate Rabindranath Tagore. It is home to Visva-Bharati University and showcases Tagore's legacy.",
+                  "image":"https://images.unsplash.com/photo-1557768295-b1c9d3f45d07?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Darjeeling Toy Train Ride",
+                  "description":"Take a ride on the famous Darjeeling Toy Train, a UNESCO World Heritage site, and enjoy the scenic views of the tea gardens and Himalayan mountains.",
+                  "image":"https://images.unsplash.com/photo-1531795241967-a4de1b2fdd11?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Visit Victoria Memorial",
+                  "description":"Explore the iconic Victoria Memorial in Kolkata, an architectural marvel and a tribute to Queen Victoria. The museum inside showcases the history of Kolkata.",
+                  "image":"https://images.unsplash.com/photo-1529887225944-8d9071f6f89e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Experience Durga Puja",
+                  "description":"Participate in the grand celebration of Durga Puja, the most significant festival in West Bengal. Enjoy the vibrant decorations, cultural performances, and traditional rituals.",
+                  "image":"https://images.unsplash.com/photo-1558994204-8a5d724704fd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Take a River Cruise",
+                  "description":"Embark on a leisurely river cruise along the Ganges or the Hooghly River and witness the mesmerizing sunset views and the bustling riverfront activities.",
+                  "image":"https://images.unsplash.com/photo-1534404178482-9d516c7f6d15?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Explore Sundarbans",
+                  "description":"Discover the Sundarbans, the world's largest mangrove forest and a UNESCO World Heritage site. Take a boat safari to spot Royal Bengal tigers and other wildlife.",
+                  "image":"https://images.unsplash.com/photo-1534890471177-25a8a2d5a043?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Kolkata International Film Festival",
+                  "description":"Attend the Kolkata International Film Festival, a prominent film festival held in Kolkata, showcasing a wide range of national and international films.",
+                  "image":"https://images.unsplash.com/photo-1531592510804-82ce1e6a1447?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Gangasagar Mela",
+                  "description":"Visit the Gangasagar Mela, a religious fair held at Sagar Island, where thousands of devotees take a holy dip in the Ganges River.",
+                  "image":"https://images.unsplash.com/photo-1579003524005-6e7036bd42d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Kali Puja",
+                  "description":"Experience the grand celebration of Kali Puja, a festival dedicated to the Hindu goddess Kali. Enjoy the illuminated streets and cultural performances.",
+                  "image":"https://images.unsplash.com/photo-1572327112371-44d77c8c6b63?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               }
+            ],
+            "facts":[
+               "West Bengal is known as the 'Cultural Capital of India' due to its rich literary, artistic, and cultural heritage.",
+               "Kolkata, the capital city of West Bengal, was the first city in India to have an underground metro system.",
+               "The Sunderbans National Park in West Bengal is home to the largest population of Royal Bengal tigers in the world.",
+               "Darjeeling in West Bengal is famous for its tea gardens and is often referred to as the 'Queen of the Hills'.",
+               "West Bengal is renowned for its delicious cuisine, including popular dishes like macher jhol (fish curry), shorshe ilish (hilsa fish in mustard sauce), and sandesh (a sweet made from cottage cheese)."
+            ]
+         },
+         {
+            "id":25,
+            "title":"Himachal Pradesh",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Shimla",
+                  "description":"Shimla is the capital city of Himachal Pradesh and a popular tourist destination, known for its scenic beauty and colonial architecture."
+               },
+               {
+                  "id":2,
+                  "name":"Manali",
+                  "description":"Manali is a picturesque hill station in Himachal Pradesh, famous for its snow-capped mountains, adventure activities, and natural beauty."
+               },
+               {
+                  "id":3,
+                  "name":"Dharamshala",
+                  "description":"Dharamshala is a spiritual town in Himachal Pradesh, known for its Buddhist monasteries and as the residence of the Dalai Lama."
+               },
+               {
+                  "id":4,
+                  "name":"Dalhousie",
+                  "description":"Dalhousie is a serene hill station in Himachal Pradesh, offering panoramic views of the Himalayas and colonial-era buildings."
+               },
+               {
+                  "id":5,
+                  "name":"Kasauli",
+                  "description":"Kasauli is a small hill station in Himachal Pradesh, known for its pleasant climate, scenic trails, and old-world charm."
+               }
+            ],
+            "about":"Himachal Pradesh is a state in the northern part of India, nestled in the Himalayas. It is known for its picturesque landscapes, snow-capped mountains, and rich cultural heritage. The state offers a perfect blend of natural beauty, adventure activities, and spiritual experiences, making it a popular destination for tourists.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Rohtang Pass",
+                  "description":"Rohtang Pass is a high mountain pass in the Himalayas, located near Manali. It offers breathtaking views of snow-covered peaks and is a gateway to Lahaul and Spiti valleys.",
+                  "image":"https://example.com/rohtang_pass.jpg"
+               },
+               {
+                  "id":2,
+                  "name":"Mall Road, Shimla",
+                  "description":"Mall Road is the main street in Shimla, lined with shops, restaurants, and colonial-era buildings. It is a popular spot for leisurely walks and shopping.",
+                  "image":"https://example.com/mall_road_shimla.jpg"
+               },
+               {
+                  "id":3,
+                  "name":"Bhagsu Waterfall",
+                  "description":"Bhagsu Waterfall is a scenic waterfall located near McLeod Ganj in Dharamshala. It is a popular tourist attraction and offers a refreshing experience amidst nature.",
+                  "image":"https://example.com/bhagsu_waterfall.jpg"
+               },
+               {
+                  "id":4,
+                  "name":"Hadimba Temple",
+                  "description":"Hadimba Temple is a famous ancient temple located in Manali. Dedicated to the goddess Hadimba, it is known for its unique architecture and tranquil surroundings.",
+                  "image":"https://example.com/hadimba_temple.jpg"
+               },
+               {
+                  "id":5,
+                  "name":"Christ Church, Shimla",
+                  "description":"Christ Church is a historic church located on the Ridge in Shimla. It is known for its neo-Gothic architecture and beautiful stained glass windows.",
+                  "image":"https://example.com/christ_church_shimla.jpg"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Trekking",
+                  "description":"Himachal Pradesh offers a wide range of trekking opportunities, from easy treks for beginners to challenging ones for experienced trekkers. Some popular treks include Triund Trek, Hampta Pass Trek, and Pin Parvati Trek."
+               },
+               {
+                  "id":2,
+                  "name":"Skiing",
+                  "description":"During the winter season, Himachal Pradesh turns into a paradise for skiing enthusiasts. Places like Solang Valley, Gulmarg, and Auli offer excellent skiing slopes and facilities."
+               },
+               {
+                  "id":3,
+                  "name":"River Rafting",
+                  "description":"The rivers in Himachal Pradesh, such as Beas, Sutlej, and Chenab, provide thrilling opportunities for river rafting. Adventure enthusiasts can enjoy rafting in various grades, ranging from easy to challenging."
+               },
+               {
+                  "id":4,
+                  "name":"Paragliding",
+                  "description":"Himachal Pradesh offers stunning landscapes for paragliding. Destinations like Bir Billing, Solang Valley, and Manali are popular for paragliding activities, providing breathtaking views from the sky."
+               },
+               {
+                  "id":5,
+                  "name":"Yak Safari",
+                  "description":"Yak safaris are a unique experience offered in Himachal Pradesh. Visitors can enjoy a ride on yaks, a native animal of the region, while exploring the scenic beauty of the mountains."
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Winter Carnival, Manali",
+                  "description":"The Winter Carnival in Manali is a vibrant festival celebrated in January. It includes cultural performances, adventure activities, food stalls, and various competitions."
+               },
+               {
+                  "id":2,
+                  "name":"Summer Festival, Shimla",
+                  "description":"The Summer Festival in Shimla is a popular event held in May. It features live music, dance performances, local handicrafts, food stalls, and a variety of cultural programs."
+               },
+               {
+                  "id":3,
+                  "name":"International Himalayan Festival, Dharamshala",
+                  "description":"The International Himalayan Festival is an annual event celebrated in Dharamshala, showcasing the unique culture and traditions of the Himalayan region. It includes music concerts, art exhibitions, and spiritual teachings."
+               },
+               {
+                  "id":4,
+                  "name":"Kullu Dussehra",
+                  "description":"Kullu Dussehra is a week-long festival celebrated in the Kullu Valley. It attracts thousands of devotees who come to witness the colorful processions, cultural performances, and the burning of the demon effigies."
+               },
+               {
+                  "id":5,
+                  "name":"Shimla Summer Festival",
+                  "description":"The Shimla Summer Festival is a vibrant event held in June, featuring music concerts, dance performances, flower exhibitions, and a variety of competitions. It showcases the rich cultural heritage of Himachal Pradesh."
+               }
+            ],
+            "facts":[
+               "Himachal Pradesh became a state of India on January 25, 1971, after the reorganization of the existing state of Himachal Pradesh.",
+               "The state is known as the 'Land of Gods' due to its numerous temples and religious sites.",
+               "Himachal Pradesh is home to several national parks and wildlife sanctuaries, including the Great Himalayan National Park and Pin Valley National Park.",
+               "The world's highest cricket ground, located in Chail, Himachal Pradesh, is situated at an altitude of 2,444 meters (8,018 feet).",
+               "Himachal Pradesh experiences a wide range of climates, from hot and sub-humid tropical in the southern low tracts to cold, alpine, and glacial in the northern mountain ranges.",
+               "The state is famous for its apples, and Himachal Pradesh accounts for a significant portion of India's apple production.",
+               "Himachal Pradesh has a rich cultural heritage with influences from Hinduism and Buddhism, resulting in a unique blend of traditions, art, and architecture.",
+               "The state is well-connected through a network of roads, railways, and airports, making it easily accessible for tourists.",
+               "Himachal Pradesh has been the shooting location for several Bollywood movies due to its stunning landscapes and picturesque settings."
+            ]
+         },
+         {
+            "id":26,
+            "title":"Uttarakhand",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Dehradun",
+                  "description":"Dehradun is the capital city of Uttarakhand and known for its scenic beauty and educational institutions."
+               },
+               {
+                  "id":2,
+                  "name":"Nainital",
+                  "description":"Nainital is a popular hill station in Uttarakhand, known for its beautiful lakes and breathtaking views."
+               },
+               {
+                  "id":3,
+                  "name":"Mussoorie",
+                  "description":"Mussoorie is a hill station in Uttarakhand, famous for its pleasant climate and panoramic views of the Himalayas."
+               },
+               {
+                  "id":4,
+                  "name":"Rishikesh",
+                  "description":"Rishikesh is a spiritual town in Uttarakhand, renowned for its yoga and meditation retreats."
+               },
+               {
+                  "id":5,
+                  "name":"Haridwar",
+                  "description":"Haridwar is a holy city in Uttarakhand, situated on the banks of the Ganges River and known for its religious significance."
+               },
+               {
+                  "id":6,
+                  "name":"Jim Corbett National Park",
+                  "description":"Jim Corbett National Park is a renowned wildlife sanctuary in Uttarakhand, famous for its tigers and diverse flora and fauna."
+               }
+            ],
+            "about":"Uttarakhand is a state located in the northern part of India. It is often referred to as the 'Land of the Gods' due to its numerous Hindu pilgrimage sites and breathtaking natural beauty. The state is known for its picturesque hill stations, sacred rivers, pristine lakes, and majestic Himalayan peaks. Uttarakhand offers a perfect blend of spirituality, adventure, and tranquility, making it a popular tourist destination.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Valley of Flowers",
+                  "description":"Valley of Flowers National Park is a UNESCO World Heritage site in Uttarakhand, famous for its vibrant alpine flowers and rich biodiversity.",
+                  "image":"https://images.unsplash.com/photo-1568476322922-3b8a79260d9f"
+               },
+               {
+                  "id":2,
+                  "name":"Badrinath Temple",
+                  "description":"Badrinath Temple is a prominent Hindu pilgrimage site in Uttarakhand, dedicated to Lord Vishnu.",
+                  "image":"https://images.unsplash.com/photo-1567225044239-b1a5e9f8f67b"
+               },
+               {
+                  "id":3,
+                  "name":"Kedarnath Temple",
+                  "description":"Kedarnath Temple is one of the holiest Hindu temples in Uttarakhand, situated at an altitude of 3,583 meters in the Garhwal Himalayas.",
+                  "image":"https://images.unsplash.com/photo-1568972663528-59167b0317c4"
+               },
+               {
+                  "id":4,
+                  "name":"Chopta",
+                  "description":"Chopta is a scenic hill station in Uttarakhand, popularly known as the 'Mini Switzerland' of India.",
+                  "image":"https://images.unsplash.com/photo-1573253448006-9818e3aeb7f6"
+               },
+               {
+                  "id":5,
+                  "name":"Rajaji National Park",
+                  "description":"Rajaji National Park is a tiger reserve and wildlife sanctuary in Uttarakhand, known for its diverse flora and fauna.",
+                  "image":"https://images.unsplash.com/photo-1562877863-583bbfbc06db"
+               },
+               {
+                  "id":6,
+                  "name":"Auli",
+                  "description":"Auli is a popular skiing destination in Uttarakhand, offering breathtaking views of the snow-capped Himalayan peaks.",
+                  "image":"https://images.unsplash.com/photo-1563801921-605a68b6a170"
+               },
+               {
+                  "id":7,
+                  "name":"Gangotri",
+                  "description":"Gangotri is a sacred town in Uttarakhand, situated on the banks of the Bhagirathi River and known as the source of the Ganges River.",
+                  "image":"https://images.unsplash.com/photo-1562887310-15d9b2e2f169"
+               },
+               {
+                  "id":8,
+                  "name":"Binsar Wildlife Sanctuary",
+                  "description":"Binsar Wildlife Sanctuary is a nature reserve in Uttarakhand, offering stunning views of the Himalayan peaks and home to various bird species.",
+                  "image":"https://images.unsplash.com/photo-1612021124577-819a912f076a"
+               },
+               {
+                  "id":9,
+                  "name":"Mukteshwar",
+                  "description":"Mukteshwar is a scenic town in Uttarakhand, known for its fruit orchards, ancient temples, and panoramic views of the Himalayas.",
+                  "image":"https://images.unsplash.com/photo-1592859581337-d89b3a0f4308"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Trekking in the Himalayas",
+                  "description":"Embark on a thrilling trekking adventure in the majestic Himalayan mountains of Uttarakhand.",
+                  "image":"https://images.unsplash.com/photo-1591613191292-cfd85a0a5924"
+               },
+               {
+                  "id":2,
+                  "name":"River Rafting in Rishikesh",
+                  "description":"Experience the adrenaline rush of river rafting in the holy city of Rishikesh, known as the 'Rafting Capital of India'.",
+                  "image":"https://images.unsplash.com/photo-1522080482104-6cc522eeb4a2"
+               },
+               {
+                  "id":3,
+                  "name":"Yoga and Meditation Retreats",
+                  "description":"Immerse yourself in the spiritual practices of yoga and meditation by joining a retreat in Uttarakhand's serene and tranquil environment.",
+                  "image":"https://images.unsplash.com/photo-1542973748-0e6921145589"
+               },
+               {
+                  "id":4,
+                  "name":"Cable Car Ride in Mussoorie",
+                  "description":"Enjoy a scenic cable car ride in Mussoorie, popularly known as the 'Queen of the Hills', offering panoramic views of the Himalayan foothills.",
+                  "image":"https://images.unsplash.com/photo-1602772841184-d3d74eaa14a9"
+               },
+               {
+                  "id":5,
+                  "name":"Wildlife Safari in Jim Corbett National Park",
+                  "description":"Embark on a wildlife safari in Jim Corbett National Park, one of the oldest national parks in India, and spot diverse wildlife including tigers, elephants, and more.",
+                  "image":"https://images.unsplash.com/photo-1563160438-9b7e746c2440"
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Kumaon Festival",
+                  "description":"Kumaon Festival is a vibrant cultural festival celebrated in Uttarakhand, showcasing traditional music, dance, and art forms of the region.",
+                  "image":"https://images.unsplash.com/photo-1605103645429-bdf3d9db6499"
+               },
+               {
+                  "id":2,
+                  "name":"Uttarayani Mela",
+                  "description":"Uttarayani Mela is a popular fair held in Uttarakhand, particularly in the town of Bageshwar, where people gather to celebrate and participate in various cultural activities.",
+                  "image":"https://images.unsplash.com/photo-1579378610880-cb4a91df40f5"
+               },
+               {
+                  "id":3,
+                  "name":"International Yoga Festival",
+                  "description":"The International Yoga Festival held in Rishikesh brings together yoga enthusiasts from around the world to learn, practice, and celebrate the ancient discipline of yoga.",
+                  "image":"https://images.unsplash.com/photo-1583735865271-80b8c501708b"
+               },
+               {
+                  "id":4,
+                  "name":"Makar Sankranti",
+                  "description":"Makar Sankranti is a major harvest festival celebrated in Uttarakhand, marking the transition of the sun into the zodiac sign of Capricorn and symbolizing new beginnings.",
+                  "image":"https://images.unsplash.com/photo-1610328910112-04e253aa70df"
+               },
+               {
+                  "id":5,
+                  "name":"Nanda Devi Raj Jat",
+                  "description":"Nanda Devi Raj Jat is a grand pilgrimage and cultural festival held once every 12 years in Uttarakhand, where devotees embark on a challenging trek to the Nanda Devi Temple.",
+                  "image":"https://images.unsplash.com/photo-1568334624932-8628d7ce9e57"
+               }
+            ],
+            "facts":[
+               "Uttarakhand was carved out of the state of Uttar Pradesh and came into existence as a separate state on November 9, 2000.",
+               "The state is often referred to as the 'Land of the Gods' due to its numerous Hindu pilgrimage sites and temples.",
+               "Uttarakhand is home to the 'Char Dham' pilgrimage circuit, which includes the sacred sites of Yamunotri, Gangotri, Kedarnath, and Badrinath.",
+               "The Jim Corbett National Park in Uttarakhand is India's oldest national park and a haven for Bengal tigers and other wildlife species.",
+               "The Valley of Flowers National Park in Uttarakhand is a UNESCO World Heritage Site known for its stunning meadows adorned with a vibrant variety of alpine flowers."
+            ]
+         },
+         {
+            "id":27,
+            "title":"Odisha",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Bhubaneswar",
+                  "description":"Bhubaneswar is the capital and largest city of Odisha."
+               },
+               {
+                  "id":2,
+                  "name":"Puri",
+                  "description":"Puri is a coastal city in Odisha, famous for the Jagannath Temple and Puri Beach."
+               },
+               {
+                  "id":3,
+                  "name":"Cuttack",
+                  "description":"Cuttack is a historic city in Odisha, known for its ancient temples and Durga Puja celebrations."
+               },
+               {
+                  "id":4,
+                  "name":"Konark",
+                  "description":"Konark is a town in Odisha, famous for the Sun Temple, a UNESCO World Heritage Site."
+               },
+               {
+                  "id":5,
+                  "name":"Rourkela",
+                  "description":"Rourkela is an industrial city in Odisha, known for its steel plants and educational institutions."
+               },
+               {
+                  "id":6,
+                  "name":"Sambalpur",
+                  "description":"Sambalpur is a city in Odisha, famous for the Hirakud Dam and Sambalpuri sarees."
+               }
+            ],
+            "about":"Odisha is a state located on the eastern coast of India, with Bhubaneswar as its capital. The state has a rich cultural heritage and is known for its ancient temples, pristine beaches, vibrant festivals, and exquisite handicrafts. Odisha is also home to several wildlife sanctuaries and national parks, offering opportunities for wildlife enthusiasts and nature lovers.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Jagannath Temple",
+                  "description":"Jagannath Temple is a famous Hindu temple in Puri, dedicated to Lord Jagannath, his brother Balabhadra, and sister Subhadra.",
+                  "image":"https://images.unsplash.com/photo-1585736938456-daae7d85a88b"
+               },
+               {
+                  "id":2,
+                  "name":"Sun Temple",
+                  "description":"Sun Temple in Konark is a UNESCO World Heritage Site known for its stunning architecture depicting the chariot of the Sun God.",
+                  "image":"https://images.unsplash.com/photo-1554474047-18ff5ccdd643"
+               },
+               {
+                  "id":3,
+                  "name":"Chilika Lake",
+                  "description":"Chilika Lake is a brackish water lagoon and the largest coastal lake in India, home to a rich variety of flora and fauna.",
+                  "image":"https://images.unsplash.com/photo-1623882798274-8c12b5b6751f"
+               },
+               {
+                  "id":4,
+                  "name":"Nandankanan Zoological Park",
+                  "description":"Nandankanan Zoological Park is a renowned zoo and botanical garden in Bhubaneswar, known for its white tigers and extensive flora.",
+                  "image":"https://images.unsplash.com/photo-1564013799917-4c1a380db8b6"
+               },
+               {
+                  "id":5,
+                  "name":"Hirakud Dam",
+                  "description":"Hirakud Dam is one of the longest earthen dams in the world, built across the Mahanadi River near Sambalpur.",
+                  "image":"https://images.unsplash.com/photo-1568036620669-c91a8d27c46a"
+               },
+               {
+                  "id":6,
+                  "name":"Simlipal National Park",
+                  "description":"Simlipal National Park is a tiger reserve and wildlife sanctuary in Odisha, known for its diverse flora and fauna.",
+                  "image":"https://images.unsplash.com/photo-1554722264-ef62b289b27c"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Konark Sun Temple",
+                  "description":"Visit the magnificent Konark Sun Temple, a UNESCO World Heritage site known for its architectural grandeur and intricate stone carvings.",
+                  "image":"https://images.unsplash.com/photo-1559848028-eb717f26b139"
+               },
+               {
+                  "id":2,
+                  "name":"Chilika Lake",
+                  "description":"Explore the picturesque Chilika Lake, the largest coastal lagoon in India and a haven for migratory birds and aquatic life.",
+                  "image":"https://images.unsplash.com/photo-1588667411515-bda8589a1607"
+               },
+               {
+                  "id":3,
+                  "name":"Puri Beach",
+                  "description":"Relax and unwind at Puri Beach, a popular seaside destination known for its golden sands, vibrant atmosphere, and beautiful sunsets.",
+                  "image":"https://images.unsplash.com/photo-1561361951-4b6f1b19ef04"
+               },
+               {
+                  "id":4,
+                  "name":"Lingaraja Temple",
+                  "description":"Visit the ancient Lingaraja Temple, one of the most revered Hindu temples in Odisha, known for its architectural brilliance and religious significance.",
+                  "image":"https://images.unsplash.com/photo-1592085106882-5b6ee3b3b736"
+               },
+               {
+                  "id":5,
+                  "name":"Nandankanan Zoological Park",
+                  "description":"Explore the Nandankanan Zoological Park, a wildlife sanctuary and botanical garden that houses a variety of animals, including the white tiger.",
+                  "image":"https://images.unsplash.com/photo-1570328775841-c82fc62c9abf"
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Rath Yatra",
+                  "description":"Witness the grand Rath Yatra in Puri, an annual chariot festival where Lord Jagannath, Lord Balabhadra, and Devi Subhadra are worshipped and pulled in decorated chariots.",
+                  "image":"https://images.unsplash.com/photo-1582526803791-ba50ca8e4ae9"
+               },
+               {
+                  "id":2,
+                  "name":"Durga Puja",
+                  "description":"Participate in the vibrant Durga Puja celebrations in Cuttack and Bhubaneswar, where beautifully crafted idols of Goddess Durga are worshipped during Navratri.",
+                  "image":"https://images.unsplash.com/photo-1602005181865-5e3eeb75f827"
+               },
+               {
+                  "id":3,
+                  "name":"Puri Beach Festival",
+                  "description":"Enjoy the Puri Beach Festival, a cultural extravaganza featuring performances, art exhibitions, sand art, and water sports, held annually at Puri Beach.",
+                  "image":"https://images.unsplash.com/photo-1526282299143-c7e2e8013847"
+               },
+               {
+                  "id":4,
+                  "name":"Odisha International Tribal Festival",
+                  "description":"Experience the rich tribal culture of Odisha at the Odisha International Tribal Festival, a vibrant event showcasing the traditional music, dance, art, and crafts of various tribal communities.",
+                  "image":"https://images.unsplash.com/photo-1558906332-0cc41b04734e"
+               },
+               {
+                  "id":5,
+                  "name":"Konark Dance Festival",
+                  "description":"Attend the Konark Dance Festival, a celebration of classical dance forms, held against the backdrop of the stunning Konark Sun Temple.",
+                  "image":"https://images.unsplash.com/photo-1574963622838-8e3a26b63e7b"
+               }
+            ],
+            "facts":[
+               "Odisha is known as the 'Soul of India' due to its rich cultural heritage, vibrant arts and crafts, and ancient temples.",
+               "The Odissi dance form, originating in Odisha, is one of the oldest surviving classical dance forms of India, known for its graceful movements and expressive storytelling.",
+               "Odisha is famous for its intricate silver filigree work, known as Tarakasi, which involves creating delicate jewelry and decorative items using fine silver wires.",
+               "The state of Odisha is home to numerous tribal communities, each with their distinct customs, traditions, and art forms, contributing to the diverse cultural landscape of the region.",
+               "The Jagannath Temple in Puri is one of the Char Dham pilgrimage sites and attracts millions of devotees and tourists every year for its religious significance and architectural marvel."
+            ]
+         },
+         {
+            "id":18,
+            "title":"Lakshadweep",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Kavaratti",
+                  "description":"Kavaratti is the capital and most populous city of Lakshadweep."
+               },
+               {
+                  "id":2,
+                  "name":"Agatti",
+                  "description":"Agatti is a beautiful island in Lakshadweep, known for its pristine beaches and coral reefs."
+               },
+               {
+                  "id":3,
+                  "name":"Bangaram",
+                  "description":"Bangaram is an uninhabited island in Lakshadweep, popular among tourists for its picturesque beauty and water sports."
+               },
+               {
+                  "id":4,
+                  "name":"Minicoy",
+                  "description":"Minicoy is the southernmost inhabited island in Lakshadweep, famous for its traditional culture and scenic landscapes."
+               },
+               {
+                  "id":5,
+                  "name":"Kalpeni",
+                  "description":"Kalpeni is a group of small islands in Lakshadweep, known for its lagoons and coral-rich marine life."
+               }
+            ],
+            "about":"Lakshadweep is a union territory of India consisting of a group of islands located in the Arabian Sea. It is the smallest union territory of India both in terms of land area and population. The islands of Lakshadweep are known for their pristine beaches, crystal-clear waters, and rich marine biodiversity. The local culture of Lakshadweep is influenced by a blend of Maldivian, Arab, and South Indian traditions.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Kavaratti Island",
+                  "description":"Kavaratti Island is the administrative capital of Lakshadweep and offers beautiful beaches, water sports, and a rich marine ecosystem for diving enthusiasts.",
+                  "image":"https://example.com/kavaratti.jpg"
+               },
+               {
+                  "id":2,
+                  "name":"Agatti Island",
+                  "description":"Agatti Island is known for its stunning coral reefs, turquoise lagoons, and water activities like snorkeling and scuba diving.",
+                  "image":"https://example.com/agatti.jpg"
+               },
+               {
+                  "id":3,
+                  "name":"Bangaram Island",
+                  "description":"Bangaram Island is an uninhabited paradise with white sandy beaches, clear waters, and an ideal spot for relaxation and water sports.",
+                  "image":"https://example.com/bangaram.jpg"
+               },
+               {
+                  "id":4,
+                  "name":"Minicoy Island",
+                  "description":"Minicoy Island offers scenic beauty, pristine beaches, and an opportunity to experience the unique culture of the Maldivian-descended community.",
+                  "image":"https://example.com/minicoy.jpg"
+               },
+               {
+                  "id":5,
+                  "name":"Kalpeni Island",
+                  "description":"Kalpeni Island is known for its beautiful lagoons, coral reefs, and the unique folk dances and traditions of the local people.",
+                  "image":"https://example.com/kalpeni.jpg"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Snorkeling",
+                  "description":"Explore the vibrant marine life of Lakshadweep by snorkeling in the crystal-clear waters."
+               },
+               {
+                  "id":2,
+                  "name":"Scuba Diving",
+                  "description":"Dive into the depths of Lakshadweep's oceans and discover the diverse coral reefs and marine species."
+               },
+               {
+                  "id":3,
+                  "name":"Island Hopping",
+                  "description":"Visit multiple islands in Lakshadweep to experience their unique charms and natural beauty."
+               },
+               {
+                  "id":4,
+                  "name":"Beach Camping",
+                  "description":"Indulge in a tranquil camping experience on the picturesque beaches of Lakshadweep."
+               },
+               {
+                  "id":5,
+                  "name":"Fishing",
+                  "description":"Engage in recreational fishing and experience the traditional fishing techniques of the locals."
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Lakshadweep Tourism Festival",
+                  "description":"A vibrant festival showcasing the cultural heritage, traditional arts, and cuisine of Lakshadweep.",
+                  "date":"December 1-10"
+               },
+               {
+                  "id":2,
+                  "name":"Island Sports Festival",
+                  "description":"An exciting sporting event featuring water sports competitions, beach volleyball, and traditional games.",
+                  "date":"March 15-20"
+               },
+               {
+                  "id":3,
+                  "name":"Lakshadweep Boat Race",
+                  "description":"Witness thrilling boat races between local teams showcasing their rowing skills and teamwork.",
+                  "date":"August 10-12"
+               }
+            ],
+            "facts":[
+               "Lakshadweep is the only coral atoll in India.",
+               "Lakshadweep means 'a hundred thousand islands' in Malayalam, the local language.",
+               "The islands of Lakshadweep are of great ecological significance and are home to several endangered species, including sea turtles and corals.",
+               "Lakshadweep is a popular destination for honeymooners and nature enthusiasts.",
+               "The local cuisine of Lakshadweep offers a delightful range of seafood delicacies, including fresh fish, lobsters, and prawns.",
+               "Lakshadweep has been declared a biodiversity hotspot by UNESCO."
+            ]
+         },
+         {
+            "id":29,
+            "title":"Haryana",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Chandigarh",
+                  "description":"Chandigarh is a Union Territory and serves as the joint capital of Haryana and Punjab."
+               },
+               {
+                  "id":2,
+                  "name":"Gurugram",
+                  "description":"Gurugram, also known as Gurgaon, is a major financial and technology hub in Haryana."
+               },
+               {
+                  "id":3,
+                  "name":"Faridabad",
+                  "description":"Faridabad is the largest city in Haryana and is known for its industrial and manufacturing sectors."
+               },
+               {
+                  "id":4,
+                  "name":"Hisar",
+                  "description":"Hisar is an ancient city in Haryana, known for its historical and archaeological significance."
+               },
+               {
+                  "id":5,
+                  "name":"Karnal",
+                  "description":"Karnal is a city in Haryana, famous for its agricultural research institutions and historical sites."
+               },
+               {
+                  "id":6,
+                  "name":"Panipat",
+                  "description":"Panipat is a historic city in Haryana, known for its textile and handloom industries."
+               }
+            ],
+            "about":"Haryana is a state in northern India, bordered by Punjab and Himachal Pradesh to the north and Rajasthan to the west and south. It is known for its rich history, vibrant culture, and rapid industrialization. The state has witnessed significant agricultural development and is often referred to as the 'Granary of India.' Haryana is also home to modern cities, important pilgrimage sites, and traditional arts and crafts.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Sultanpur National Park",
+                  "description":"Sultanpur National Park is a bird sanctuary near Gurugram, attracting a wide variety of migratory birds.",
+                  "image":"https://images.unsplash.com/photo-1581794338709-b1c63cf98e23?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Kurukshetra",
+                  "description":"Kurukshetra is a sacred city in Haryana, known for its association with the ancient epic, Mahabharata.",
+                  "image":"https://images.unsplash.com/photo-1602275480574-5b32db839d20?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Badkhal Lake",
+                  "description":"Badkhal Lake is a picturesque lake near Faridabad, offering boating and recreational activities.",
+                  "image":"https://images.unsplash.com/photo-1600050212320-14828b33c0a9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1772&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Pinjore Gardens",
+                  "description":"Pinjore Gardens, also known as Yadavindra Gardens, is a historic Mughal garden in Haryana.",
+                  "image":"https://images.unsplash.com/photo-1577642590377-34d3c2a65dd7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Surajkund",
+                  "description":"Surajkund is an ancient reservoir in Faridabad, famous for the annual Surajkund Crafts Mela.",
+                  "image":"https://images.unsplash.com/photo-1541061254141-94c9a0ac2a6b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Visit Sultanpur National Park",
+                  "description":"Explore the bird sanctuary near Gurugram and observe a wide variety of migratory birds.",
+                  "image":"https://images.unsplash.com/photo-1581794338709-b1c63cf98e23?ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Explore Kurukshetra",
+                  "description":"Visit the sacred city associated with the ancient epic, Mahabharata, and learn about its historical and religious significance.",
+                  "image":"https://images.unsplash.com/photo-1602275480574-5b32db839d20?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Enjoy Badkhal Lake",
+                  "description":"Relax at the picturesque lake near Faridabad, indulge in boating, and partake in recreational activities.",
+                  "image":"https://images.unsplash.com/photo-1600050212320-14828b33c0a9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1772&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Visit Pinjore Gardens",
+                  "description":"Explore the historic Mughal garden, also known as Yadavindra Gardens, and marvel at its architectural beauty.",
+                  "image":"https://images.unsplash.com/photo-1577642590377-34d3c2a65dd7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Experience Surajkund Crafts Mela",
+                  "description":"Attend the annual Surajkund Crafts Mela held in Faridabad and witness the vibrant display of traditional handicrafts and cultural performances.",
+                  "image":"https://images.unsplash.com/photo-1541061254141-94c9a0ac2a6b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Haryana Day",
+                  "description":"Celebrate the formation of Haryana state on November 1st each year with cultural events, parades, and exhibitions.",
+                  "date":"November 1st",
+                  "image":"https://images.unsplash.com/photo-1566287702775-d1d1e611f34d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Surajkund International Crafts Mela",
+                  "description":"Attend one of the largest crafts fairs in the world held annually in February in Faridabad, showcasing traditional art, crafts, and cultural performances.",
+                  "date":"February",
+                  "image":"https://images.unsplash.com/photo-1518504909709-06ec8eef03c2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Gita Jayanti",
+                  "description":"Participate in the celebration of the birth of the holy scripture Bhagavad Gita in Kurukshetra with recitals, religious discourses, and cultural programs.",
+                  "date":"November/December",
+                  "image":"https://images.unsplash.com/photo-1603676166356-41348e9f2ff3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               }
+            ],
+            "facts":[
+               "Haryana was formed on November 1, 1966, as a separate state of India.",
+               "The state of Haryana has the third-highest per capita income in India.",
+               "Haryana is known for its agricultural productivity and is often referred to as the 'Granary of India.'",
+               "Gurugram, a city in Haryana, is home to numerous multinational companies and is a major corporate and financial hub.",
+               "Haryana is famous for its traditional art and craft forms, including Phulkari embroidery, pottery, and woodwork."
+            ]
+         },
+         {
+            "id":30,
+            "title":"Andaman and Nicobar Islands",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Port Blair",
+                  "description":"Port Blair is the capital city of the Andaman and Nicobar Islands."
+               },
+               {
+                  "id":2,
+                  "name":"Havelock Island",
+                  "description":"Havelock Island is a popular tourist destination in the Andaman and Nicobar Islands, known for its beautiful beaches."
+               },
+               {
+                  "id":3,
+                  "name":"Neil Island",
+                  "description":"Neil Island is a serene island in the Andaman and Nicobar Islands, famous for its coral reefs and biodiversity."
+               },
+               {
+                  "id":4,
+                  "name":"Diglipur",
+                  "description":"Diglipur is the largest town in North Andaman Island, known for its scenic beauty and eco-tourism."
+               },
+               {
+                  "id":5,
+                  "name":"Mayabunder",
+                  "description":"Mayabunder is a town in the Andaman and Nicobar Islands, surrounded by mangrove forests and pristine beaches."
+               },
+               {
+                  "id":6,
+                  "name":"Rangat",
+                  "description":"Rangat is a town in the Middle Andaman Island, famous for its beautiful beaches and nature trails."
+               }
+            ],
+            "about":"The Andaman and Nicobar Islands are a group of islands at the southeastern edge of the Bay of Bengal. The islands are known for their pristine white-sand beaches, crystal-clear waters, and diverse marine life. The capital city, Port Blair, is the gateway to the islands and also houses the historic Cellular Jail, a former colonial prison. The islands offer opportunities for water sports, scuba diving, and exploring tropical rainforests.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Cellular Jail",
+                  "description":"The Cellular Jail, also known as Kala Pani, is a historic colonial prison in Port Blair that played a significant role in India's struggle for independence.",
+                  "image":"https://images.unsplash.com/photo-1630569688747-0e3b60f6430f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1828&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Radhanagar Beach",
+                  "description":"Radhanagar Beach on Havelock Island is consistently ranked as one of the best beaches in Asia, with its turquoise waters and powdery white sand.",
+                  "image":"https://images.unsplash.com/photo-1599325601183-042bed55081c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1856&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Elephant Beach",
+                  "description":"Elephant Beach, located on Havelock Island, is known for its vibrant coral reefs and opportunities for snorkeling and scuba diving.",
+                  "image":"https://images.unsplash.com/photo-1514180014900-492806bf62a7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Ross Island",
+                  "description":"Ross Island, near Port Blair, is a historic site with remnants of British colonial architecture and a rich biodiversity.",
+                  "image":"https://images.unsplash.com/photo-1632368384107-b8c3b99104e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1185&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Baratang Island",
+                  "description":"Baratang Island is known for its limestone caves, mangrove forests, and the unique phenomenon of mud volcanoes.",
+                  "image":"https://images.unsplash.com/photo-1490921045028-16ab0b47b757?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=872&q=80"
+               },
+               {
+                  "id":6,
+                  "name":"Chidiya Tapu",
+                  "description":"Chidiya Tapu, also known as the Bird Island, is a popular spot for birdwatching and witnessing breathtaking sunsets.",
+                  "image":"https://images.unsplash.com/photo-1540544660406-6a69dacb2804?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1928&q=80"
+               }
+            ],
+            "weather":"The Andaman and Nicobar Islands have a tropical climate with warm temperatures throughout the year. The average temperature ranges from 23°C (73°F) to 31°C (88°F). The islands experience two main seasons: the wet season from May to October, characterized by heavy rainfall and occasional cyclones, and the dry season from November to April, with milder temperatures and lower humidity. The best time to visit is during the dry season when the weather is pleasant and suitable for outdoor activities.",
+            "currency":"The official currency of India, including the Andaman and Nicobar Islands, is the Indian Rupee (INR). It is advisable to carry sufficient cash, especially when visiting remote areas or smaller towns, as card payment facilities may be limited.",
+            "language":"The primary language spoken in the Andaman and Nicobar Islands is Hindi. English is also widely spoken, especially in tourist areas, hotels, and restaurants.",
+            "electricity":"The standard voltage in the Andaman and Nicobar Islands is 230V. The power plugs and sockets used are of type C, D, and M. It is recommended to bring a universal travel adapter if your devices have different plug types.",
+            "emergency":"In case of emergencies, dial 100 for police assistance, 102 for medical emergencies, and 101 for the fire department.",
+            "time_zone":"The Andaman and Nicobar Islands follow Indian Standard Time (IST), which is UTC+5:30.",
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Scuba Diving",
+                  "description":"Explore the vibrant coral reefs and diverse marine life through scuba diving in the crystal-clear waters of the Andaman Sea.",
+                  "image":"https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Snorkeling",
+                  "description":"Snorkel in the shallow waters and discover the beautiful coral gardens and tropical fish species that inhabit the Andaman Islands.",
+                  "image":"https://images.unsplash.com/photo-1683009427666-340595e57e43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Island Hopping",
+                  "description":"Embark on an island-hopping adventure and visit picturesque islands like Havelock, Neil, and Ross Island, each with its unique charm and attractions.",
+                  "image":"https://images.unsplash.com/photo-1598255036907-48dc65e2f339?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Beach Relaxation",
+                  "description":"Unwind on the pristine white-sand beaches of the Andaman Islands, soak up the sun, and enjoy the tranquility of the surrounding nature.",
+                  "image":"https://plus.unsplash.com/premium_photo-1661964071210-6944841e2e87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Jungle Trekking",
+                  "description":"Embark on thrilling jungle treks in places like Mount Harriet National Park and spot unique flora, fauna, and breathtaking viewpoints.",
+                  "image":"https://plus.unsplash.com/premium_photo-1661964071210-6944841e2e87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Island Tourism Festival",
+                  "description":"The Island Tourism Festival is an annual event that showcases the cultural heritage, arts, crafts, music, and dance of the Andaman and Nicobar Islands.",
+                  "image":"https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Subhash Mela",
+                  "description":"Subhash Mela is a tribute to Netaji Subhash Chandra Bose, a prominent freedom fighter, and is celebrated with cultural programs and exhibitions.",
+                  "image":"https://images.unsplash.com/photo-1560849566-a36b74f920e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Music and Dance Festival",
+                  "description":"The Music and Dance Festival celebrates the rich cultural heritage of the Andaman and Nicobar Islands, featuring traditional music, dance performances, and local art forms.",
+                  "image":"https://plus.unsplash.com/premium_photo-1661299366011-bb9f86212bdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Island New Year Carnival",
+                  "description":"The Island New Year Carnival is a vibrant celebration with parades, cultural performances, live music, food stalls, and fireworks to welcome the New Year.",
+                  "image":"https://images.unsplash.com/photo-1550983551-894c0d3e4182?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1180&q=80"
+               }
+            ],
+            "facts":[
+               "The Andaman and Nicobar Islands are an archipelago of 572 islands located in the Bay of Bengal, with only 37 islands inhabited by humans.",
+               "The islands are home to some of the world's most pristine and untouched beaches, including Radhanagar Beach, which has been named one of the best beaches in Asia.",
+               "The Andaman and Nicobar Islands are known for their rich biodiversity, with numerous endemic species and marine life, making them a paradise for nature lovers and wildlife enthusiasts.",
+               "Cellular Jail, located in Port Blair, was a colonial prison used by the British to exile political prisoners during India's struggle for independence. It now serves as a national memorial.",
+               "The islands offer a range of water sports and adventure activities, including sea kayaking, jet skiing, parasailing, and deep-sea fishing, attracting thrill-seekers from around the world.",
+               "The indigenous tribes of the Andaman and Nicobar Islands have a unique cultural heritage and are protected by strict regulations to preserve their way of life and maintain their isolation."
+            ]
          }
       ]
    }
